@@ -1,0 +1,596 @@
+[
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "Bateria-extra-ecoflow-delta-3-pro.webp",
+    "slug": "bateria-extra-ecoflow-delta-3-pro",
+    "urlPath": "/images/01_estaciones_generadores/Bateria-extra-ecoflow-delta-3-pro.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "Bateria-inteligente-adicional-ecoflow-delta-2.webp",
+    "slug": "bateria-inteligente-adicional-ecoflow-delta-2",
+    "urlPath": "/images/01_estaciones_generadores/Bateria-inteligente-adicional-ecoflow-delta-2.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "Bluetti-Ac70.webp",
+    "slug": "bluetti-ac70",
+    "urlPath": "/images/01_estaciones_generadores/Bluetti-Ac70.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "Bluetti-elite-200.webp",
+    "slug": "bluetti-elite-200",
+    "urlPath": "/images/01_estaciones_generadores/Bluetti-elite-200.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "Daranener-neo-2000w-3000-pico.webp",
+    "slug": "daranener-neo-2000w-3000-pico",
+    "urlPath": "/images/01_estaciones_generadores/Daranener-neo-2000w-3000-pico.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "EcoFlow-delta-3-plus.webp",
+    "slug": "ecoflow-delta-3-plus",
+    "urlPath": "/images/01_estaciones_generadores/EcoFlow-delta-3-plus.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "EcoFlow-delta-3.webp",
+    "slug": "ecoflow-delta-3",
+    "urlPath": "/images/01_estaciones_generadores/EcoFlow-delta-3.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "Oupes-1500watts-pico-3600watts-+panel-solar.webp",
+    "slug": "oupes-1500watts-pico-3600watts-+panel-solar",
+    "urlPath": "/images/01_estaciones_generadores/Oupes-1500watts-pico-3600watts-+panel-solar.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "Oupes-1500watts-pico-3600watts.webp",
+    "slug": "oupes-1500watts-pico-3600watts",
+    "urlPath": "/images/01_estaciones_generadores/Oupes-1500watts-pico-3600watts.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "Oupes-2400w-4000w.webp",
+    "slug": "oupes-2400w-4000w",
+    "urlPath": "/images/01_estaciones_generadores/Oupes-2400w-4000w.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "Oupes-2400w-con-panel-solar.webp",
+    "slug": "oupes-2400w-con-panel-solar",
+    "urlPath": "/images/01_estaciones_generadores/Oupes-2400w-con-panel-solar.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "Oupes-600w-pico-1200w.webp",
+    "slug": "oupes-600w-pico-1200w",
+    "urlPath": "/images/01_estaciones_generadores/Oupes-600w-pico-1200w.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "Panel-solar-Longi-solar-energy-610w.webp",
+    "slug": "panel-solar-longi-solar-energy-610w",
+    "urlPath": "/images/01_estaciones_generadores/Panel-solar-Longi-solar-energy-610w.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "Planta-Zasc-1500-watts.webp",
+    "slug": "planta-zasc-1500-watts",
+    "urlPath": "/images/01_estaciones_generadores/Planta-Zasc-1500-watts.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "ecoflow-delta-2-con-panel-solar.webp",
+    "slug": "ecoflow-delta-2-con-panel-solar",
+    "urlPath": "/images/01_estaciones_generadores/ecoflow-delta-2-con-panel-solar.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "ecoflow-delta-2.webp",
+    "slug": "ecoflow-delta-2",
+    "urlPath": "/images/01_estaciones_generadores/ecoflow-delta-2.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "ecoflow-delta-3-classic-con-panel-solar.webp",
+    "slug": "ecoflow-delta-3-classic-con-panel-solar",
+    "urlPath": "/images/01_estaciones_generadores/ecoflow-delta-3-classic-con-panel-solar.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "ecoflow-delta-3-classic.webp",
+    "slug": "ecoflow-delta-3-classic",
+    "urlPath": "/images/01_estaciones_generadores/ecoflow-delta-3-classic.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "ecoflow-delta-3max-+panel-solar.webp",
+    "slug": "ecoflow-delta-3max-+panel-solar",
+    "urlPath": "/images/01_estaciones_generadores/ecoflow-delta-3max-+panel-solar.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "ecoflow-delta-pro-3.webp",
+    "slug": "ecoflow-delta-pro-3",
+    "urlPath": "/images/01_estaciones_generadores/ecoflow-delta-pro-3.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "ecoflow-river-2-max.webp",
+    "slug": "ecoflow-river-2-max",
+    "urlPath": "/images/01_estaciones_generadores/ecoflow-river-2-max.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "ecoflow-river-3-plus.webp",
+    "slug": "ecoflow-river-3-plus",
+    "urlPath": "/images/01_estaciones_generadores/ecoflow-river-3-plus.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "ecoflow-river-3.webp",
+    "slug": "ecoflow-river-3",
+    "urlPath": "/images/01_estaciones_generadores/ecoflow-river-3.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "estacion-de-energia-bluetti-ac180p.webp",
+    "slug": "estacion-de-energia-bluetti-ac180p",
+    "urlPath": "/images/01_estaciones_generadores/estacion-de-energia-bluetti-ac180p.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "estacion-de-energia-bluetti-ac200max.webp",
+    "slug": "estacion-de-energia-bluetti-ac200max",
+    "urlPath": "/images/01_estaciones_generadores/estacion-de-energia-bluetti-ac200max.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "jackery-explorer-300w.webp",
+    "slug": "jackery-explorer-300w",
+    "urlPath": "/images/01_estaciones_generadores/jackery-explorer-300w.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "planta-diesel-5500-la-prefer.webp",
+    "slug": "planta-diesel-5500-la-prefer",
+    "urlPath": "/images/01_estaciones_generadores/planta-diesel-5500-la-prefer.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "planta-electrica-generac-3600watts.webp",
+    "slug": "planta-electrica-generac-3600watts",
+    "urlPath": "/images/01_estaciones_generadores/planta-electrica-generac-3600watts.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "planta-electrica-pulsar-10kwatts.webp",
+    "slug": "planta-electrica-pulsar-10kwatts",
+    "urlPath": "/images/01_estaciones_generadores/planta-electrica-pulsar-10kwatts.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "planta-electrica-pulsar-4kwatts.webp",
+    "slug": "planta-electrica-pulsar-4kwatts",
+    "urlPath": "/images/01_estaciones_generadores/planta-electrica-pulsar-4kwatts.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "planta-electrica-silenciosa-5kwatts.webp",
+    "slug": "planta-electrica-silenciosa-5kwatts",
+    "urlPath": "/images/01_estaciones_generadores/planta-electrica-silenciosa-5kwatts.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "planta-q7.webp",
+    "slug": "planta-q7",
+    "urlPath": "/images/01_estaciones_generadores/planta-q7.webp"
+  },
+  {
+    "categoryKey": "01_estaciones_generadores",
+    "filename": "planta-zasc-3500-watts.webp",
+    "slug": "planta-zasc-3500-watts",
+    "urlPath": "/images/01_estaciones_generadores/planta-zasc-3500-watts.webp"
+  },
+  {
+    "categoryKey": "02_refrigeradores",
+    "filename": "Nevera-milexus-6pies.webp",
+    "slug": "nevera-milexus-6pies",
+    "urlPath": "/images/02_refrigeradores/Nevera-milexus-6pies.webp"
+  },
+  {
+    "categoryKey": "02_refrigeradores",
+    "filename": "Nevera-royal-10pies.webp",
+    "slug": "nevera-royal-10pies",
+    "urlPath": "/images/02_refrigeradores/Nevera-royal-10pies.webp"
+  },
+  {
+    "categoryKey": "02_refrigeradores",
+    "filename": "Nevera-royal-5.5pies.webp",
+    "slug": "nevera-royal-5.5pies",
+    "urlPath": "/images/02_refrigeradores/Nevera-royal-5.5pies.webp"
+  },
+  {
+    "categoryKey": "02_refrigeradores",
+    "filename": "Refrigerador-Eko-16pies.webp",
+    "slug": "refrigerador-eko-16pies",
+    "urlPath": "/images/02_refrigeradores/Refrigerador-Eko-16pies.webp"
+  },
+  {
+    "categoryKey": "02_refrigeradores",
+    "filename": "Refrigerador-LG-14-pies.webp",
+    "slug": "refrigerador-lg-14-pies",
+    "urlPath": "/images/02_refrigeradores/Refrigerador-LG-14-pies.webp"
+  },
+  {
+    "categoryKey": "02_refrigeradores",
+    "filename": "Refrigerador-Lg-10-pies.webp",
+    "slug": "refrigerador-lg-10-pies",
+    "urlPath": "/images/02_refrigeradores/Refrigerador-Lg-10-pies.webp"
+  },
+  {
+    "categoryKey": "02_refrigeradores",
+    "filename": "Refrigerador-Lg-7pies.webp",
+    "slug": "refrigerador-lg-7pies",
+    "urlPath": "/images/02_refrigeradores/Refrigerador-Lg-7pies.webp"
+  },
+  {
+    "categoryKey": "02_refrigeradores",
+    "filename": "Refrigerador-Wynwood-13-pies.webp",
+    "slug": "refrigerador-wynwood-13-pies",
+    "urlPath": "/images/02_refrigeradores/Refrigerador-Wynwood-13-pies.webp"
+  },
+  {
+    "categoryKey": "02_refrigeradores",
+    "filename": "Refrigerador-Wynwood-17pies.webp",
+    "slug": "refrigerador-wynwood-17pies",
+    "urlPath": "/images/02_refrigeradores/Refrigerador-Wynwood-17pies.webp"
+  },
+  {
+    "categoryKey": "02_refrigeradores",
+    "filename": "Refrigerador-royal-8.5pies.webp",
+    "slug": "refrigerador-royal-8.5pies",
+    "urlPath": "/images/02_refrigeradores/Refrigerador-royal-8.5pies.webp"
+  },
+  {
+    "categoryKey": "02_refrigeradores",
+    "filename": "Refrigerador-wynwood-14-pies.webp",
+    "slug": "refrigerador-wynwood-14-pies",
+    "urlPath": "/images/02_refrigeradores/Refrigerador-wynwood-14-pies.webp"
+  },
+  {
+    "categoryKey": "02_refrigeradores",
+    "filename": "nevera-6-pies-milexus.jpg.webp",
+    "slug": "nevera-6-pies-milexus.jpg",
+    "urlPath": "/images/02_refrigeradores/nevera-6-pies-milexus.jpg.webp"
+  },
+  {
+    "categoryKey": "02_refrigeradores",
+    "filename": "nevera-milexus-7pies.webp",
+    "slug": "nevera-milexus-7pies",
+    "urlPath": "/images/02_refrigeradores/nevera-milexus-7pies.webp"
+  },
+  {
+    "categoryKey": "02_refrigeradores",
+    "filename": "nevera-premium-5.5pies.webp",
+    "slug": "nevera-premium-5.5pies",
+    "urlPath": "/images/02_refrigeradores/nevera-premium-5.5pies.webp"
+  },
+  {
+    "categoryKey": "02_refrigeradores",
+    "filename": "nevera-royal-3.5pies.webp",
+    "slug": "nevera-royal-3.5pies",
+    "urlPath": "/images/02_refrigeradores/nevera-royal-3.5pies.webp"
+  },
+  {
+    "categoryKey": "02_refrigeradores",
+    "filename": "nevera-royal-7.8pies.webp",
+    "slug": "nevera-royal-7.8pies",
+    "urlPath": "/images/02_refrigeradores/nevera-royal-7.8pies.webp"
+  },
+  {
+    "categoryKey": "03_lavadoras",
+    "filename": "Lavadora-automatica-11kg-royal.webp",
+    "slug": "lavadora-automatica-11kg-royal",
+    "urlPath": "/images/03_lavadoras/Lavadora-automatica-11kg-royal.webp"
+  },
+  {
+    "categoryKey": "03_lavadoras",
+    "filename": "Lavadora-semiautomatica-13-kg.webp",
+    "slug": "lavadora-semiautomatica-13-kg",
+    "urlPath": "/images/03_lavadoras/Lavadora-semiautomatica-13-kg.webp"
+  },
+  {
+    "categoryKey": "03_lavadoras",
+    "filename": "Lavadora-semiautomatica-eko-8kg.webp",
+    "slug": "lavadora-semiautomatica-eko-8kg",
+    "urlPath": "/images/03_lavadoras/Lavadora-semiautomatica-eko-8kg.webp"
+  },
+  {
+    "categoryKey": "03_lavadoras",
+    "filename": "Lavadora-semiautomatica-royal-10.5kg.webp",
+    "slug": "lavadora-semiautomatica-royal-10.5kg",
+    "urlPath": "/images/03_lavadoras/Lavadora-semiautomatica-royal-10.5kg.webp"
+  },
+  {
+    "categoryKey": "03_lavadoras",
+    "filename": "Lavadora-semiautomatica-royal-7.5kg.webp",
+    "slug": "lavadora-semiautomatica-royal-7.5kg",
+    "urlPath": "/images/03_lavadoras/Lavadora-semiautomatica-royal-7.5kg.webp"
+  },
+  {
+    "categoryKey": "03_lavadoras",
+    "filename": "lavadora-automatica-9kg-royal.webp",
+    "slug": "lavadora-automatica-9kg-royal",
+    "urlPath": "/images/03_lavadoras/lavadora-automatica-9kg-royal.webp"
+  },
+  {
+    "categoryKey": "03_lavadoras",
+    "filename": "lavadora-automatica-milexus-7.5kg.webp",
+    "slug": "lavadora-automatica-milexus-7.5kg",
+    "urlPath": "/images/03_lavadoras/lavadora-automatica-milexus-7.5kg.webp"
+  },
+  {
+    "categoryKey": "03_lavadoras",
+    "filename": "lavadora-semiautomatica-milexus-9kg.webp",
+    "slug": "lavadora-semiautomatica-milexus-9kg",
+    "urlPath": "/images/03_lavadoras/lavadora-semiautomatica-milexus-9kg.webp"
+  },
+  {
+    "categoryKey": "03_lavadoras",
+    "filename": "lavadora-semiautomatica-premier-9kg.webp",
+    "slug": "lavadora-semiautomatica-premier-9kg",
+    "urlPath": "/images/03_lavadoras/lavadora-semiautomatica-premier-9kg.webp"
+  },
+  {
+    "categoryKey": "04_cocinas",
+    "filename": "Cafetera-electrica-6-tazas.webp",
+    "slug": "cafetera-electrica-6-tazas",
+    "urlPath": "/images/04_cocinas/Cafetera-electrica-6-tazas.webp"
+  },
+  {
+    "categoryKey": "04_cocinas",
+    "filename": "Cocina-con-horno-milexus.webp",
+    "slug": "cocina-con-horno-milexus",
+    "urlPath": "/images/04_cocinas/Cocina-con-horno-milexus.webp"
+  },
+  {
+    "categoryKey": "04_cocinas",
+    "filename": "Cocina-de-induccion-lotus.webp",
+    "slug": "cocina-de-induccion-lotus",
+    "urlPath": "/images/04_cocinas/Cocina-de-induccion-lotus.webp"
+  },
+  {
+    "categoryKey": "04_cocinas",
+    "filename": "Cocina-de-induccion-wynwood-2-quemadores.webp",
+    "slug": "cocina-de-induccion-wynwood-2-quemadores",
+    "urlPath": "/images/04_cocinas/Cocina-de-induccion-wynwood-2-quemadores.webp"
+  },
+  {
+    "categoryKey": "04_cocinas",
+    "filename": "Cocina-de-induccion-wynwood.webp",
+    "slug": "cocina-de-induccion-wynwood",
+    "urlPath": "/images/04_cocinas/Cocina-de-induccion-wynwood.webp"
+  },
+  {
+    "categoryKey": "04_cocinas",
+    "filename": "Cocina-milexus-infrarojo.webp",
+    "slug": "cocina-milexus-infrarojo",
+    "urlPath": "/images/04_cocinas/Cocina-milexus-infrarojo.webp"
+  },
+  {
+    "categoryKey": "04_cocinas",
+    "filename": "Microondas-20l-milexus.webp",
+    "slug": "microondas-20l-milexus",
+    "urlPath": "/images/04_cocinas/Microondas-20l-milexus.webp"
+  },
+  {
+    "categoryKey": "04_cocinas",
+    "filename": "Olla-arrocera-milexus-2.2L.webp",
+    "slug": "olla-arrocera-milexus-2.2l",
+    "urlPath": "/images/04_cocinas/Olla-arrocera-milexus-2.2L.webp"
+  },
+  {
+    "categoryKey": "04_cocinas",
+    "filename": "Olla-reina-milexus-6L.webp",
+    "slug": "olla-reina-milexus-6l",
+    "urlPath": "/images/04_cocinas/Olla-reina-milexus-6L.webp"
+  },
+  {
+    "categoryKey": "04_cocinas",
+    "filename": "Olla-reina-wynwood-6L.webp",
+    "slug": "olla-reina-wynwood-6l",
+    "urlPath": "/images/04_cocinas/Olla-reina-wynwood-6L.webp"
+  },
+  {
+    "categoryKey": "04_cocinas",
+    "filename": "freidora-de-aire-milexus.webp",
+    "slug": "freidora-de-aire-milexus",
+    "urlPath": "/images/04_cocinas/freidora-de-aire-milexus.webp"
+  },
+  {
+    "categoryKey": "04_cocinas",
+    "filename": "freidora-de-aire-premier.webp",
+    "slug": "freidora-de-aire-premier",
+    "urlPath": "/images/04_cocinas/freidora-de-aire-premier.webp"
+  },
+  {
+    "categoryKey": "04_cocinas",
+    "filename": "juego-de-ollas-de-induccion.webp",
+    "slug": "juego-de-ollas-de-induccion",
+    "urlPath": "/images/04_cocinas/juego-de-ollas-de-induccion.webp"
+  },
+  {
+    "categoryKey": "04_cocinas",
+    "filename": "olla-arrocera-wynwood-1.8L.webp",
+    "slug": "olla-arrocera-wynwood-1.8l",
+    "urlPath": "/images/04_cocinas/olla-arrocera-wynwood-1.8L.webp"
+  },
+  {
+    "categoryKey": "05_ventilacion",
+    "filename": "Split-milexus-1.5-toneladas.webp",
+    "slug": "split-milexus-1.5-toneladas",
+    "urlPath": "/images/05_ventilacion/Split-milexus-1.5-toneladas.webp"
+  },
+  {
+    "categoryKey": "05_ventilacion",
+    "filename": "Split-milexus-2-toneladas.webp",
+    "slug": "split-milexus-2-toneladas",
+    "urlPath": "/images/05_ventilacion/Split-milexus-2-toneladas.webp"
+  },
+  {
+    "categoryKey": "05_ventilacion",
+    "filename": "Split-milexus-5-toneladas.webp",
+    "slug": "split-milexus-5-toneladas",
+    "urlPath": "/images/05_ventilacion/Split-milexus-5-toneladas.webp"
+  },
+  {
+    "categoryKey": "05_ventilacion",
+    "filename": "Ventilador-industrial-de-pared.webp",
+    "slug": "ventilador-industrial-de-pared",
+    "urlPath": "/images/05_ventilacion/Ventilador-industrial-de-pared.webp"
+  },
+  {
+    "categoryKey": "05_ventilacion",
+    "filename": "Ventilador-industrial-de-pedestal.webp",
+    "slug": "ventilador-industrial-de-pedestal",
+    "urlPath": "/images/05_ventilacion/Ventilador-industrial-de-pedestal.webp"
+  },
+  {
+    "categoryKey": "05_ventilacion",
+    "filename": "Ventilador-recargable-solar-fan.webp",
+    "slug": "ventilador-recargable-solar-fan",
+    "urlPath": "/images/05_ventilacion/Ventilador-recargable-solar-fan.webp"
+  },
+  {
+    "categoryKey": "05_ventilacion",
+    "filename": "Ventilador-wynwood-de-pedestal.webp",
+    "slug": "ventilador-wynwood-de-pedestal",
+    "urlPath": "/images/05_ventilacion/Ventilador-wynwood-de-pedestal.webp"
+  },
+  {
+    "categoryKey": "05_ventilacion",
+    "filename": "split-milexus-1tonelada.webp",
+    "slug": "split-milexus-1tonelada",
+    "urlPath": "/images/05_ventilacion/split-milexus-1tonelada.webp"
+  },
+  {
+    "categoryKey": "05_ventilacion",
+    "filename": "ventilador-recargable-gangshi.webp",
+    "slug": "ventilador-recargable-gangshi",
+    "urlPath": "/images/05_ventilacion/ventilador-recargable-gangshi.webp"
+  },
+  {
+    "categoryKey": "08_agua",
+    "filename": "calentador-de-agua-vivamax.webp",
+    "slug": "calentador-de-agua-vivamax",
+    "urlPath": "/images/08_agua/calentador-de-agua-vivamax.webp"
+  },
+  {
+    "categoryKey": "09_exhibidoras_industrial",
+    "filename": "Exhibidora-de-pasteleria-horizontal-caliente.webp",
+    "slug": "exhibidora-de-pasteleria-horizontal-caliente",
+    "urlPath": "/images/09_exhibidoras_industrial/Exhibidora-de-pasteleria-horizontal-caliente.webp"
+  },
+  {
+    "categoryKey": "09_exhibidoras_industrial",
+    "filename": "Exhibidora-para-dulces-235L.webp",
+    "slug": "exhibidora-para-dulces-235l",
+    "urlPath": "/images/09_exhibidoras_industrial/Exhibidora-para-dulces-235L.webp"
+  },
+  {
+    "categoryKey": "09_exhibidoras_industrial",
+    "filename": "Exhibidora-xingx-horizontal-para-dulces.webp",
+    "slug": "exhibidora-xingx-horizontal-para-dulces",
+    "urlPath": "/images/09_exhibidoras_industrial/Exhibidora-xingx-horizontal-para-dulces.webp"
+  },
+  {
+    "categoryKey": "09_exhibidoras_industrial",
+    "filename": "Horno-estufa-de-fermentacion-de-masa.webp",
+    "slug": "horno-estufa-de-fermentacion-de-masa",
+    "urlPath": "/images/09_exhibidoras_industrial/Horno-estufa-de-fermentacion-de-masa.webp"
+  },
+  {
+    "categoryKey": "09_exhibidoras_industrial",
+    "filename": "Mesa-de-trabajo-refrigerada-clásica-de-congelación.webp",
+    "slug": "mesa-de-trabajo-refrigerada-clásica-de-congelación",
+    "urlPath": "/images/09_exhibidoras_industrial/Mesa-de-trabajo-refrigerada-clásica-de-congelación.webp"
+  },
+  {
+    "categoryKey": "09_exhibidoras_industrial",
+    "filename": "frigorifico-6-puertas.webp",
+    "slug": "frigorifico-6-puertas",
+    "urlPath": "/images/09_exhibidoras_industrial/frigorifico-6-puertas.webp"
+  },
+  {
+    "categoryKey": "09_exhibidoras_industrial",
+    "filename": "maquina-de-hielo-iceshare.webp",
+    "slug": "maquina-de-hielo-iceshare",
+    "urlPath": "/images/09_exhibidoras_industrial/maquina-de-hielo-iceshare.webp"
+  },
+  {
+    "categoryKey": "10_otros",
+    "filename": "Bocina-mcm-8.5pulgadas.webp",
+    "slug": "bocina-mcm-8.5pulgadas",
+    "urlPath": "/images/10_otros/Bocina-mcm-8.5pulgadas.webp"
+  },
+  {
+    "categoryKey": "11_TV",
+    "filename": "Smart-Tv-55-pulgadas-LG.webp",
+    "slug": "smart-tv-55-pulgadas-lg",
+    "urlPath": "/images/11_TV/Smart-Tv-55-pulgadas-LG.webp"
+  },
+  {
+    "categoryKey": "11_TV",
+    "filename": "Smart-Tv-65-pulgadas-Samsung.webp",
+    "slug": "smart-tv-65-pulgadas-samsung",
+    "urlPath": "/images/11_TV/Smart-Tv-65-pulgadas-Samsung.webp"
+  },
+  {
+    "categoryKey": "11_TV",
+    "filename": "Smart-Tv-75-pulgadas-LG.webp",
+    "slug": "smart-tv-75-pulgadas-lg",
+    "urlPath": "/images/11_TV/Smart-Tv-75-pulgadas-LG.webp"
+  },
+  {
+    "categoryKey": "11_TV",
+    "filename": "Smart-Tv-Samsung-2025-55-pulgadas.webp",
+    "slug": "smart-tv-samsung-2025-55-pulgadas",
+    "urlPath": "/images/11_TV/Smart-Tv-Samsung-2025-55-pulgadas.webp"
+  },
+  {
+    "categoryKey": "11_TV",
+    "filename": "Smart-Tv-Samsung-55-pulgadas.webp",
+    "slug": "smart-tv-samsung-55-pulgadas",
+    "urlPath": "/images/11_TV/Smart-Tv-Samsung-55-pulgadas.webp"
+  },
+  {
+    "categoryKey": "11_TV",
+    "filename": "Smart-Tv-royal-32-pulgadas.webp",
+    "slug": "smart-tv-royal-32-pulgadas",
+    "urlPath": "/images/11_TV/Smart-Tv-royal-32-pulgadas.webp"
+  },
+  {
+    "categoryKey": "11_TV",
+    "filename": "Tv-smart-43-pulgadas-konka.webp",
+    "slug": "tv-smart-43-pulgadas-konka",
+    "urlPath": "/images/11_TV/Tv-smart-43-pulgadas-konka.webp"
+  },
+  {
+    "categoryKey": "11_TV",
+    "filename": "Tv-smart-43-pulgadas-milexus.webp",
+    "slug": "tv-smart-43-pulgadas-milexus",
+    "urlPath": "/images/11_TV/Tv-smart-43-pulgadas-milexus.webp"
+  },
+  {
+    "categoryKey": "11_TV",
+    "filename": "Tv-smart-royal-50-pulgadas.webp",
+    "slug": "tv-smart-royal-50-pulgadas",
+    "urlPath": "/images/11_TV/Tv-smart-royal-50-pulgadas.webp"
+  }
+]

@@ -1,0 +1,2523 @@
+[
+  {
+    "id": "bateria-extra-ecoflow-delta-pro-3",
+    "name": "Batería Extra EcoFlow DELTA Pro 3",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 2800,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/Bateria-extra-ecoflow-delta-3-pro.webp",
+    "descriptionShort": "Expande la autonomía de tu DELTA Pro 3 con energía limpia y silenciosa.",
+    "descriptionLong": "Módulo de batería de expansión oficial para el sistema EcoFlow DELTA Pro 3. Diseñada para aumentar la capacidad total de tu instalación doméstica o de respaldo, esta batería se integra fácilmente, ofrece funcionamiento silencioso y se adapta a entornos exigentes. Ideal para cortes de energía prolongados o como complemento para un sistema de energía inteligente.",
+    "points": [
+      "Compatibilidad perfecta con DELTA Pro 3",
+      "Instalación rápida y diseño apilable",
+      "Energía fiable para el hogar y emergencias"
+    ],
+    "specs": {}
+  },
+  {
+    "id": "bateria-inteligente-adicional-ecoflow-delta-2",
+    "name": "Batería Inteligente Adicional EcoFlow DELTA 2",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 700,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/Bateria-inteligente-adicional-ecoflow-delta-2.webp",
+    "descriptionShort": "Extiende la capacidad de tu sistema DELTA 2 con una batería inteligente adicional.",
+    "descriptionLong": "La Batería Inteligente Adicional para el sistema EcoFlow DELTA 2 permite expandir la capacidad de almacenamiento hasta ~2048 Wh, integrándose fácilmente en tu instalación de respaldo o energía doméstica. Su diseño plug-and-play, química LFP de larga vida y control vía la app EcoFlow la convierten en un complemento ideal para apagones, viajes o sistemas autónomos.",
+    "points": [
+      "Diseñada para duplicar la capacidad del DELTA 2 hasta ~2048 Wh. 0",
+      "Química LFP de 3000 + ciclos y vida útil de hasta 10 años. 1",
+      "Instalación rápida, monitoreo vía aplicación EcoFlow y capacidad expandible inmediata. 2"
+    ],
+    "specs": {
+      "capacityWh": 1024,
+      "weightKg": 9.5,
+      "dimensionsCm": "40 × 21.1 × 28.1",
+      "chemistry": "LiFePO4 (LFP)",
+      "cycleLife": "3000+ cycles to 80% capacity",
+      "compatibleWith": "EcoFlow DELTA 2"
+    }
+  },
+  {
+    "id": "bluetti-ac70-768wh-1000w",
+    "name": "BLUETTI AC70 – 768 Wh / 1 000 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 650,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/Bluetti-Ac70.webp",
+    "descriptionShort": "Estación portátil BLUETTI AC70 con 768 Wh de capacidad y 1 000 W de potencia continua.",
+    "descriptionLong": "La estación de energía portátil BLUETTI AC70 ofrece una capacidad de 768 Wh y potencia continua de 1 000 W (hasta 2 000 W en modo Power Lifting) para asegurar funcionamiento estable de múltiples cargas críticas. Permite carga AC turbo hasta 950 W (0-80 % en 45 min) y entrada solar de hasta 500 W para una carga rápida. Batería LiFePO₄ con más de 3 000 ciclos de vida útil y función UPS de 20 ms.",
+    "points": [
+      "Capacidad de 768 Wh con potencia continua de 1 000 W y pico de 2 000 W.",
+      "Carga turbo AC hasta 950 W (0-80 % en 45 minutos) y entrada solar hasta 500 W.",
+      "Batería LiFePO₄ de larga duración (3 000+ ciclos), modo UPS y control vía app."
+    ],
+    "specs": {
+      "potenciaNominal_W": 1000,
+      "potenciaPico_W": 2000,
+      "capacidad_Wh": 768,
+      "tipoBateria": "LiFePO₄",
+      "cargaTurbo_AC_W": 950,
+      "entradaSolarMax_W": 500,
+      "dimensiones_mm": "314 × 209.5 × 255.8",
+      "peso_kg": 10.2,
+      "bateriaCiclos": "3000+",
+      "modoUPS_ms": 20
+    }
+  },
+  {
+    "id": "bluetti-elite-200-v2-2073wh-2600w",
+    "name": "BLUETTI Elite 200 V2 – 2 073 Wh / 2 600 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 1550,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/Bluetti-elite-200.webp",
+    "descriptionShort": "Estación portátil BLUETTI Elite 200 V2 con 2.073 Wh de capacidad y 2.600 W de potencia continua.",
+    "descriptionLong": "La estación de energía portátil BLUETTI Elite 200 V2 ofrece una capacidad de 2.073 Wh y potencia continua de 2.600 W (modo “Hercules” hasta 3.900 W) para cubrir desde cargas domésticas críticas hasta escapadas off-grid. Batería LiFePO₄ con más de 6.000 ciclos de vida útil, diseño compacto, sistema AI-BMS y múltiples salidas AC/DC/USB para alimentar hasta 9 equipos simultáneos. 0",
+    "points": [
+      "Capacidad de 2.073 Wh con 2.600 W de potencia continua y pico de hasta 3.900 W. 1",
+      "Batería LiFePO₄ de larga duración (6.000+ ciclos) y sistema AI-BMS para máxima seguridad. 2",
+      "Carga rápida, diseño compacto y múltiples puertos para uso versátil en casa, camping o RV."
+    ],
+    "specs": {
+      "potenciaNominal_W": 2600,
+      "potenciaPico_W": 3900,
+      "capacidad_Wh": 2073,
+      "tipoBateria": "LiFePO₄",
+      "ciclosVida": "6000+",
+      "dimensiones_mm": "350 × 250 × 323.6",
+      "peso_kg": 24.2,
+      "salidasSimultaneas": 9
+    }
+  },
+  {
+    "id": "daranener-neo2000-2073wh-2000w",
+    "name": "DaranEner NEO2000 – 2 073.6 Wh / 2 000 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 850,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/Daranener-neo-2000w-3000-pico.webp",
+    "descriptionShort": "Estación portátil DaranEner NEO2000 con 2 073.6 Wh de capacidad y 2 000 W de salida continua.",
+    "descriptionLong": "La estación de energía portátil DaranEner NEO2000 ofrece una capacidad de 2 073.6 Wh y potencia de salida continua de 2 000 W (hasta 3 000 W pico) en un formato compacto (47.6 × 34.5 × 26.0 cm, 25.6 kg). Integra batería LiFePO₄ grado EV, más de 3 500 ciclos al 80 % de capacidad, carga ultra-rápida AC (1.8 horas) y entrada solar de hasta 600 W. Ideal para respaldo doméstico, RV, camping o emergencias. 0",
+    "points": [
+      "Capacidad de 2 073.6 Wh con potencia de 2 000 W y pico hasta 3 000 W. 1",
+      "Batería LiFePO₄ grado EV, más de 3 500 ciclos al 80 % de capacidad. 2",
+      "Entrada solar hasta 600 W, carga ultra-rápida AC (≈1.8 horas) y función UPS de 15 ms. 3"
+    ],
+    "specs": {
+      "potenciaNominal_W": 2000,
+      "potenciaPico_W": 3000,
+      "capacidad_Wh": 2073.6,
+      "tipoBateria": "LiFePO₄",
+      "ciclosVida": "3500+ cycles to 80%",
+      "entradaSolarMax_W": 600,
+      "tiempoCargaAC_h": 1.8,
+      "dimensiones_cm": "47.6 × 34.5 × 26.0",
+      "peso_kg": 25.6,
+      "modoUPS_ms": 15
+    }
+  },
+  {
+    "id": "ecoflow-delta-3-plus-1024wh-1800w",
+    "name": "EcoFlow DELTA 3 Plus – 1 024 Wh / 1 800 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 1050,
+    "status": "En stock",
+    "featured": true,
+    "imageFilename": "01_estaciones_generadores/EcoFlow-delta-3-plus.webp",
+    "descriptionShort": "Estación portátil EcoFlow DELTA 3 Plus con 1 024 Wh de capacidad y 1 800 W de potencia continua.",
+    "descriptionLong": "La estación de energía portátil EcoFlow DELTA 3 Plus ofrece una capacidad de 1 024 Wh y una potencia continua de 1 800 W (hasta 3 600 W en modo pico según X-Boost) para alimentar electrodomésticos críticos, equipos de oficina, o aventuras off-grid. Cuenta con tecnología de carga ultra-rápida (entrada CA de hasta 1 500 W que permite carga 0-100 % en ~56 min) y entrada solar de hasta 1 000 W. Su batería LiFePO₄ asegura ~4 000 ciclos al 80 % de capacidad. 0",
+    "points": [
+      "Capacidad de 1 024 Wh, potencia continua de 1 800 W y pico de 3 600 W. 1",
+      "Carga total en ~56 minutos vía CA de 1 500 W. 2",
+      "Compatibilidad solar hasta 1 000 W, funcionamiento ultra silencioso (<30 dB). 3"
+    ],
+    "specs": {
+      "potenciaNominal_W": 1800,
+      "potenciaPico_W": 3600,
+      "capacidad_Wh": 1024,
+      "tipoBateria": "LiFePO₄",
+      "cargaAC_max_W": 1500,
+      "entradaSolar_max_W": 1000,
+      "dimensiones_mm": "398 × 202 × 284",
+      "peso_kg": 12.5,
+      "ciclosVida": "≈4000 to 80% capacity",
+      "tiempoUPS_ms": 10
+    }
+  },
+  {
+    "id": "ecoflow-delta-3-1024wh-1800w",
+    "name": "EcoFlow DELTA 3 – 1 024 Wh / 1 800 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 850,
+    "status": "En stock",
+    "featured": true,
+    "imageFilename": "01_estaciones_generadores/EcoFlow-delta-3.webp",
+    "descriptionShort": "Estación portátil EcoFlow DELTA 3 con 1 024 Wh de capacidad y 1 800 W de potencia continua.",
+    "descriptionLong": "La estación de energía portátil EcoFlow DELTA 3 ofrece una capacidad nominal de 1 024 Wh y una potencia continua de 1 800 W, con pico de hasta 3 600 W mediante X-Boost. Permite múltiples modos de carga rápida, es compatible con paneles solares de hasta 500 W, batería LiFePO₄ con ~4 000 ciclos al 80 % de capacidad, y cambio a UPS en <10 ms para respaldo doméstico fiable. 0",
+    "points": [
+      "Capacidad de 1 024 Wh, potencia continua de 1 800 W y pico de hasta 3 600 W. 1",
+      "Batería LiFePO₄ con 4 000 ciclos al 80 % de capacidad, IP65 grado de protección en batería. 2",
+      "Entrada solar hasta 500 W, cambio automático a UPS (<10 ms) para proteger ordenadores y NAS. 3"
+    ],
+    "specs": {
+      "potenciaNominal_W": 1800,
+      "potenciaPico_W": 3600,
+      "capacidad_Wh": 1024,
+      "tipoBateria": "LiFePO₄",
+      "ciclosVida": "≈4000 to 80% capacity",
+      "entradaSolar_max_W": 500,
+      "dimensiones_mm": "397.6 × 202 × 283.6",
+      "peso_kg": 12.5,
+      "modoUPS_ms": 10
+    }
+  },
+  {
+    "id": "oupes-1488wh-1500w-panel-440w",
+    "name": "OUPES – 1 488 Wh / 1 500 W + Panel Solar 440 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 950,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/Oupes-1500watts-pico-3600watts-+panel-solar.webp",
+    "descriptionShort": "Estación de energía OUPES con 1 488 Wh y 1 500 W de salida, incluye panel solar 440 W.",
+    "descriptionLong": "Kit portátil OUPES con 1 488 Wh de capacidad y 1 500 W de potencia continua (pico hasta 3 600 W según versión) junto a un panel solar de 440 W para carga renovable. Batería LiFePO₄ de larga duración (más de 3 500 ciclos al 80 %) y modo UPS para respaldo eficiente en casa o exteriores. 0",
+    "points": [
+      "Capacidad de 1 488 Wh con 1 500 W de salida continua y pico de hasta 3 600 W. 1",
+      "Incluye panel solar de 440 W para recarga sostenible.",
+      "Batería LiFePO₄ de alta durabilidad (3 500+ ciclos) y función UPS automática para cargas críticas."
+    ],
+    "specs": {
+      "potenciaNominal_W": 1500,
+      "potenciaPico_W": 3600,
+      "capacidad_Wh": 1488,
+      "tipoBateria": "LiFePO₄",
+      "ciclosVida": "3500+ cycles to 80%",
+      "panelSolar_W": 440,
+      "modoUPS_ms": "<20",
+      "dimensiones_mm": null,
+      "peso_kg": null
+    }
+  },
+  {
+    "id": "oupes-exodus-1500-1488wh-1500w",
+    "name": "OUPES Exodus 1500 – 1 488 Wh / 1 500 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 750,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/Oupes-1500watts-pico-3600watts.webp",
+    "descriptionShort": "Estación de energía OUPES Exodus 1500 con 1 488 Wh de capacidad y 1 500 W de potencia continua.",
+    "descriptionLong": "La estación portátil OUPES Exodus 1500 ofrece una capacidad de 1 488 Wh con una salida continua de 1 500 W y pico de hasta 3 600 W. Utiliza batería LiFePO₄ de más de 3 500 ciclos al 80 % de capacidad, incluye función UPS (<20 ms) y múltiples salidas AC/DC/USB para uso doméstico, exteriores o respaldo crítico. 0",
+    "points": [
+      "1 488 Wh de capacidad con potencia continua de 1 500 W y pico hasta 3 600 W. 1",
+      "Batería LiFePO₄ larga duración (>3 500 ciclos al 80 %). 2",
+      "Función UPS automática (<20 ms) y múltiples métodos de recarga (AC, solar, coche). 3"
+    ],
+    "specs": {
+      "potenciaNominal_W": 1500,
+      "potenciaPico_W": 3600,
+      "capacidad_Wh": 1488,
+      "tipoBateria": "LiFePO₄",
+      "ciclosVida": "3500+ cycles to 80%",
+      "entradaSolar_max_W": 480,
+      "modoUPS_ms": "<20",
+      "peso_kg": 13.8,
+      "dimensiones_cm": "35.8 × 27.7 × 27.2"
+    }
+  },
+  {
+    "id": "oupes-exodus-2400-2232wh-2400w",
+    "name": "OUPES Exodus 2400 – 2 232 Wh / 2 400 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 1200,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/Oupes-2400w-4000w.webp",
+    "descriptionShort": "Estación portátil OUPES Exodus 2400 con 2 232 Wh de capacidad y 2 400 W de potencia continua.",
+    "descriptionLong": "La estación de energía portátil OUPES Exodus 2400 ofrece 2 232 Wh de capacidad y una salida continua de 2 400 W (pico hasta ~5 000 W según opción) con batería LiFePO₄ de más de 3 500 ciclos al 80 % de capacidad. Permite múltiples modos de recarga (AC, solar, coche, AC+solar), incluye función UPS de <20 ms, y diseño robusto para respaldos domésticos, trabajo en exteriores o viajes RV. 0",
+    "points": [
+      "Capacidad de 2 232 Wh con potencia de 2 400 W continua y hasta 5 000 W en pico. 1",
+      "Batería LiFePO₄ de larga duración (>3 500 ciclos al 80 %) para uso intensivo. 2",
+      "Múltiples salidas AC/DC/USB, recarga rápida AC+solar, función UPS automática para respaldo inmediato. 3"
+    ],
+    "specs": {
+      "potenciaNominal_W": 2400,
+      "potenciaPico_W": 5000,
+      "capacidad_Wh": 2232,
+      "tipoBateria": "LiFePO₄",
+      "ciclosVida": "3500+ cycles to 80%",
+      "entradaSolar_max_W": 800,
+      "modoUPS_ms": "<20",
+      "dimensiones_mm": "457 × 270 × 310",
+      "peso_kg": 20.5
+    }
+  },
+  {
+    "id": "oupes-256wh-600w",
+    "name": "OUPES – 256 Wh / 600 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 320,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/Oupes-600w-pico-1200w.webp",
+    "descriptionShort": "Estación portátil OUPES de 256 Wh con salida de 600 W.",
+    "descriptionLong": "La OUPES 256 Wh es una estación de energía compacta diseñada para uso diario, emergencias y actividades al aire libre. Ofrece 600 W de potencia continua (pico 1 200 W), batería de litio de larga vida y varias salidas para cargar teléfonos, laptops, luces y equipos esenciales sin ruido ni combustible.",
+    "points": [
+      "256 Wh de capacidad con 600 W continuos y 1 200 W de pico.",
+      "Diseño compacto ideal para movilidad, apagones y uso diario.",
+      "Múltiples puertos AC/DC/USB para cargar varios dispositivos a la vez."
+    ],
+    "specs": {
+      "potenciaNominal_W": 600,
+      "potenciaPico_W": 1200,
+      "capacidad_Wh": 256,
+      "tipoBateria": "Lithium-Ion",
+      "dimensiones_mm": null,
+      "peso_kg": null
+    }
+  },
+  {
+    "id": "longi-lr8-66hgd-610m",
+    "name": "Panel Solar Longi Hi-MO 7 LR8-66HGD-610M – 610 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 220,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/Panel-solar-Longi-solar-energy-610w.webp",
+    "descriptionShort": "Panel solar Longi Hi-MO 7 de 610 W de alta eficiencia.",
+    "descriptionLong": "El panel solar Longi Hi-MO 7 modelo LR8-66HGD-610M ofrece una potencia nominal de 610 W, tecnología bifacial, alta eficiencia de módulo (~22-23 %) y excelente durabilidad para instalaciones residenciales o comerciales. Diseñado para sistemas de 1500 V, cuenta con capacidad de generar más energía por metro cuadrado y rendimiento optimizado en condiciones exigentes. 0",
+    "points": [
+      "Potencia nominal de 610 W con tolerancia 0-+3 %. 1",
+      "Dimensiones aproximadamente 2382 × 1134 × 30 mm y peso 33.5 kg. 2",
+      "Tecnología bifacial n-type TOPCon, más rendimiento, garantía de 12 años producto / 30 años rendimiento. 3"
+    ],
+    "specs": {
+      "potenciaNominal_W": 610,
+      "tipoBateria": null,
+      "capacidad_Wh": null,
+      "celdas": 132,
+      "dimensiones_mm": "2382 × 1134 × 30",
+      "peso_kg": 33.5,
+      "eficiencia_%": 22.8,
+      "voltajeVoc_V": 48.58,
+      "corrienteIsc_A": 16,
+      "systemVoltage_V": 1500
+    }
+  },
+  {
+    "id": "zasc-1500w-110-220v",
+    "name": "Planta ZASC 1500 W 110/220 V 4-Tiempos",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 370,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/Planta-Zasc-1500-watts.webp",
+    "descriptionShort": "Planta generadora ZASC 1.5 kW 110/220 V motor 4 tiempos.",
+    "descriptionLong": "La planta generadora ZASC 1500 W ofrece salida nominal de 1.5 kW (máxima 1.7 kW) con opción 110/220 V, frecuencia de 60 Hz y motor de 4 tiempos, ideal para respaldo doméstico o uso ligero profesional.",
+    "points": [
+      "Voltaje dual 110 V / 220 V, frecuencia 60 Hz.",
+      "Potencia nominal 1.5 kW, potencia máxima 1.7 kW.",
+      "Motor 4 tiempos para mayor eficiencia y menor mantenimiento."
+    ],
+    "specs": {
+      "potenciaNominal_W": 1500,
+      "potenciaPico_W": 1700,
+      "voltaje_V": "110/220",
+      "frecuencia_Hz": 60,
+      "factorPotencia": 1,
+      "tipoMotor": "4-tiempos"
+    }
+  },
+  {
+    "id": "ecoflow-delta-2-1024wh-1800w-panel-440w",
+    "name": "EcoFlow DELTA 2 1024Wh 1800W + Panel Solar 440W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 950,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/ecoflow-delta-2-con-panel-solar.webp",
+    "descriptionShort": "Estación EcoFlow DELTA 2 de 1.024 Wh con 1.800 W de potencia y panel solar 440 W incluido.",
+    "descriptionLong": "La estación de energía EcoFlow DELTA 2 ofrece una capacidad de 1.024 Wh y potencia continua de 1.800 W (pico hasta 2.700 W) 0. Su batería es de tipo LiFePO₄ con más de 3.000 ciclos de vida útil 1. Está acompañada del panel solar de 440 W (según bundle) para carga rápida desde fuentes renovables. Ideal para respaldo doméstico, campamentos, vehículos recreativos o situaciones de emergencia.",
+    "points": [
+      "Capacidad 1.024 Wh, potencia continua 1.800 W, pico hasta 2.700 W. 2",
+      "Batería LiFePO₄ de larga vida (>3.000 ciclos) y carga rápida AC/solar. 3",
+      "Incluye panel solar de 440 W para sistema completo de generación + almacenamiento."
+    ],
+    "specs": {
+      "potenciaNominal_W": 1800,
+      "potenciaPico_W": 2700,
+      "capacidad_Wh": 1024,
+      "tipoBateria": "LiFePO₄",
+      "ciclosVida": "3000+ cycles",
+      "entradaSolar_max_W": 500,
+      "peso_kg": 12,
+      "dimensiones_mm": "400 × 211 × 281",
+      "extras": "Panel solar de 440 W incluido"
+    }
+  },
+  {
+    "id": "ecoflow-delta-2-1024wh-1800w",
+    "name": "EcoFlow DELTA 2 – 1 024 Wh / 1 800 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 700,
+    "status": "En stock",
+    "featured": true,
+    "imageFilename": "01_estaciones_generadores/ecoflow-delta-2.webp",
+    "descriptionShort": "Estación de energía EcoFlow DELTA 2 de 1 024 Wh y 1 800 W de potencia continua.",
+    "descriptionLong": "La estación portátil EcoFlow DELTA 2 ofrece una capacidad de 1 024 Wh con una salida continua de 1 800 W y pico de hasta 2 700 W, ideal para respaldo doméstico, camping o uso profesional ligero. Cuenta con batería LiFePO₄ de larga vida (~3 000 ciclos al 80 %), carga rápida AC (0-80 % en menos de 50 min) y entrada solar hasta 500 W. 0",
+    "points": [
+      "Capacidad de 1 024 Wh, potencia continua de 1 800 W y pico hasta 2 700 W. 1",
+      "Batería LiFePO₄ con aproximadamente 3 000 ciclos de vida al 80 % de capacidad. 2",
+      "Carga ultra-rápida vía AC (0-80% en ~50 minutos) y compatibilidad con carga solar hasta 500 W. 3"
+    ],
+    "specs": {
+      "potenciaNominal_W": 1800,
+      "potenciaPico_W": 2700,
+      "capacidad_Wh": 1024,
+      "tipoBateria": "LiFePO₄",
+      "ciclosVida": "≈3000 cycles to 80% capacity",
+      "entradaSolar_max_W": 500,
+      "dimensiones_mm": "400 × 211 × 281",
+      "peso_kg": 12
+    }
+  },
+  {
+    "id": "ecoflow-delta-3-classic-1024wh-1800w",
+    "name": "EcoFlow DELTA 3 Classic – 1 024 Wh / 1 800 W + Panel Solar 440W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 950,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/ecoflow-delta-3-classic-con-panel-solar.webp",
+    "descriptionShort": "Estación EcoFlow DELTA 3 Classic con capacidad de 1 024 Wh y potencia de 1 800 W, incluye panel solar 440 W.",
+    "descriptionLong": "La estación de energía EcoFlow DELTA 3 Classic ofrece 1 024 Wh de capacidad, potencia continua de 1 800 W (y pico hasta 3 600 W) según los datos del fabricante. 0 Incluye panel solar 440 W para recarga renovable, batería LiFePO₄ de larga vida útil, entrada solar hasta 500 W y cambio a UPS en 10 ms para uso doméstico, camping o emergencias.",
+    "points": [
+      "Potencia continua 1 800 W y pico hasta 3 600 W. 1",
+      "Capacidad de 1 024 Wh con batería LiFePO₄ de alta durabilidad. 2",
+      "Carga rápida AC/solar, entrada solar hasta 500 W, cambio a UPS en 10 ms. 3"
+    ],
+    "specs": {
+      "potenciaNominal_W": 1800,
+      "potenciaPico_W": 3600,
+      "capacidad_Wh": 1024,
+      "tipoBateria": "LiFePO₄",
+      "entradaSolar_max_W": 500,
+      "dimensiones_mm": "398 × 200 × 283",
+      "peso_kg": 12.1,
+      "modoUPS_ms": 10
+    }
+  },
+  {
+    "id": "ecoflow-delta-3-classic",
+    "name": "EcoFlow DELTA 3 Classic",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 750,
+    "status": "In stock",
+    "featured": true,
+    "imageFilename": "01_estaciones_generadores/ecoflow-delta-3-classic.webp",
+    "descriptionShort": "Estación de energía EcoFlow DELTA 3 Classic de 1 024 Wh, 1 800 W AC.",
+    "descriptionLong": "La EcoFlow DELTA 3 Classic ofrece 1 024 Wh de capacidad, salida de 1 800 W continua (3 600 W pico) y recarga rápida hasta 80 % en 45 minutos. Ideal para respaldo doméstico, camping o vanlife. Incluye garantía de 2 meses.",
+    "points": [
+      "Batería con 1 024 Wh de capacidad (51.2 V 20 Ah). 0",
+      "Salida AC de 1 800 W continua con modo X-Boost hasta 2 600 W. 1",
+      "Tecnología LFP (LiFePO₄), recarga rápida a 80 % en 45 minutos. 2"
+    ],
+    "specs": {
+      "marca": "EcoFlow",
+      "modelo": "DELTA 3 Classic",
+      "capacidad_wh": 1024,
+      "potencia_ac_watts": 1800,
+      "potencia_pico_watts": 2600,
+      "quimica_bateria": "LiFePO₄",
+      "dimensiones_mm": {
+        "ancho": 398,
+        "profundidad": 200,
+        "alto": 283
+      },
+      "peso_kg": 12.1,
+      "voltaje_entrada": "100-120V AC / 220-240V AC (según región)",
+      "estado": "Estación de energía portátil"
+    }
+  },
+  {
+    "id": "ecoflow-delta-3-max-2048wh-2400w-panel-175w",
+    "name": "EcoFlow DELTA 3 MAX 2 048 Wh / 2 400 W + Panel Solar 175 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 1500,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/ecoflow-delta-3max-+panel-solar.webp",
+    "descriptionShort": "Estación EcoFlow DELTA 3 MAX de 2 048 Wh y 2 400 W de potencia más panel solar de 175 W.",
+    "descriptionLong": "La estación portátil EcoFlow DELTA 3 MAX ofrece una capacidad de 2 048 Wh con potencia continua de 2 400 W (y pico hasta ~4 800 W según especificaciones oficiales). 0 Incluye panel solar de 175 W para una solución completa de energía renovable y respaldo. Diseñada para respaldo doméstico, RV o entornos off-grid, integra batería LiFePO₄, conmutación UPS <10 ms, múltiples métodos de carga rápida. 1",
+    "points": [
+      "Capacidad de 2 048 Wh y potencia continua de 2 400 W (pico ~4 800 W).",
+      "Incluye panel solar de 175 W para carga sostenible.",
+      "Batería LiFePO₄, conmutación UPS rápida (<10 ms), múltiples métodos de recarga. 2"
+    ],
+    "specs": {
+      "potenciaNominal_W": 2400,
+      "potenciaPico_W": 4800,
+      "capacidad_Wh": 2048,
+      "tipoBateria": "LiFePO₄",
+      "entradaSolar_max_W": 500,
+      "dimensiones_mm": "494 × 242 × 305",
+      "peso_kg": 20.3,
+      "modoUPS_ms": 10
+    }
+  },
+  {
+    "id": "ecoflow-delta-3-max",
+    "name": "EcoFlow DELTA 3 Max",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 1300,
+    "status": "In stock",
+    "featured": true,
+    "imageFilename": "01_estaciones_generadores/ecoflow-delta-3max-+panel-solar.webp",
+    "descriptionShort": "Estación de energía portátil EcoFlow DELTA 3 Max de 2 048 Wh y 3 000 W AC.",
+    "descriptionLong": "La EcoFlow DELTA 3 Max proporciona una capacidad de 2 048 Wh, una salida continua de hasta 3 000 W (algun modelos 2 400 W) y opción de expansión. Soporta múltiples modos de recarga: AC, solar, alternador. Ideal tanto para respaldo doméstico como para camping o vehículos recreativos. Precio venta pública estimado en USD 1 300.",
+    "points": [
+      "Capacidad de 2 048 Wh (≈2 kWh) para una variedad amplia de dispositivos. 0",
+      "Salida AC de hasta 3 000 W continua con pico de hasta 6 000 W en algunos modelos. 1",
+      "Batería de química LFP (LiFePO₄) para mayor vida útil y seguridad. 2"
+    ],
+    "specs": {
+      "marca": "EcoFlow",
+      "modelo": "DELTA 3 Max",
+      "capacidad_wh": 2048,
+      "potencia_ac_watts": 3000,
+      "potencia_pico_watts": 6000,
+      "quimica_bateria": "LiFePO₄",
+      "dimensiones_mm": {
+        "ancho": 494,
+        "profundidad": 239,
+        "alto": 305
+      },
+      "peso_kg": 20.3,
+      "voltaje_entrada": "220-240 V AC (o región especifica)",
+      "estado": "Estación de energía portátil"
+    }
+  },
+  {
+    "id": "ecoflow-delta-pro-3-4096wh-8000w",
+    "name": "EcoFlow DELTA Pro 3 – 4 096 Wh / 8 000 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 3600,
+    "status": "En stock",
+    "featured": true,
+    "imageFilename": "01_estaciones_generadores/ecoflow-delta-pro-3.webp",
+    "descriptionShort": "Estación EcoFlow DELTA Pro 3 con 4 096 Wh de capacidad y potencia hasta 8 000 W.",
+    "descriptionLong": "La estación portátil EcoFlow DELTA Pro 3 ofrece una capacidad base de aproximadamente 4 096 Wh, expandible a 8 kWh o más, y potencia de salida continua de varios miles de vatios. 0 está diseñada para respaldo doméstico de alta demanda y entornos off-grid exigentes. 1",
+    "points": [
+      "Capacidad base de ~4 096 Wh, expandible a ~8 kWh o más. 2",
+      "Alta potencia de salida, permite alimentar electrodomésticos exigentes y sistemas de respaldo completos. 3",
+      "Batería de química LiFePO₄, diseño silencioso (~30 dB a carga moderada), múltiples modos de recarga y UPS integrado. 4"
+    ],
+    "specs": {
+      "potenciaNominal_W": 8000,
+      "capacidad_Wh": 4096,
+      "tipoBateria": "LiFePO₄",
+      "ciclosVida": "≈4000 cycles",
+      "nivelRuido_dB": 30,
+      "peso_kg": null,
+      "dimensiones_mm": null
+    }
+  },
+  {
+    "id": "ecoflow-river-2-max-512wh-500w",
+    "name": "EcoFlow RIVER 2 Max – 512 Wh / 500 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 500,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/ecoflow-river-2-max.webp",
+    "descriptionShort": "Estación portátil EcoFlow RIVER 2 Max con 512 Wh de capacidad y 500 W de potencia continua.",
+    "descriptionLong": "La estación de energía portátil EcoFlow RIVER 2 Max cuenta con capacidad de 512 Wh, potencia de 500 W (pico hasta 1000 W mediante X-Boost) y batería LiFePO₄ con más de 3000 ciclos al 80 % de capacidad. Recarga completa en aproximadamente 60 minutos por AC. Ideal para respaldo doméstico ligero, acampadas o vehículos recreativos. 0",
+    "points": [
+      "Capacidad de 512 Wh con potencia continua de 500 W y pico hasta 1000 W. 1",
+      "Batería LiFePO₄ de alta duración (>3000 ciclos hasta 80 % de capacidad). 2",
+      "Recarga rápida AC (0-100% en ~60 minutos) y múltiples métodos de carga. 3"
+    ],
+    "specs": {
+      "potenciaNominal_W": 500,
+      "potenciaPico_W": 1000,
+      "capacidad_Wh": 512,
+      "tipoBateria": "LiFePO₄",
+      "ciclosVida": "3000+ cycles to 80%",
+      "peso_kg": 6.1,
+      "dimensiones_mm": "270 × 260 × 196",
+      "entradaSolar_max_W": 220
+    }
+  },
+  {
+    "id": "ecoflow-river-3-plus-286wh-600w",
+    "name": "EcoFlow River 3 Plus – 286 Wh / 600 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 400,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/ecoflow-river-3-plus.webp",
+    "descriptionShort": "Estación portátil EcoFlow River 3 Plus con 286 Wh de capacidad y 600 W de potencia continua.",
+    "descriptionLong": "La estación de energía EcoFlow River 3 Plus ofrece una capacidad de 286 Wh y potencia continua de 600 W (pico hasta ~1 200 W con X-Boost). 1 Su batería de química LiFePO₄ admite más de 3 000 ciclos al 80 % de capacidad y está diseñada para cargas rápidas, silenciosas (<30 dB) y respaldo doméstico ligero. 2",
+    "points": [
+      "Capacidad 286 Wh con potencia de 600 W continua y hasta ~1 200 W pico. 3",
+      "Batería LiFePO₄, más de 3 000 ciclos al 80 % de capacidad. 4",
+      "Carga rápida (0-100 % en ~1 h vía AC), entrada solar hasta 220 W, y cambio automático tipo UPS en <10 ms. 5"
+    ],
+    "specs": {
+      "potenciaNominal_W": 600,
+      "potenciaPico_W": 1200,
+      "capacidad_Wh": 286,
+      "tipoBateria": "LiFePO₄",
+      "ciclosVida": "3000+ cycles to 80%",
+      "entradaSolar_max_W": 220,
+      "dimensiones_mm": "234 × 232 × 146",
+      "peso_kg": 4.7,
+      "modoUPS_ms": 10
+    }
+  },
+  {
+    "id": "ecoflow-river-3-256wh-300w",
+    "name": "EcoFlow RIVER 3 – 256 Wh / 300 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 300,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/ecoflow-river-3.webp",
+    "descriptionShort": "Estación portátil EcoFlow RIVER 3 con capacidad de 256 Wh y 300 W de potencia continua.",
+    "descriptionLong": "La estación de energía EcoFlow RIVER 3 ofrece una capacidad nominal aproximada de 245-256 Wh y una potencia de salida continua de 300 W (hasta 600 W mediante tecnología X-Boost). 0 Su batería es de química LiFePO₄ (larga vida) y está diseñada para cargas rápidas, respaldo doméstico ligero, camping o movilidad. 1",
+    "points": [
+      "Capacidad ~245-256 Wh con potencia continua de 300 W y pico hasta ~600 W. 2",
+      "Batería LiFePO₄ de alta durabilidad (~3 000 ciclos al 80 %) y tamaño ultracompacto. 3",
+      "Recarga rápida (vía AC ~0-100 % en ~1 hora) y funcionamiento casi silencioso (<30 dB). 4"
+    ],
+    "specs": {
+      "potenciaNominal_W": 300,
+      "potenciaPico_W": 600,
+      "capacidad_Wh": 256,
+      "tipoBateria": "LiFePO₄",
+      "ciclosVida": "≈3000 cycles to 80%",
+      "peso_kg": 3.5,
+      "dimensiones_mm": "255 × 212 × 113",
+      "modoUPS_ms": 10
+    }
+  },
+  {
+    "id": "bluetti-ac180p-1440wh-1800w",
+    "name": "BLUETTI Estación de energía portátil AC180P 1440 Wh / 1800 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 750,
+    "status": "En stock",
+    "featured": true,
+    "imageFilename": "01_estaciones_generadores/estacion-de-energia-bluetti-ac180p.png",
+    "descriptionShort": "Estación de energía BLUETTI AC180P de 1440 Wh con 1800 W de salida continua.",
+    "descriptionLong": "La estación de energía portátil BLUETTI AC180P ofrece una capacidad de 1440 Wh y una potencia continua de 1800 W (modo Power Lifting hasta 2700 W) según especificaciones oficiales. 2 Utiliza batería LiFePO₄ de más de 3500 ciclos al 80% 3, entrada solar hasta 500 W 4, y recarga rápida AC de hasta 1440 W que permite 0-80% en aproximadamente 45 minutos. 5 Ideal para respaldo doméstico, camping o uso profesional de alto rendimiento.",
+    "points": [
+      "Capacidad de 1440 Wh y salida continua de 1800 W, pico 2700 W. 6",
+      "Batería LiFePO₄ >3500 ciclos al 80%. 7",
+      "Recarga ultrarrápida (AC hasta 1440 W), compatible con paneles solares hasta 500 W. 8"
+    ],
+    "specs": {
+      "potenciaNominal_W": 1800,
+      "potenciaPico_W": 2700,
+      "capacidad_Wh": 1440,
+      "tipoBateria": "LiFePO₄",
+      "entradaSolar_max_W": 500,
+      "peso_kg": 16,
+      "dimensiones_mm": "340 × 247 × 317"
+    }
+  },
+  {
+    "id": "bluetti-ac200max-2048wh-2200w",
+    "name": "Estación de energía Bluetti AC200MAX – 2 048 Wh / 2 200 W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 900,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/estacion-de-energia-bluetti-ac200max.webp",
+    "descriptionShort": "Estación de energía Bluetti AC200MAX con 2 048 Wh de capacidad y 2 200 W de salida continua.",
+    "descriptionLong": "La estación de energía portátil Bluetti AC200MAX ofrece una capacidad de 2 048 Wh y una potencia de 2 200 W (pico hasta ~4 800 W) con batería LiFePO₄ de alta durabilidad (>3.500 ciclos al 80 %) y expandible hasta ~6.144 Wh o incluso ~8.192 Wh mediante módulos adicionales. 0 Ideal para respaldo doméstico de alto consumo, camping exigente o entornos off-grid.",
+    "points": [
+      "Capacidad base de 2 048 Wh con potencia continua de 2 200 W y pico hasta ~4 800 W. 1",
+      "Batería LiFePO₄ con más de 3.500 ciclos al 80% de capacidad. 2",
+      "Expandible con módulos B230 o B300 para llevar la capacidad hasta ~8.192 Wh, múltiples métodos de recarga (AC, solar, coche, etc.). 3"
+    ],
+    "specs": {
+      "potenciaNominal_W": 2200,
+      "potenciaPico_W": 4800,
+      "capacidad_Wh": 2048,
+      "tipoBateria": "LiFePO₄",
+      "ciclosVida": "3500+ cycles to 80%",
+      "entradaSolar_max_W": 900,
+      "peso_kg": 28.1,
+      "dimensiones_mm": "420 × 280 × 386"
+    }
+  },
+  {
+    "id": "jackery-explorer-300-293wh-300w",
+    "name": "Jackery Explorer 300 – 293 Wh / 300 W (Pico 500 W)",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 350,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/jackery-explorer-300w.webp",
+    "descriptionShort": "Estación de energía portátil Jackery Explorer 300 de 293 Wh y 300 W de salida continua.",
+    "descriptionLong": "La estación portátil Jackery Explorer 300 ofrece una capacidad de 293 Wh y una salida continua de 300 W (pico hasta 500 W). 1 Cuenta con carga rápida AC combinada (0-80% en aprox. 2.5 h) y múltiples salidas AC/USB para dispositivos divertidos, ideal para acampadas, apagones o respaldo ligero. 2",
+    "points": [
+      "293 Wh de capacidad con 300 W de salida continua y 500 W pico. 3",
+      "Carga rápida AC + USB-C (≈2.5 horas de 0-100% en condiciones ideales). 4",
+      "Ligera (~7.1 lbs / 3.2 kg) y entradas múltiples para dispositivos modernos (USB-C, AC, etc.). 5"
+    ],
+    "specs": {
+      "potenciaNominal_W": 300,
+      "potenciaPico_W": 500,
+      "capacidad_Wh": 293,
+      "tipoBateria": "Lithium-Ion",
+      "dimensiones_mm": "231 × 132 × 197",
+      "peso_kg": 3.2,
+      "ciclosVida": "800+ cycles until 80% capacity"
+    }
+  },
+  {
+    "id": "planta-diesel-5500-laprefer",
+    "name": "Planta Diesel de 5500 LaPrefer",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 2500,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/planta-diesel-5500-la-prefer.webp",
+    "descriptionShort": "Planta diesel LaPrefer de 5.500 W con transporte incluido.",
+    "descriptionLong": "La planta diesel LaPrefer de 5.500 W está diseñada para respaldo eléctrico fiable con motor diésel robusto y entrega nominal de 5.500 W. Incluye transporte sin coste adicional. Ideal para aplicaciones industriales ligeras o rurales donde se requiere suministro continuo. ([venta publicada en Facebook grupo]) 0",
+    "points": [
+      "Potencia nominal de 5.500 W.",
+      "Motor diesel para mayor duración en ambiente exigente.",
+      "Transporte incluido en el precio."
+    ],
+    "specs": {
+      "potenciaNominal_W": 5500,
+      "tipoMotor": "Diésel",
+      "voltaje_V": null,
+      "peso_kg": null,
+      "dimensiones_mm": null
+    }
+  },
+  {
+    "id": "planta-electrica-q7-1100w-110v",
+    "name": "Planta Q7 1100 W 110 V",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 300,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/planta-q7.webp",
+    "descriptionShort": "Planta eléctrica Q7 de 1100 W y 110 V con tanque de 5.0 L.",
+    "descriptionLong": "La planta eléctrica Q7 modelo GR1100W (110 V) ofrece salida de 1100 W, tanque de gasolina de 5.0 L, arranque convencional y garantía de 1 mes. Ideal para respaldo ligero, herramientas y emergencia doméstica. ([facebook.com](https://www.facebook.com/groups/644313477215142/posts/1426096829036799/?utm_source=chatgpt.com))",
+    "points": [
+      "Potencia nominal de 1100 W a 110 V.",
+      "Tanque de combustible gasolina de 5.0 L.",
+      "Garantía 1 mes incluida."
+    ],
+    "specs": {
+      "potenciaNominal_W": 1100,
+      "combustible": "Gasolina",
+      "capacidadTanque_L": 5,
+      "voltaje_V": 110,
+      "categoriaMotor": "4 tiempos"
+    }
+  },
+  {
+    "id": "planta-zasc-3500w-110-220v",
+    "name": "Planta ZASC 3500 W 110 V/220 V",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 600,
+    "status": "En stock",
+    "featured": true,
+    "imageFilename": "01_estaciones_generadores/planta-zasc-3500-watts.webp",
+    "descriptionShort": "Generador ZASC de 3 500 W con salida dual 110 V y 220 V.",
+    "descriptionLong": "La planta eléctrica ZASC de 3 500 W ofrece compatibilidad de voltaje 110 V y 220 V, frecuencia de 60 Hz, motor 4-tiempos, tanque de combustible de 15 L y peso aproximado entre 47 y 51 kg. Ideal para respaldo doméstico y aplicaciones ligeras. 0",
+    "points": [
+      "Salida dual 110 V / 220 V adaptada a diferentes requerimientos eléctricos. 1",
+      "Motor 4-tiempos, tanque de gasolina 15 L, diseño robusto. 2",
+      "Garantía de 1 mes incluida en la compra. 3"
+    ],
+    "specs": {
+      "potenciaNominal_W": 3500,
+      "voltaje_V": "110/220",
+      "frecuencia_Hz": 60,
+      "tipoMotor": "4-tiempos",
+      "capacidadTanque_L": 15,
+      "peso_kg": 47
+    }
+  },
+  {
+    "id": "nevera-milexus-6-pies",
+    "name": "Nevera MILEXUS 6 pies",
+    "categoryKey": "02_refrigeradores",
+    "categoryName": "Refrigeradores y Neveras",
+    "priceClient": 280,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "02_refrigeradores/Nevera-milexus-6pies.webp",
+    "descriptionShort": "Refrigerador MILEXUS 6 pies ideal para hogares medianos.",
+    "descriptionLong": "Esta nevera de la marca MILEXUS con capacidad aproximada de 6 pies ofrece un diseño funcional y medidas de 83 cm de altura × 62.5 cm de ancho × 55 cm de profundidad. Incluye 2 meses de garantía y está lista para uso inmediato.",
+    "points": [
+      "Capacidad aproximada de 6 pies",
+      "Garantía de 2 meses incluida",
+      "Medidas: 83 cm (H) × 62.5 cm (W) × 55 cm (D)"
+    ],
+    "specs": {
+      "altura_cm": 83,
+      "ancho_cm": 62.5,
+      "profundidad_cm": 55,
+      "voltaje": null,
+      "consumo": null,
+      "marca": "MILEXUS",
+      "modelo": null
+    }
+  },
+  {
+    "id": "nevera-royal-10-pies",
+    "name": "Nevera Royal 10 pies",
+    "categoryKey": "02_refrigeradores",
+    "categoryName": "Refrigeradores y Neveras",
+    "priceClient": 350,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "02_refrigeradores/Nevera-royal-10pies.webp",
+    "descriptionShort": "Nevera Royal de 10 pies cúbicos, capacidad ~249 L.",
+    "descriptionLong": "La Nevera Royal 10 pies ofrece aproximadamente 249 litros de capacidad, sistema de refrigeración eficiente, control de temperatura y cerradura con llave. Ideal para hogares que buscan funcionalidad y buen rendimiento. 0",
+    "points": [
+      "Capacidad cerca de 249 litros (~10 pies cúbicos) 1",
+      "Incluye cerradura con llave para mayor seguridad 2",
+      "Voltaje típico 110-115 V/60 Hz para uso doméstico 3"
+    ],
+    "specs": {
+      "capacidad_litros": 249,
+      "capacidad_pies_cubicos": 10,
+      "voltaje": "115 V/60 Hz",
+      "marca": "Royal",
+      "modelo": null,
+      "medidas_mm": {
+        "alto": 1025,
+        "ancho": 625,
+        "profundidad": 885
+      }
+    }
+  },
+  {
+    "id": "nevera-royal-5-5-pies",
+    "name": "Nevera Royal 5.5 pies",
+    "categoryKey": "02_refrigeradores",
+    "categoryName": "Refrigeradores y Neveras",
+    "priceClient": 240,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "02_refrigeradores/Nevera-royal-5.5pies.webp",
+    "descriptionShort": "Nevera Royal de 5.5 pies cúbicos (~155 L) compacta y funcional.",
+    "descriptionLong": "La Nevera Royal 5.5 pies ofrece aproximadamente 155 litros de capacidad, diseño compacto ideal para espacios pequeños, incluye sistema de refrigeración eficiente (R600A), voltaje 115 V/60 Hz. Marca Royal, modelo RFH55. Perfecta para viviendas o negocios con demanda moderada de refrigeración. 0",
+    "points": [
+      "Capacidad de ~155 litros (5.5 pies cúbicos) 1",
+      "Voltaje 115 V/60 Hz, refrigerante ecológico R600A 2",
+      "Dimensiones aproximadas: 57.8 cm ancho × 66.5 cm profundidad × 88.8 cm alto 3"
+    ],
+    "specs": {
+      "capacidad_litros": 155,
+      "capacidad_pies_cubicos": 5.5,
+      "voltaje": "115 V/60 Hz",
+      "consumo_kWh_anual": 203,
+      "marca": "Royal",
+      "modelo": "RFH55",
+      "medidas_cm": {
+        "ancho": 57.8,
+        "profundidad": 66.5,
+        "alto": 88.8
+      },
+      "refrigerante": "R600A"
+    }
+  },
+  {
+    "id": "refrigerador-eko-16-pies-dispensador",
+    "name": "Refrigerador EKO 16 pies con dispensador",
+    "categoryKey": "02_refrigeradores",
+    "categoryName": "Refrigeradores y Neveras",
+    "priceClient": 780,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "02_refrigeradores/Refrigerador-Eko-16pies.webp",
+    "descriptionShort": "Refrigerador EKO 16 pies con dispensador y sistema de congelación seca.",
+    "descriptionLong": "El Refrigerador EKO de 16 pies combina capacidad amplia, diseño moderno y un dispensador frontal que simplifica el día a día. Su sistema de congelación seca garantiza un enfriamiento constante sin acumulación de hielo, reduciendo mantenimiento y optimizando el rendimiento. Ideal para familias que buscan eficiencia, comodidad y una estética limpia.",
+    "points": [
+      "Dispensador frontal para uso rápido y conveniente",
+      "Sistema de congelación seca libre de mantenimiento",
+      "Gran capacidad de 16 pies para uso familiar"
+    ],
+    "specs": {
+      "capacidad_pies_cubicos": 16,
+      "voltaje": "115V / 60Hz",
+      "consumo": null,
+      "marca": "EKO",
+      "modelo": null,
+      "medidas_cm": null,
+      "extras": "Dispensador integrado; sistema de congelación seca"
+    }
+  },
+  {
+    "id": "refrigerador-lg-14-pies",
+    "name": "Refrigerador LG 14 Pies",
+    "categoryKey": "02_refrigeradores",
+    "categoryName": "Refrigeradores y Neveras",
+    "priceClient": 800,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "02_refrigeradores/Refrigerador-LG-14-pies.webp",
+    "descriptionShort": "Refrigerador LG de 14 pies cúbicos: rendimiento, estilo y tecnología en casa.",
+    "descriptionLong": "Potencia tu cocina con este Refrigerador LG de 14 pies cúbicos, perfecto para hogares que buscan capacidad, eficiencia y diseño de vanguardia. Equipado con compresor inteligente Smart Inverter, estructura refinada y espacio optimizado, este modelo combina tecnología avanzada con estética limpia para elevar tu experiencia diaria.",
+    "points": [
+      "Capacidad de 14 pies cúbicos (~396 litros) según especificaciones LG. 0",
+      "Smart Inverter Compressor para mayor eficiencia y menor ruido. 1",
+      "Dimensiones aproximadamente 700 mm ancho × 1 680 mm alto × 700 mm profundidad para ajuste estándar. 2"
+    ],
+    "specs": {
+      "capacidad_pies_cubicos": 14,
+      "capacidad_litros": 396,
+      "voltaje": "115 V / 60 Hz",
+      "marca": "LG",
+      "modelo": null,
+      "dimensiones_mm": {
+        "ancho": 700,
+        "alto": 1680,
+        "profundidad": 700
+      },
+      "compresor": "Smart Inverter Compressor"
+    }
+  },
+  {
+    "id": "refrigerador-lg-10-pies",
+    "name": "Refrigerador LG 10 Pies",
+    "categoryKey": "02_refrigeradores",
+    "categoryName": "Refrigeradores y Neveras",
+    "priceClient": 630,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "02_refrigeradores/Refrigerador-Lg-10-pies.webp",
+    "descriptionShort": "Refrigerador LG de 10 pies cúbicos con tecnología Smart Inverter.",
+    "descriptionLong": "Este refrigerador LG de 10 pies cúbicos (~287 litros) integra compresor Smart Inverter, sistema No Frost y diseño eficiente para el hogar moderno. El modelo RVT-B101PZ ofrece dimensiones compactas (555 × 1680 × 637 mm) y tecnología Linear Cooling para mantener la frescura de tus alimentos. 0",
+    "points": [
+      "Capacidad total ~287 litros (10.1 pies cúbicos). 1",
+      "Compresor Smart Inverter para mayor eficiencia. 2",
+      "Dimensiones perfiladas: 555 mm (An) × 1680 mm (Al) × 637 mm (Prof) según especificaciones oficiales. 3"
+    ],
+    "specs": {
+      "capacidad_pies_cubicos": 10.1,
+      "capacidad_litros": 287,
+      "voltaje": "115 V / 60 Hz",
+      "marca": "LG",
+      "modelo": null,
+      "dimensiones_mm": {
+        "ancho": 555,
+        "alto": 1680,
+        "profundidad": 637
+      },
+      "compresor": "Smart Inverter",
+      "sistema_enfriamiento": "Linear Cooling / Multi-Air Flow"
+    }
+  },
+  {
+    "id": "refrigerador-lg-7-pies",
+    "name": "Refrigerador LG 7 Pies",
+    "categoryKey": "02_refrigeradores",
+    "categoryName": "Refrigeradores y Neveras",
+    "priceClient": 520,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "02_refrigeradores/Refrigerador-Lg-7pies.webp",
+    "descriptionShort": "Refrigerador LG de 7 pies cúbicos (≈199 L) con compresor Smart Inverter.",
+    "descriptionLong": "El refrigerador LG de aproximadamente 7 pies cúbicos (~199 litros) combina tecnología Smart Inverter, estructura compacta y eficiencia energética. Diseñado para espacios reducidos sin sacrificar rendimiento, integra estantes de vidrio templado, cajón grande de vegetales y acabado metálico elegante. Referencia de modelo: GR-Y331SLZB. 0",
+    "points": [
+      "Capacidad ~199 litros (7 pies cúbicos) según especificaciones LG. 1",
+      "Compresor Smart Inverter para mayor eficiencia y menor ruido. 2",
+      "Diseño compacto: dimensiones 525 × 1295 × 555 mm (WxHxD) para ubicaciones limitadas. 3"
+    ],
+    "specs": {
+      "capacidad_litros": 199,
+      "capacidad_pies_cubicos": 7,
+      "voltaje": null,
+      "marca": "LG",
+      "modelo": "GR-Y331SLZB",
+      "dimensiones_mm": {
+        "ancho": 525,
+        "alto": 1295,
+        "profundidad": 555
+      },
+      "compresor": "Smart Inverter"
+    }
+  },
+  {
+    "id": "refrigerador-wynwood-13-pies",
+    "name": "Refrigerador Wynwood 13 Pies",
+    "categoryKey": "02_refrigeradores",
+    "categoryName": "Refrigeradores y Neveras",
+    "priceClient": 620,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "02_refrigeradores/Refrigerador-Wynwood-13-pies.webp",
+    "descriptionShort": "Refrigerador Wynwood de 13 pies cúbicos con congelación seca.",
+    "descriptionLong": "Este Refrigerador Wynwood de 13 pies cúbicos combina espacio amplio, peso neto de 52 kg (bruto 57 kg) y dimensiones de 635 × 685 × 1760 mm. Su sistema de congelación seca ofrece un rendimiento óptimo sin acumulación de hielo y facilidad de mantenimiento. Garantía de 2 meses incluida.",
+    "points": [
+      "Capacidad aproximada de 13 pies cúbicos (~368 litros) según modelo comparable. 0",
+      "Peso neto 52 kg, peso bruto 57 kg. 1",
+      "Dimensiones 635 mm (W) × 685 mm (D) × 1760 mm (H). 2"
+    ],
+    "specs": {
+      "capacidad_pies_cubicos": 13,
+      "peso_neto_kg": 52,
+      "peso_bruto_kg": 57,
+      "dimensiones_mm": {
+        "ancho": 635,
+        "profundidad": 685,
+        "alto": 1760
+      },
+      "marca": "Wynwood",
+      "modelo": null,
+      "tipo_congelacion": "Seca"
+    }
+  },
+  {
+    "id": "refrigerador-wynwood-17-pies",
+    "name": "Refrigerador Wynwood 17 Pies Congelación Seca",
+    "categoryKey": "02_refrigeradores",
+    "categoryName": "Refrigeradores y Neveras",
+    "priceClient": 750,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "02_refrigeradores/Refrigerador-Wynwood-17pies.webp",
+    "descriptionShort": "Refrigerador Wynwood de 17 pies cúbicos con sistema de congelación seca para máxima eficiencia.",
+    "descriptionLong": "Optimiza tu espacio con el Refrigerador Wynwood 17 pies cúbicos (~480 litros) que combina gran capacidad, construcción robusta y sistema de congelación seca que elimina la formación de hielo y reduce mantenimiento. Peso neto 80 kg, peso bruto 89 kg, dimensiones 83.5 × 74.5 × 181 cm: lo suficiente para familias exigentes que no quieren comprometer eficiencia ni diseño.",
+    "points": [
+      "Capacidad de ~17 pies cúbicos (~480 litros) según modelo excepcional. 0",
+      "Dimensiones generosas 83.5 cm (W) × 74.5 cm (D) × 181 cm (H) para instalación estándar.",
+      "Congelación seca (no frost) que reduce escarcha, mantenimiento y mejora la durabilidad del equipo."
+    ],
+    "specs": {
+      "capacidad_pies_cubicos": 17,
+      "capacidad_litros": 480,
+      "peso_neto_kg": 80,
+      "peso_bruto_kg": 89,
+      "dimensiones_cm": {
+        "ancho": 83.5,
+        "profundidad": 74.5,
+        "alto": 181
+      },
+      "marca": "Wynwood",
+      "modelo": null,
+      "sistema_congelacion": "Seca (No Frost)",
+      "voltaje": null
+    }
+  },
+  {
+    "id": "refrigerador-royal-8-5",
+    "name": "Refrigerador Royal 8.5 Pies",
+    "categoryKey": "02_refrigeradores",
+    "categoryName": "Refrigeradores y Neveras",
+    "priceClient": 360,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "02_refrigeradores/Refrigerador-royal-8.5pies.webp",
+    "descriptionShort": "Refrigerador Royal 8.5 pies cúbicos: compacto y eficiente.",
+    "descriptionLong": "El Refrigerador Royal 8.5 pies cúbicos (~240 litros) presenta diseño de dos puertas, dimensiones aproximadas 55 cm ancho × 55 cm profundidad × 143 cm alto. 0 Entregado con garantía de 2 meses, es ideal para espacios pequeños o apartamentos donde el desempeño y la eficiencia son esenciales.",
+    "points": [
+      "Capacidad de ~240 litros (8.5 pies cúbicos). 1",
+      "Diseño compacto: alrededor de 55 cm W × 55 cm D × 143 cm H. 2",
+      "Dos puertas independientes para mayor organización y acceso."
+    ],
+    "specs": {
+      "capacidad_pies_cubicos": 8.5,
+      "capacidad_litros": 240,
+      "marca": "Royal",
+      "modelo": null,
+      "dimensiones_cm": {
+        "ancho": 55,
+        "profundidad": 55,
+        "alto": 143
+      },
+      "peso_neto_kg": null,
+      "tipo_congelacion": null,
+      "voltaje": null
+    }
+  },
+  {
+    "id": "refrigerador-wynwood-14-pies",
+    "name": "Refrigerador Wynwood 14 Pies Congelación seca",
+    "categoryKey": "02_refrigeradores",
+    "categoryName": "Refrigeradores y Neveras",
+    "priceClient": 630,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "02_refrigeradores/Refrigerador-wynwood-14-pies.webp",
+    "descriptionShort": "Refrigerador Wynwood de 14 pies cúbicos con congelación seca y diseño moderno.",
+    "descriptionLong": "El Refrigerador Wynwood 14 pies cúbicos (≈395 litros) ofrece un rendimiento superior gracias a su sistema de congelación seca, evitando escarcha y manteniendo los alimentos frescos por más tiempo. Sus dimensiones de 170 cm alto × 69 cm ancho × 63 cm profundo permiten un ajuste versátil en cocinas modernas. Garantía incluida de 2 meses.",
+    "points": [
+      "Capacidad de 14 pies cúbicos (~395 litros). 0",
+      "Dimensiones: 170 cm alto × 69 cm ancho × 63 cm profundidad. 1",
+      "Sistema de congelación seca (No Frost), control electrónico y diseño eficiente. 2"
+    ],
+    "specs": {
+      "capacidad_pies_cubicos": 14,
+      "capacidad_litros": 395,
+      "marca": "Wynwood",
+      "modelo": "WYD-RF 400",
+      "dimensiones_cm": {
+        "alto": 170,
+        "ancho": 69,
+        "profundidad": 63
+      },
+      "peso_neto_kg": 67,
+      "peso_bruto_kg": 73,
+      "sistema_congelacion": "Seca (No Frost)",
+      "voltaje": "110 V/60 Hz"
+    }
+  },
+  {
+    "id": "nevera-milexus-7-pies",
+    "name": "Nevera MILEXUS 7 pies",
+    "categoryKey": "02_refrigeradores",
+    "categoryName": "Refrigeradores y Neveras",
+    "priceClient": 300,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "02_refrigeradores/nevera-milexus-7pies.webp",
+    "descriptionShort": "Nevera MILEXUS de 7 pies cúbicos con diseño compacto y garantía incluida.",
+    "descriptionLong": "La nevera MILEXUS 7 pies ofrece una combinación excelente de diseño compacto y funcionalidad para espacios pequeños. Con medidas de ancho 82 cm, alto 84 cm y profundidad 56 cm, esta unidad incluye garantía de 2 meses y es ideal para uso doméstico eficiente.",
+    "points": [
+      "Medidas: ancho 82 cm × alto 84 cm × profundidad 56 cm",
+      "Capacidad estimada de ~7 pies cúbicos (≈199 litros)",
+      "Incluye garantía de 2 meses"
+    ],
+    "specs": {
+      "capacidad_pies_cubicos": 7,
+      "capacidad_litros": 199,
+      "marca": "MILEXUS",
+      "modelo": null,
+      "dimensiones_cm": {
+        "ancho": 82,
+        "alto": 84,
+        "profundidad": 56
+      },
+      "voltaje": null,
+      "consumo": null
+    }
+  },
+  {
+    "id": "nevera-premium-5-5-pies",
+    "name": "Nevera *Premium* 5.5 Pies (155 L)",
+    "categoryKey": "02_refrigeradores",
+    "categoryName": "Refrigeradores y Neveras",
+    "priceClient": 230,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "02_refrigeradores/nevera-premium-5.5pies.webp",
+    "descriptionShort": "Nevera tamaño compacto Premium 5.5 pies para espacios eficientes.",
+    "descriptionLong": "Esta nevera Premium de 5.5 pies cúbicos (~155 litros) es la solución perfecta para apartamentos, oficinas o zonas auxiliares que requieren rendimiento sin sacrificar espacio. Con medidas de 154 cm de alto, 45 cm de ancho y 43 cm de profundidad, diseñado pensando en eficiencia, estilo limpio y operación silenciosa. Incluye garantía de 2 meses.",
+    "points": [
+      "Capacidad de aproximadamente 155 litros para uso compacto.",
+      "Dimensiones reducidas: alto 154 cm × ancho 45 cm × profundidad 43 cm.",
+      "Diseño Premium con acabado elegante y garantía incluida."
+    ],
+    "specs": {
+      "capacidad_litros": 155,
+      "capacidad_pies_cubicos": 5.5,
+      "marca": null,
+      "modelo": null,
+      "dimensiones_cm": {
+        "alto": 154,
+        "ancho": 45,
+        "profundidad": 43
+      },
+      "voltaje": null,
+      "consumo": null
+    }
+  },
+  {
+    "id": "nevera-royal-3-5-pies",
+    "name": "Nevera Royal 3.5 Pies",
+    "categoryKey": "02_refrigeradores",
+    "categoryName": "Refrigeradores y Neveras",
+    "priceClient": 190,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "02_refrigeradores/nevera-royal-3.5pies.webp",
+    "descriptionShort": "Refrigerador Royal 3.5 pies cúbicos compacto para espacios reducidos.",
+    "descriptionLong": "El refrigerador Royal de 3.5 pies cúbicos (~100 litros) es la solución práctica para apartamentos, oficinas o zonas secundarias que requieren refrigeración confiable en un formato ultracompacto. Con diseño sencillo, garantía de 2 meses incluida, y voltaje estándar 110-120 V/60 Hz. 0",
+    "points": [
+      "Capacidad de aproximadamente 3.5 pies cúbicos (~100 litros). 1",
+      "Voltaje 110-120 V/60 Hz para compatibilidad doméstica. 2",
+      "Tamaño compacto ideal para espacios pequeños como dormitorios u oficinas."
+    ],
+    "specs": {
+      "capacidad_pies_cubicos": 3.5,
+      "capacidad_litros": 100,
+      "marca": "Royal",
+      "modelo": null,
+      "voltaje": "110-120 V/60 Hz",
+      "dimensiones_mm": null
+    }
+  },
+  {
+    "id": "nevera-royal-7-8-pies",
+    "name": "Nevera Royal 7.8 Pies",
+    "categoryKey": "02_refrigeradores",
+    "categoryName": "Refrigeradores y Neveras",
+    "priceClient": 290,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "02_refrigeradores/nevera-royal-7.8pies.webp",
+    "descriptionShort": "Nevera Royal de 7.8 pies cúbicos, diseño compacto para hogares eficientes.",
+    "descriptionLong": "La nevera Royal 7.8 pies cúbicos (~220 litros) ofrece un balance perfecto entre capacidad y espacio reducido. Con diseño sencillo, funcionamiento confiable y voltaje estándar 110 V/60 Hz, esta unidad es ideal para apartamentos, oficinas o zonas secundarias que exigen refrigeración sin complicaciones.",
+    "points": [
+      "Capacidad de aproximadamente ~220 litros según datos de modelo comparable. 0",
+      "Voltaje estándar 110 V/60 Hz para uso doméstico. 1",
+      "Formato compacto que se adapta a espacios más reducidos."
+    ],
+    "specs": {
+      "capacidad_pies_cubicos": 7.8,
+      "capacidad_litros": 220,
+      "marca": "Royal",
+      "modelo": null,
+      "voltaje": "110 V/60 Hz",
+      "dimensiones_mm": null
+    }
+  },
+  {
+    "id": "lavadora-automatica-royal-11kg",
+    "name": "Lavadora Automática Royal 11 kg",
+    "categoryKey": "03_lavadoras",
+    "categoryName": "Lavadoras y Otras Máquinas",
+    "priceClient": 340,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "03_lavadoras/Lavadora-automatica-11kg-royal.webp",
+    "descriptionShort": "Lavadora automática Royal 11 kg: gran capacidad para cargas grandes.",
+    "descriptionLong": "La lavadora automática Royal de 11 kg ofrece una capacidad sobresaliente para familias que lavan frecuentemente, con motor reforzado, diseño silencioso y eficiente que cuida tu ropa sin sacrificar rendimiento. Ideal para quien busca fiabilidad y economía en un solo equipo. 0",
+    "points": [
+      "Capacidad de 11 kg para cargas voluminosas. 1",
+      "Motor reforzado y operación silenciosa para un lavado eficiente. 2",
+      "Diseño automático top-load, ahorro de agua y energía. 3"
+    ],
+    "specs": {
+      "capacidad_kg": 11,
+      "marca": "Royal",
+      "modelo": null,
+      "voltaje": "120 V / 60 Hz",
+      "potencia_watts": 400,
+      "tipo_carga": "Top Load Automatic",
+      "dimensiones": null
+    }
+  },
+  {
+    "id": "lavadora-semiautomatica-royal-13kg",
+    "name": "Lavadora Semiautomática Royal 13 kg",
+    "categoryKey": "03_lavadoras",
+    "categoryName": "Lavadoras y Otras Máquinas",
+    "priceClient": 290,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "03_lavadoras/Lavadora-semiautomatica-13-kg.webp",
+    "descriptionShort": "Lavadora Royal semiautomática de 13 kg para cargas grandes con doble tina.",
+    "descriptionLong": "Esta lavadora semiautomática Royal de 13 kg (modelo RWT-130) cuenta con doble tina de lavado y centrifugado, 3 niveles de agua, tapa panorámica, filtro atrapa-pelusa y diseño robusto optimizado para familias que requieren rendimiento y fiabilidad. Voltaje 127 V / 60 Hz y potencia nominal de lavado de 400 W. 0",
+    "points": [
+      "Capacidad de 13 kg adecuada para familias medianas o grandes. 1",
+      "Doble tina separada para lavado y centrifugado que reduce el tiempo total. 2",
+      "Voltaje estándar 127 V / 60 Hz con potencia de lavado de 400 W. 3"
+    ],
+    "specs": {
+      "capacidad_kg": 13,
+      "marca": "Royal",
+      "modelo": "RWT-130",
+      "voltaje": "127 V / 60 Hz",
+      "potencia_watts": 400,
+      "tipo_carga": "Semiautomática (Doble Tina)",
+      "dimensiones_mm": {
+        "ancho": 886,
+        "profundidad": 546,
+        "alto": 1052
+      }
+    }
+  },
+  {
+    "id": "lavadora-semiautomatica-eko-8-5kg",
+    "name": "Lavadora Semiautomática EKO 8.5 kg",
+    "categoryKey": "03_lavadoras",
+    "categoryName": "Lavadoras y Otras Máquinas",
+    "priceClient": 220,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "03_lavadoras/Lavadora-semiautomatica-eko-8kg.webp",
+    "descriptionShort": "Lavadora EKO semiautomática de 8.5 kg: rendimiento eficaz, diseño fiable.",
+    "descriptionLong": "La lavadora semiautomática EKO de 8.5 kg combina capacidad ideal para uso doméstico con una operación simple y duradera. Pensada para quienes desean funcionalidad sin complicaciones, este modelo incorpora doble tanque de lavado y centrifugado, filtros antigolpes y sistema de drenaje eficiente. Garantía de 2 meses incluida.",
+    "points": [
+      "Capacidad de 8.5 kg para cargas familiares moderadas.",
+      "Diseño semiautomático con doble tina para lavado y centrifugado rápidos.",
+      "Operación sencilla, fácil mantenimiento y garantía de 2 meses."
+    ],
+    "specs": {
+      "capacidad_kg": 8.5,
+      "marca": "EKO",
+      "modelo": null,
+      "tipo_carga": "Semiautomática (Doble Tina)",
+      "voltaje": null,
+      "potencia_watts": null,
+      "dimensiones_mm": null
+    }
+  },
+  {
+    "id": "lavadora-semiautomatica-royal-10-5kg",
+    "name": "Lavadora Semiautomática Royal 10.5 kg",
+    "categoryKey": "03_lavadoras",
+    "categoryName": "Lavadoras y Otras Máquinas",
+    "priceClient": 230,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "03_lavadoras/Lavadora-semiautomatica-royal-10.5kg.webp",
+    "descriptionShort": "Lavadora Royal semiautomática de 10.5 kg: capacidad cómoda para la carga diaria.",
+    "descriptionLong": "La lavadora semiautomática Royal de 10.5 kg (modelo RWT 105) incorpora doble tina para lavado y centrifugado, tapa panorámica, tres niveles de agua y filtro atrapa-pelusas. Ideal para hogares que buscan una opción tecnológica pero eficiente en consumo. Capacidad de lavado 10.5 kg y centrifugado 4.6 kg. 0",
+    "points": [
+      "Capacidad de lavado 10.5 kg y centrifugado 4.6 kg según especificaciones oficiales. 1",
+      "3 niveles de agua para adaptarse al volumen de ropa. 2",
+      "Sistema de lavado doble (double tub) que mejora eficiencia y duración del ciclo. 3"
+    ],
+    "specs": {
+      "capacidad_kg": 10.5,
+      "marca": "Royal",
+      "modelo": "RWT 105",
+      "tipo_carga": "Semiautomática (Double Tub)",
+      "lavado_kg": 10.5,
+      "centrifugado_kg": 4.6,
+      "voltaje": null,
+      "potencia_watts": null,
+      "dimensiones_mm": null
+    }
+  },
+  {
+    "id": "lavadora-semiautomatica-royal-7-5kg",
+    "name": "Lavadora Semiautomática Royal 7.5 kg",
+    "categoryKey": "03_lavadoras",
+    "categoryName": "Lavadoras y Otras Máquinas",
+    "priceClient": 190,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "03_lavadoras/Lavadora-semiautomatica-royal-7.5kg.webp",
+    "descriptionShort": "Lavadora semiautomática Royal de 7.5 kg — ideal para cargas moderadas.",
+    "descriptionLong": "La lavadora semiautomática Royal de 7.5 kg ofrece una solución confiable y eficiente para hogares con necesidades de lavado regulares. Con diseño tipo twin-tub, controles simples, motor AC robusto y capacidad para aproximadamente 7.5 kg de carga, esta máquina está diseñada para entregar rendimiento sin complicaciones. Garantía de 2 meses incluida.",
+    "points": [
+      "Capacidad de 7.5 kg (~7-8 cargas de ropa promedio).",
+      "Diseño semiautomático twin-tub para lavado + centrifugado eficientes. ([link to similar Royal model specs])",
+      "Motor AC reforzado y operación sencilla, ideal para uso doméstico frecuente."
+    ],
+    "specs": {
+      "capacidad_kg": 7.5,
+      "marca": "Royal",
+      "modelo": null,
+      "tipo_carga": "Semiautomática Twin‐Tub",
+      "voltaje": null,
+      "potencia_watts": null
+    }
+  },
+  {
+    "id": "lavadora-automatica-royal-9kg",
+    "name": "Lavadora Automática Royal 9 kg",
+    "categoryKey": "03_lavadoras",
+    "categoryName": "Lavadoras y Otras Máquinas",
+    "priceClient": 290,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "03_lavadoras/lavadora-automatica-9kg-royal.webp",
+    "descriptionShort": "Lavadora automática Royal de 9 kg con funciones completas y agua fría/caliente.",
+    "descriptionLong": "Esta lavadora automática Royal de 9 kg ofrece capacidad sólida para hogares activos, con opción de agua fría y agua caliente, diseño en color gris, peso neto de 30 kg y dimensiones de 575 × 585 × 970 mm. Garantía de 2 meses incluida, pensada para quienes desean un equipo potente, práctico y durable sin complicaciones.",
+    "points": [
+      "Capacidad de 9 kg — ideal para familias pequeñas o medianas.",
+      "Funcionalidad de agua fría y caliente para mayor flexibilidad en lavado.",
+      "Diseño compacto: 575 mm ancho × 585 mm profundidad × 970 mm alto; peso neto 30 kg."
+    ],
+    "specs": {
+      "capacidad_kg": 9,
+      "marca": "Royal",
+      "modelo": null,
+      "peso_neto_kg": 30,
+      "peso_bruto_kg": 34,
+      "dimensiones_mm": {
+        "ancho": 575,
+        "profundidad": 585,
+        "alto": 970
+      },
+      "tipo_carga": "Automática",
+      "agua_fria_caliente": true
+    }
+  },
+  {
+    "id": "lavadora-automatica-milexus-7-5kg",
+    "name": "Lavadora Automática MILEXUS 7.5 kg",
+    "categoryKey": "03_lavadoras",
+    "categoryName": "Lavadoras y Otras Máquinas",
+    "priceClient": 260,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "03_lavadoras/lavadora-automatica-milexus-7.5kg.webp",
+    "descriptionShort": "Lavadora automática MILEXUS de 7.5 kg: compacta y eficiente.",
+    "descriptionLong": "La lavadora automática MILEXUS de 7.5 kg (modelo ML-LVTL-7.5KGS) incorpora panel digital, capacidad para 7.5 kg de ropa, voltaje 110 V/60 Hz y potencia aproximada de 420 W. Ideal para hogares con espacio limitado que buscan rendimiento y fiabilidad. Garantía de 2 meses incluida. 0",
+    "points": [
+      "Capacidad de 7.5 kg para carga estándar doméstica. 1",
+      "Panel de control digital y diseño superior para facilitar el lavado automático. 2",
+      "Voltaje 110 V/60 Hz y potencia alrededor de 420 W, especificado en modelo ML-LVTL-7.5KGS. 3"
+    ],
+    "specs": {
+      "capacidad_kg": 7.5,
+      "marca": "MILEXUS",
+      "modelo": "ML-LVTL-7.5KGS",
+      "voltaje": "110 V / 60 Hz",
+      "potencia_watts": 420,
+      "tipo_carga": "Automática",
+      "dimensiones_mm": null
+    }
+  },
+  {
+    "id": "lavadora-semiautomatica-milexus-9kg",
+    "name": "Lavadora Semiautomática MILEXUS 9 kg",
+    "categoryKey": "03_lavadoras",
+    "categoryName": "Lavadoras y Otras Máquinas",
+    "priceClient": 220,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "03_lavadoras/lavadora-semiautomatica-milexus-9kg.webp",
+    "descriptionShort": "Lavadora semiautomática MILEXUS de 9 kg con diseño eficiente para uso diario.",
+    "descriptionLong": "La lavadora semiautomática MILEXUS de 9 kg (modelo MLWM9KG) ofrece un diseño compacto con cuerpo robusto, motor de ahorro energético, y capacidad para cargas medias. Voltaje 110 V/60 Hz, ideal para el entorno doméstico sólido. Incluye garantía de 2 meses. 0",
+    "points": [
+      "Capacidad de 9 kg para cargas cómodas de ropa. 1",
+      "Diseño semiautomático twin-tub con filtro atrapa pelusa y motor ahorro energético. 2",
+      "Voltaje estándar 110 V/60 Hz, cuerpo resistente y acabado blanco/grey. 3"
+    ],
+    "specs": {
+      "capacidad_kg": 9,
+      "marca": "MILEXUS",
+      "modelo": "MLWM9KG",
+      "voltaje": "110 V / 60 Hz",
+      "tipo_carga": "Semiautomática (Twin Tub)",
+      "dimensiones_mm": null
+    }
+  },
+  {
+    "id": "lavadora-semiautomatica-premier-9kg",
+    "name": "Lavadora Semiautomática Premier 9 kg",
+    "categoryKey": "03_lavadoras",
+    "categoryName": "Lavadoras y Otras Máquinas",
+    "priceClient": 230,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "03_lavadoras/lavadora-semiautomatica-premier-9kg.webp",
+    "descriptionShort": "Lavadora semiautomática Premier de 9 kg con tiempos optimizados de lavado y centrifugado.",
+    "descriptionLong": "La lavadora semiautomática Premier 9 kg (referencia LAV-6843T2D9BWN1) ofrece una solución eficiente para cargas medianas con diseño doble tina, programaciones clave y sistema de protección para motores. Con capacidad de lavado de 9 kg y centrifugado de 4 kg, temporizador de lavado 15 min y de centrifugado 5 min, filtro atrapa-pelusa, dos entradas superiores de agua y voltaje AC 110 V/60 Hz. Ideal para quienes buscan funcionalidad sin complicaciones. 0",
+    "points": [
+      "Capacidad de lavado 9 kg y centrifugado 4 kg. 1",
+      "Temporizador: 15 min de lavado / 5 min de centrifugado; doble tina y filtro de pelusa. 2",
+      "Voltaje 110 V/60 Hz, motor lavado 135 W / centrifugado 45 W. 3"
+    ],
+    "specs": {
+      "capacidad_kg": 9,
+      "marca": "Premier",
+      "modelo": "LAV-6843T2D9BWN1",
+      "capacidad_centrifugado_kg": 4,
+      "tipo_carga": "Semiautomática (Twin-Tub)",
+      "voltaje": "110 V / 60 Hz",
+      "potencia_watts": {
+        "lavado": 135,
+        "centrifugado": 45
+      },
+      "dimensiones_mm": {
+        "ancho": 760,
+        "profundidad": 470,
+        "alto": 920
+      }
+    }
+  },
+  {
+    "id": "cafetera-electrica-milexus-6-tazas",
+    "name": "Cafetera Eléctrica MILEXUS 6 Tazas",
+    "categoryKey": "04_cocinas",
+    "categoryName": "Cocinas, Hornos y Freidoras",
+    "priceClient": 45,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "04_cocinas/Cafetera-electrica-6-tazas.webp",
+    "descriptionShort": "Cafetera eléctrica MILEXUS para hasta 6 tazas, ideal para uso diario.",
+    "descriptionLong": "Esta cafetera eléctrica de la marca MILEXUS permite preparar hasta 6 tazas de café de forma rápida y práctica. Diseño compacto, control sencillo y construcción fiable, perfecta para apartamentos o espacios reducidos.",
+    "points": [
+      "Capacidad para 6 tazas, perfecta para desayuno o uso pequeño.",
+      "Diseño compacto que se adapta a cocinas pequeñas o estaciones de café.",
+      "Funcionamiento eléctrico con control fácil de usar."
+    ],
+    "specs": {
+      "marca": "MILEXUS",
+      "modelo": null,
+      "capacidad_tazas": 6,
+      "voltaje": null,
+      "potencia_watts": null
+    }
+  },
+  {
+    "id": "cocina-milexus-horno-encendido-magneto",
+    "name": "Cocina Milexus con horno y encendido por Magneto",
+    "categoryKey": "04_cocinas",
+    "categoryName": "Cocinas, Hornos y Freidoras",
+    "priceClient": 240,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "04_cocinas/Cocina-con-horno-milexus.webp",
+    "descriptionShort": "Cocina Milexus de acero inoxidable con horno integrado y encendido por magneto.",
+    "descriptionLong": "La cocina Milexus con horno incorporado y sistema de encendido por magneto combina diseño en acero inoxidable, dimensiones 50.5 cm ancho × 58 cm profundidad × 86.5 cm alto, y funcionalidad profesional para el hogar. Ideal para quienes quieren versatilidad, rendimiento y estética moderna en un solo equipo.",
+    "points": [
+      "Material de construcción: acero inoxidable para mayor durabilidad.",
+      "Encendido por magneto sin fósforos para mayor seguridad y facilidad.",
+      "Dimensiones compactas 50.5 × 58 × 86.5 cm — apta para espacios medianos."
+    ],
+    "specs": {
+      "marca": "Milexus",
+      "modelo": null,
+      "material": "Acero inoxidable",
+      "dimensiones_cm": {
+        "ancho": 50.5,
+        "profundidad": 58,
+        "alto": 86.5
+      },
+      "sistema_encendido": "Magneto",
+      "tipo_carga": "Gas con horno",
+      "capacidad_horno": null
+    }
+  },
+  {
+    "id": "cocina-induccion-lotus-800w",
+    "name": "Cocina Inducción Lotus 800 W",
+    "categoryKey": "04_cocinas",
+    "categoryName": "Cocinas, Hornos y Freidoras",
+    "priceClient": 50,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "04_cocinas/Cocina-de-induccion-lotus.webp",
+    "descriptionShort": "Cocina de inducción Lotus de 800 W con funciones automáticas y manuales.",
+    "descriptionLong": "La cocina de inducción Lotus 800 W combina potencia, versatilidad y diseño compacto para uso doméstico e institucional. Incluye funciones automáticas y manuales, superficie de cocción eficiente y garantía de 1 mes. Potencia 800 W, voltaje 110 V-60 Hz según especificaciones del modelo. 0",
+    "points": [
+      "Potencia de 800 W para calentamiento rápido y eficiente. 1",
+      "Funciones automáticas y manuales que permiten controlar la temperatura y el tiempo de cocción.",
+      "Diseño portátil y práctico, ideal para cocinas pequeñas o como complemento."
+    ],
+    "specs": {
+      "marca": "Lotus",
+      "modelo": null,
+      "potencia_watts": 800,
+      "voltaje": "110 V / 60 Hz",
+      "tipo": "Inducción",
+      "funciones": "Automáticas y manuales"
+    }
+  },
+  {
+    "id": "cocina-induccion-wynwood-2-quemadores-wyd-c401d",
+    "name": "Cocina de inducción Wynwood 2 quemadores WYD-C401D",
+    "categoryKey": "04_cocinas",
+    "categoryName": "Cocinas, Hornos y Freidoras",
+    "priceClient": 100,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "04_cocinas/Cocina-de-induccion-wynwood-2-quemadores.webp",
+    "descriptionShort": "Cocina de inducción Wynwood con 2 zonas de cocción 2000W+2000W.",
+    "descriptionLong": "La cocina de inducción Wynwood modelo WYD-C401D ofrece dos zonas independientes de cocción (2000 W + 2000 W), voltaje 110 V 50/60 Hz, sistema de protección contra sobrecalentamiento, bajo consumo de energía y diseño compacto pensado para hogares modernos. Garantía de 2 meses incluida. 0",
+    "points": [
+      "Potencia combinada 4000 W (2 × 2000 W) para cocción rápida y eficiente. 1",
+      "Dos zonas de inducción independientes para cocinar simultáneamente. 2",
+      "Voltaje estándar 110 V 50/60 Hz con protección térmica integrada. 3"
+    ],
+    "specs": {
+      "marca": "Wynwood",
+      "modelo": "WYD-C401D",
+      "potencia_watts": {
+        "zona1": 2000,
+        "zona2": 2000
+      },
+      "voltaje": "110 V 50/60 Hz",
+      "tipo": "Inducción de dos zonas",
+      "extras": "Protección contra sobrecalentamiento"
+    }
+  },
+  {
+    "id": "cocina-induccion-wynwood-wyd-c401",
+    "name": "Cocina de Inducción Wynwood WYD-C401",
+    "categoryKey": "04_cocinas",
+    "categoryName": "Cocinas, Hornos y Freidoras",
+    "priceClient": 70,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "04_cocinas/Cocina-de-induccion-wynwood.webp",
+    "descriptionShort": "Cocina de inducción Wynwood modelo WYD-C401 de 2000 W.",
+    "descriptionLong": "La cocina de inducción Wynwood modelo WYD-C401 ofrece 2000 W de potencia, voltaje 110 V 50/60 Hz, funciones automáticas y manuales, superficie de cocción por inducción de alta eficiencia, diseño compacto y garantía de 2 meses. Ideal para espacios pequeños o como complemento de cocina principal. 0",
+    "points": [
+      "Potencia 2000 W para calentamiento rápido y control preciso. 1",
+      "Voltaje 110 V 50/60 Hz para compatibilidad doméstica. 2",
+      "Superficie de vidrio templado con funciones automáticas programadas y control manual para máxima versatilidad. 3"
+    ],
+    "specs": {
+      "marca": "Wynwood",
+      "modelo": "WYD-C401",
+      "potencia_watts": 2000,
+      "voltaje": "110 V / 50/60 Hz",
+      "tipo": "Inducción (zona única)",
+      "dimensiones_mm": {
+        "alto": 58,
+        "ancho": 280,
+        "profundidad": 342
+      }
+    }
+  },
+  {
+    "id": "cocina-infrarrojo-milexus-2q",
+    "name": "Cocina Infrarrojo Milexus 2Q",
+    "categoryKey": "04_cocinas",
+    "categoryName": "Cocinas, Hornos y Freidoras",
+    "priceClient": 120,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "04_cocinas/Cocina-milexus-infrarojo.webp",
+    "descriptionShort": "Cocina infrarroja Milexus 2Q: eficiencia y diseño compacto.",
+    "descriptionLong": "La cocina infrarroja Milexus 2Q cuenta con tecnología de calefacción por infrarrojos (sin radiación electromagnética de alta frecuencia), potencia de 1 800 W (1000 W + 800 W), voltaje 110 V / 60 Hz, modelo ML-EE2QIND, superficie de vidrio templado, temporizador de 1–99 minutos y garantía de 1 mes incluida. Ideal para cocinas pequeñas u oficinas que demandan funcionamiento rápido y eficiente. 0",
+    "points": [
+      "Potencia combinada de 1800 W (1000 W + 800 W). 1",
+      "Tecnología infrarroja de alta eficiencia, sin radiación electromagnética de alta frecuencia. 2",
+      "Voltaje estándar 110 V / 60 Hz, temporizador de 1 a 99 minutos, superficie de vidrio templado fácil de limpiar. 3"
+    ],
+    "specs": {
+      "marca": "Milexus",
+      "modelo": "ML-EE2QIND",
+      "potencia_watts": 1800,
+      "voltaje": "110 V / 60 Hz",
+      "tipo": "Infrarrojo de 2 zonas",
+      "dimensiones_cm": {
+        "ancho": 58,
+        "profundidad": 37,
+        "alto": 43
+      }
+    }
+  },
+  {
+    "id": "microwave-milexus-20l",
+    "name": "Microwave Milexus 20 L",
+    "categoryKey": "04_cocinas",
+    "categoryName": "Cocinas, Hornos y Freidoras",
+    "priceClient": 110,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "04_cocinas/Microondas-20l-milexus.webp",
+    "descriptionShort": "Microwave Milexus de 20 litros, 700 W, voltaje 110 V / 60 Hz.",
+    "descriptionLong": "El microondas Milexus de 20 litros y 700 W de potencia es una solución compacta pero potente para uso doméstico. Con dimensiones de 451 × 343 × 258 mm, ofrece control sencillo, buen desempeño y garantía de 1 mes incluida. Ideal para hogares que necesitan una opción económica y funcional para calentar, descongelar o cocinar rápidamente.",
+    "points": [
+      "Capacidad de 20 litros — suficiente para platos medianos y uso frecuente. 1",
+      "Potencia 700 W y voltaje 110 V / 60 Hz para compatibilidad doméstica estándar. 2",
+      "Dimensiones compactas de 451 × 343 × 258 mm, diseño que ahorra espacio. (basado en tu dato)"
+    ],
+    "specs": {
+      "marca": "Milexus",
+      "modelo": null,
+      "capacidad_litros": 20,
+      "potencia_watts": 700,
+      "voltaje": "110 V / 60 Hz",
+      "dimensiones_mm": {
+        "ancho": 451,
+        "profundidad": 343,
+        "alto": 258
+      }
+    }
+  },
+  {
+    "id": "olla-arrocera-milexus-2-2l",
+    "name": "Olla Arrocera Milexus 2.2 L",
+    "categoryKey": "04_cocinas",
+    "categoryName": "Cocinas, Hornos y Freidoras",
+    "priceClient": 45,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "04_cocinas/Olla-arrocera-milexus-2.2L.webp",
+    "descriptionShort": "Olla arrocera Milexus de 2.2 litros con función de cocción automática.",
+    "descriptionLong": "La olla arrocera Milexus 2.2 L (modelo ML-OA-2.2L-WHITE) es una solución práctica para preparar arroz y vaporizar alimentos con facilidad. Cuenta con olla interior antiadherente, tapa de vidrio templado, función de mantener caliente y capacidad para aproximadamente 12 tazas cocidas. Ideal para familias pequeñas. Garantía de 1 mes incluida. 0",
+    "points": [
+      "Capacidad de 2.2 litros, suficiente para preparar hasta 12 tazas cocidas. 1",
+      "Tapa de vidrio templado que permite verificación de cocción sin abrir la tapa. 2",
+      "Función de cocción automática y mantenimiento en caliente para mayor comodidad. 3"
+    ],
+    "specs": {
+      "marca": "Milexus",
+      "modelo": "ML-OA-2.2L-WHITE",
+      "capacidad_litros": 2.2,
+      "capacidad_tazas_cocidas": 12,
+      "tipo": "Olla arrocera eléctrica",
+      "dimensiones_mm": null,
+      "voltaje": null,
+      "potencia_watts": null
+    }
+  },
+  {
+    "id": "olla-reyna-milexus-6l",
+    "name": "Olla Reyna Milexus 6 L",
+    "categoryKey": "04_cocinas",
+    "categoryName": "Cocinas, Hornos y Freidoras",
+    "priceClient": 75,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "04_cocinas/Olla-reina-milexus-6L.webp",
+    "descriptionShort": "Olla multifunción Reyna Milexus de 6 litros, ideal para cocción versátil.",
+    "descriptionLong": "La olla multifunción Reyna Milexus de 6 litros (modelo ML-OA-6L) combina gran capacidad con diseño seguro: potencia de 1 000 W, voltaje 110 V/60 Hz, presión máxima de 90 kPa y panel digital con 12 pre-programas para distintas recetas. Incluye garantía de 1 mes. 0",
+    "points": [
+      "Capacidad de 6 litros y potencia de 1 000 W para rendir múltiples platos. 1",
+      "Voltaje estándar 110 V/60 Hz, ideal para uso doméstico. 2",
+      "Panel digital con 12 preajustes y cierre de seguridad para uso conveniente y seguro. 3"
+    ],
+    "specs": {
+      "marca": "Milexus",
+      "modelo": "ML-OA-6L",
+      "capacidad_litros": 6,
+      "potencia_watts": 1000,
+      "voltaje": "110 V / 60 Hz",
+      "presion_maxima_kpa": 90,
+      "tipo": "Olla multifunción eléctrica"
+    }
+  },
+  {
+    "id": "olla-reyna-wynwood-6l",
+    "name": "Olla Reyna Wynwood 6 L",
+    "categoryKey": "04_cocinas",
+    "categoryName": "Cocinas, Hornos y Freidoras",
+    "priceClient": 60,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "04_cocinas/Olla-reina-wynwood-6L.webp",
+    "descriptionShort": "Olla Reyna Wynwood de 6 litros, utensilio clave para tu cocina.",
+    "descriptionLong": "La Olla Reyna Wynwood de 6 litros (modelo WYD-OLLP6) cuenta con capacidad de 6 L, potencia de 1000 W, voltaje de 110 V / 60 Hz, y recipiente interno de aluminio con revestimiento antiadherente. Su diseño está pensado para cocinar de forma eficiente, cuidar los alimentos y facilitar la limpieza. Garantía de 2 meses incluida. 0",
+    "points": [
+      "Potencia de 1000 W para cocción rápida y eficiente. 1",
+      "Capacidad de 6 litros — ideal para uso doméstico habitual. 2",
+      "Voltaje estándar 110 V / 60 Hz y interior antiadherente para mayor durabilidad. 3"
+    ],
+    "specs": {
+      "marca": "Wynwood",
+      "modelo": "WYD-OLLP6",
+      "capacidad_litros": 6,
+      "potencia_watts": 1000,
+      "voltaje": "110 V / 60 Hz",
+      "tipo": "Olla eléctrica",
+      "material_interno": "Aluminio antiadherente"
+    }
+  },
+  {
+    "id": "freidora-aire-milexus-4-2l",
+    "name": "Freidora de Aire Milexus 4.2 L",
+    "categoryKey": "04_cocinas",
+    "categoryName": "Cocinas, Hornos y Freidoras",
+    "priceClient": 80,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "04_cocinas/freidora-de-aire-milexus.webp",
+    "descriptionShort": "Freidora de aire Milexus de 4.2 litros con temperatura ajustable.",
+    "descriptionLong": "La freidora de aire Milexus de 4.2 litros ofrece una alternativa saludable para cocinar tus platillos favoritos con mínimo uso de aceite. Con capacidad de 4.2 L, potencia aproximadamente 1400 W y diseño compacto, es perfecta para cocinas modernas que aprecian eficacia y simplicidad. Incluye garantía de 1 mes. 1",
+    "points": [
+      "Capacidad de 4.2 litros — ideal para uso doméstico. 2",
+      "Potencia reportada hasta ~1400 W según publicaciones. 3",
+      "Diseño de freidora de aire para reducir grasa y facilitar limpieza."
+    ],
+    "specs": {
+      "marca": "Milexus",
+      "modelo": null,
+      "capacidad_litros": 4.2,
+      "potencia_watts": 1400,
+      "voltaje": null,
+      "tipo": "Freidora de aire"
+    }
+  },
+  {
+    "id": "freidora-aire-premier-3-5l",
+    "name": "Freidora de Aire Premier 3.5 L",
+    "categoryKey": "04_cocinas",
+    "categoryName": "Cocinas, Hornos y Freidoras",
+    "priceClient": 80,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "04_cocinas/freidora-de-aire-premier.webp",
+    "descriptionShort": "Freidora sin aceite Premier de 3.5 L con potencia de 1300 W.",
+    "descriptionLong": "La freidora de aire Premier de 3.5 litros es la solución para disfrutar alimentos crujientes con hasta un 90% menos de aceite. Con potencia de 1300 W y control de temperatura de 100 °C a 200 °C, temporizador de hasta 30 minutos y garantía de 1 mes incluida. Ideal para hogares que buscan eficiencia, salud y facilidad.",
+    "points": [
+      "Capacidad de 3.5 litros para comidas individuales o pares.",
+      "Potencia 1300 W y voltaje AC 120 V / 60 Hz para cocción rápida.",
+      "Diseño sin aceite que permite cocinar de forma más saludable."
+    ],
+    "specs": {
+      "marca": "Premier",
+      "modelo": null,
+      "capacidad_litros": 3.5,
+      "potencia_watts": 1300,
+      "voltaje": "120 V / 60 Hz",
+      "tipo": "Freidora de Aire"
+    }
+  },
+  {
+    "id": "juegos-ollas-induccion-3-piezas",
+    "name": "Juegos de Ollas de Inducción (3 piezas)",
+    "categoryKey": "04_cocinas",
+    "categoryName": "Cocinas, Hornos y Freidoras",
+    "priceClient": 50,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "04_cocinas/juego-de-ollas-de-induccion.webp",
+    "descriptionShort": "Set de 3 ollas compatible con cocina de inducción.",
+    "descriptionLong": "Este conjunto de 3 piezas de ollas diseñadas para cocinas de inducción combina funcionalidad, estilo y adaptabilidad para todo tipo de superficies de cocción. Incluye ollas de distintos tamaños suficientes para cubrir necesidades básicas de cocina. Ideal para compras inteligentes y espacios compactos.",
+    "points": [
+      "Compatibles con placas de inducción, gas, cerámicas y otras fuentes de calor. 0",
+      "Diseño de 3 piezas pensado para ofrecer versatilidad (olla pequeña, mediana y grande) en un solo set. 1",
+      "Material antiadherente o acero inoxidable de alta calidad para cocción eficiente. 2"
+    ],
+    "specs": {
+      "pieces": 3,
+      "compatible_heat_sources": [
+        "Induction",
+        "Gas",
+        "Ceramic",
+        "Electric"
+      ],
+      "material": "Stainless steel / aluminium core or Non-stick variant",
+      "brand": null,
+      "model": null
+    }
+  },
+  {
+    "id": "olla-arrocera-wynwood-1-8l",
+    "name": "Olla Arrocera Wynwood 1.8 L",
+    "categoryKey": "04_cocinas",
+    "categoryName": "Cocinas, Hornos y Freidoras",
+    "priceClient": 50,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "04_cocinas/olla-arrocera-wynwood-1.8L.webp",
+    "descriptionShort": "Olla arrocera Wynwood de 1.8 litros, ideal para espacios compactos.",
+    "descriptionLong": "La olla arrocera Wynwood de 1.8 L ofrece una solución práctica y eficiente para preparar arroz, granos y comidas al vapor. Con capacidad para aproximadamente 1-2 personas, diseño compacto y operación sencilla, es perfecta para cocinas pequeñas o auxiliar. Precio de venta público 50 USD.",
+    "points": [
+      "Capacidad de 1.8 litros — perfecta para apartamentos o uso individual.",
+      "Diseño compacto y fácil de almacenar.",
+      "Operación simple con un solo botón y función de mantener caliente."
+    ],
+    "specs": {
+      "marca": "Wynwood",
+      "modelo": null,
+      "capacidad_litros": 1.8,
+      "tipo": "Olla arrocera eléctrica",
+      "voltaje": null,
+      "potencia_watts": null
+    }
+  },
+  {
+    "id": "split-milexus-1-5-toneladas",
+    "name": "Split Milexus 1.5 Toneladas",
+    "categoryKey": "05_ventilacion",
+    "categoryName": "Ventilación y Climatización",
+    "priceClient": 470,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "05_ventilacion/Split-milexus-1.5-toneladas.webp",
+    "descriptionShort": "Aire acondicionado split Milexus de 1.5 toneladas color blanco, nuevo con 1 mes de garantía.",
+    "descriptionLong": "Este sistema split de la marca Milexus de capacidad 1.5 toneladas (≈18 000 BTU) en color blanco viene completamente nuevo e incluye tuberías de cobre, kit de montaje, mando a distancia y domicilio según el lugar. Ideal para enfriar ambientes amplios con instalación fácil y garantía de un mes.",
+    "points": [
+      "Capacidad de 1.5 toneladas (~18 000 BTU) para cubrir espacios de tamaño medio-grande. 0",
+      "Tuberías de cobre y kit de montaje incluidos para instalación más fiable. 1",
+      "Control remoto inalámbrico, funciones anti-hongos, panel LED digital y domicilio incluido según el lugar. 2"
+    ],
+    "specs": {
+      "marca": "Milexus",
+      "modelo": null,
+      "capacidad_toneladas": 1.5,
+      "capacidad_btu": 18000,
+      "voltaje": "110 V / 60 Hz",
+      "tipo": "Split pared (unidad interior + exterior)",
+      "material_tuberia": "Cobre"
+    }
+  },
+  {
+    "id": "split-milexus-2-toneladas",
+    "name": "Split Milexus 2 Toneladas",
+    "categoryKey": "05_ventilacion",
+    "categoryName": "Ventilación y Climatización",
+    "priceClient": 620,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "05_ventilacion/Split-milexus-2-toneladas.webp",
+    "descriptionShort": "Aire acondicionado split Milexus de 2 toneladas color blanco, nuevo con instalación completa.",
+    "descriptionLong": "Sistema de aire acondicionado tipo split de la marca Milexus, capacidad 2 toneladas (≈24 000 BTU), color blanco, completamente nuevo. Incluye tuberías de cobre, kit de montaje, mando a distancia, instalación básica según domicilio y garantía de 1 mes. Ideal para enfriar espacios amplios con eficiencia y estilo.",
+    "points": [
+      "Capacidad aproximada de 2 toneladas (~24 000 BTU) para ambientes grandes.",
+      "Tuberías de cobre y kit de montaje incluidos para instalación fiable.",
+      "Mando a distancia, color blanco y garantía de 1 mes para mayor tranquilidad."
+    ],
+    "specs": {
+      "marca": "Milexus",
+      "modelo": null,
+      "capacidad_toneladas": 2,
+      "capacidad_btu": 24000,
+      "tipo": "Split pared (unidad interior + exterior)",
+      "material_tuberia": "Cobre"
+    }
+  },
+  {
+    "id": "ventilador-industrial-pared-jinghan",
+    "name": "Ventilador Industrial de Pared Jinghan",
+    "categoryKey": "05_ventilacion",
+    "categoryName": "Ventilación y Climatización",
+    "priceClient": 150,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "05_ventilacion/Ventilador-industrial-de-pared.webp",
+    "descriptionShort": "Ventilador industrial de pared Jinghan 100 W, 110 V/60Hz.",
+    "descriptionLong": "Ventilador industrial de pared de la marca Jinghan diseñado para ambientes comerciales o industriales, con potencia de 100 W, voltaje 110 V/60 Hz, velocidad de rotación 1400 rpm y garantía de 2 meses incluida. Ideal para proporcionar un flujo de aire potente y continuo en espacios amplios.",
+    "points": [
+      "Potencia de 100 W y velocidad de rotación 1400 rpm según especificación del producto. 1",
+      "Voltaje estándar 110 V/60 Hz compatible con instalación doméstica o ligera industrial.",
+      "Diseño de pared industrial que ahorra espacio y entrega ventilación eficiente."
+    ],
+    "specs": {
+      "marca": "Jinghan",
+      "modelo": null,
+      "potencia_watts": 100,
+      "voltaje": "110 V / 60 Hz",
+      "velocidad_rpm": 1400,
+      "tipo": "Ventilador de pared industrial"
+    }
+  },
+  {
+    "id": "ventilador-industrial-pedestal-jinghan-24",
+    "name": "Ventilador Industrial de Pedestal Jinghan 24″",
+    "categoryKey": "05_ventilacion",
+    "categoryName": "Ventilación y Climatización",
+    "priceClient": 160,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "05_ventilacion/Ventilador-industrial-de-pedestal.webp",
+    "descriptionShort": "Ventilador industrial de pedestal Jinghan 24″, 130 W, 110 V／60 Hz.",
+    "descriptionLong": "Este ventilador industrial de pedestal de la marca Jinghan de 24 pulgadas ofrece potencia de 130 W, voltaje 110 V／60 Hz y velocidad de rotación de 1350 rpm. Ideal para espacios amplios que requieren circulación de aire constante y robustez industrial. Incluye garantía de 2 meses y está diseñado para un uso intensivo en entornos como talleres, almacenes o zonas de producción.",
+    "points": [
+      "Potencia de 130 W y velocidad de 1350 rpm para circulación eficiente de aire.",
+      "Voltaje 110 V／60 Hz, adecuado para instalación en redes domésticas o industriales ligeras.",
+      "Diseño de pedestal industrial de 24″, ideal para usos intensivos en espacios amplios."
+    ],
+    "specs": {
+      "marca": "Jinghan",
+      "modelo": null,
+      "tamaño_pulgadas": 24,
+      "potencia_watts": 130,
+      "voltaje": "110 V / 60 Hz",
+      "velocidad_rpm": 1350,
+      "tipo": "Ventilador de pedestal industrial",
+      "garantia_mes": 2
+    }
+  },
+  {
+    "id": "ventilador-recargable-solar-fan",
+    "name": "Ventilador Recargable SOLAR FAN",
+    "categoryKey": "05_ventilacion",
+    "categoryName": "Ventilación y Climatización",
+    "priceClient": 75,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "05_ventilacion/Ventilador-recargable-solar-fan.webp",
+    "descriptionShort": "Ventilador recargable Solar Fan: sin cable, energía solar + batería.",
+    "descriptionLong": "El ventilador recargable ‘Solar Fan’ combina panel solar integrado, batería recargable y diseño portátil para uso en hogar, oficina, camping o emergencia. Funciona sin depender únicamente de la red eléctrica, ideal para ahorro y movilidad. Garantía válida por 20 días incluida.",
+    "points": [
+      "Recargable por panel solar o USB para máxima independencia.",
+      "Diseño portátil que facilita su uso en interiores o exteriores.",
+      "Versión ecológica que reduce dependencia de la red eléctrica."
+    ],
+    "specs": {
+      "marca": null,
+      "modelo": null,
+      "tipo": "Ventilador recargable solar",
+      "modo_energia": "Solar + batería recargable",
+      "voltaje": null,
+      "potencia_watts": null
+    }
+  },
+  {
+    "id": "split-milexus-1-ton",
+    "name": "Split Milexus 1 Ton",
+    "categoryKey": "05_ventilacion",
+    "categoryName": "Ventilación y Climatización",
+    "priceClient": 270,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "05_ventilacion/split-milexus-1tonelada.webp",
+    "descriptionShort": "Split Milexus de 1 tonelada, nuevo con garantía de 2-meses.",
+    "descriptionLong": "El aire acondicionado split de la marca Milexus con capacidad de 1 tonelada (~12 000 BTU) incluye tuberías de cobre, mando a distancia y kit de montaje básico, ideal para enfriar un área mediana con eficiencia. Garantía de 2 meses incluida.",
+    "points": [
+      "Capacidad de 1 tonelada (~12 000 BTU) según especificaciones del modelo ML-SPAC-12K. 0",
+      "Incluye tuberías de cobre de 3.5 m para instalación fiable. 1",
+      "Garantía de 2 meses — nuevo, listo para instalación."
+    ],
+    "specs": {
+      "marca": "Milexus",
+      "modelo": "ML-SPAC-12K",
+      "capacidad_toneladas": 1,
+      "capacidad_btu": 12000,
+      "voltaje": "220 V / 60 Hz",
+      "tipo": "Split unidad interior + exterior",
+      "material_tuberia": "Cobre"
+    }
+  },
+  {
+    "id": "ventilador-recargable-solar-fan-ganshi-f6",
+    "name": "Ventilador Recargable Gangshi F6 20000 mAh",
+    "categoryKey": "05_ventilacion",
+    "categoryName": "Ventilación y Climatización",
+    "priceClient": 75,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "05_ventilacion/ventilador-recargable-gangshi.webp",
+    "descriptionShort": "Ventilador recargable Gangshi F6 con batería de 20000 mAh y potencia de 15 W.",
+    "descriptionLong": "El ventilador recargable Gangshi modelo F6 cuenta con batería interna de 20000 mAh, potencia de trabajo 15 W, voltaje V5, y dimensiones de 227×119×290 mm. Ideal para uso portátil, exteriores, camping o zonas sin acceso directo al sistema eléctrico. Diseño que combina versatilidad y autonomía.",
+    "points": [
+      "Batería recargable de 20000 mAh según especificación del producto. 0",
+      "Potencia de 15 W para funcionamiento eficiente sin sacrificar movilidad. 1",
+      "Diseño compacto (227×119×290 mm) que facilita su traslado y almacenamiento."
+    ],
+    "specs": {
+      "marca": "Gangshi",
+      "modelo": "F6",
+      "capacidad_bateria_mAh": 20000,
+      "potencia_watts": 15,
+      "voltaje": "V5",
+      "dimensiones_mm": {
+        "ancho": 119,
+        "alto": 290,
+        "profundidad": 227
+      },
+      "tipo": "Ventilador Recargable"
+    }
+  },
+  {
+    "id": "calentador-agua-vivamax-50-l",
+    "name": "Calentador de Agua Vivamax 50 L",
+    "categoryKey": "08_agua",
+    "categoryName": "Motores de Agua y Presurizadores",
+    "priceClient": 290,
+    "status": "In stock",
+    "featured": "calentador-de-agua-vivamax.webp",
+    "imageFilename": "08_agua/calentador-de-agua-vivamax.webp",
+    "descriptionShort": "Calentador de agua Vivamax de 50 litros con garantía de 2 meses.",
+    "descriptionLong": "El calentador de agua Vivamax 50 L es una solución eficiente para proporcionar agua caliente en el hogar o en instalaciones pequeñas. Con aislamiento térmico, diseño vertical, y capacidad de 50 litros, ofrece rendimiento confiable y garantía de 2 meses. Incluye instalación básica según condiciones del proveedor.",
+    "points": [
+      "Capacidad de 50 litros para suministro continuo de agua caliente.",
+      "Diseño vertical con aislamiento térmico para menor pérdida energética.",
+      "Garantía de 2 meses y rendimiento confiable para uso doméstico."
+    ],
+    "specs": {
+      "marca": "Vivamax",
+      "modelo": null,
+      "capacidad_litros": 50,
+      "tipo": "Calentador eléctrico de agua",
+      "voltaje": null,
+      "potencia_watts": null
+    }
+  },
+  {
+    "id": "exhibidora-pasteleria-horizontal-caliente",
+    "name": "Exhibidora de Pastelería Horizontal Caliente",
+    "categoryKey": "09_exhibidoras_industrial",
+    "categoryName": "Exhibidoras, Heladeras y Equipos Industriales",
+    "priceClient": 1350,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "09_exhibidoras_industrial/Exhibidora-de-pasteleria-horizontal-caliente.webp",
+    "descriptionShort": "Exhibidora caliente horizontal con temperatura ajustable y LED para pastelería.",
+    "descriptionLong": "Este vistoso equipo de exhibición horizontal para pastelería permite mantener tus productos entre 86 °F y 194 °F (≈ 30-90 °C) gracias a su controlador ajustable. Está fabricado en vidrio templado y acero inoxidable, con dimensiones de 690×500×720 mm, potencia de 0.5 kW, voltaje 220 V/60 Hz monofásico, peso neto de 56 kg, iluminación LED interna y color plateado. Ideal para vitrinas de panadería, cafeterías o tiendas que desean presentación y conservación térmica. Garantía de 2 meses incluida.",
+    "points": [
+      "Regulación de temperatura de 30-90 °C para mantener textura y frescura. 0",
+      "Iluminación LED interior que realza la presentación de tus productos. 1",
+      "Construcción en vidrio templado + acero inoxidable, medida compacta 690×500×720 mm y diseño profesional. 2"
+    ],
+    "specs": {
+      "potencia_watts": 500,
+      "voltaje": "220 V / 60 Hz",
+      "material": "Vidrio templado + acero inoxidable",
+      "dimensiones_mm": {
+        "ancho": 690,
+        "profundidad": 500,
+        "alto": 720
+      },
+      "peso_neto_kg": 56,
+      "temperatura_min_C": 30,
+      "temperatura_max_C": 90
+    }
+  },
+  {
+    "id": "exhibidora-dulces-xingx-235l",
+    "name": "Exhibidora Horizontal para Dulces XINGX 235 L",
+    "categoryKey": "09_exhibidoras_industrial",
+    "categoryName": "Exhibidoras, Heladeras y Equipos Industriales",
+    "priceClient": 3600,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "09_exhibidoras_industrial/Exhibidora-para-dulces-235L.webp",
+    "descriptionShort": "Exhibidora horizontal para dulces XINGX-235 L con refrigeración forzada y transporte incluido.",
+    "descriptionLong": "Esta vitrina refrigerada XINGX de 235 litros de capacidad está diseñada para exhibir dulces, pastelería y productos alimenticios con máxima visibilidad. Cuenta con refrigeración por aire forzado, compresor modelo NUT70NR, temperatura ajustable entre 2-8 °C, gas R290, voltaje 110 V/60 Hz, peso neto 197 kg y dimensiones de embalaje 1580×855×1280 mm. Transpote incluido y garantía de 2 meses.",
+    "points": [
+      "Capacidad de 235 L para exhibición profesional de pastelería o dulces.",
+      "Refrigeración por aire forzado con compresor NUT70NR y gas ecológico R290 para eficiencia energética.",
+      "Transporte incluido + garantía de 2 meses para entrega e instalación sin sorpresas."
+    ],
+    "specs": {
+      "marca": "XINGX",
+      "modelo": null,
+      "capacidad_litros": 235,
+      "compresor": "NUT70NR",
+      "temperatura_min_C": 2,
+      "temperatura_max_C": 8,
+      "voltaje": "110 V / 60 Hz",
+      "gas_refrigerante": "R290/135g",
+      "peso_neto_kg": 197,
+      "dimensiones_mm": {
+        "ancho": 1580,
+        "profundidad": 855,
+        "alto": 1280
+      },
+      "tipo": "Vitrina refrigerada de exhibición horizontal"
+    }
+  },
+  {
+    "id": "exhibidora-norizontal-xingx-235l",
+    "name": "Exhibidora Horizontal  XINGX 235 L",
+    "categoryKey": "09_exhibidoras_industrial",
+    "categoryName": "Exhibidoras, Heladeras y Equipos Industriales",
+    "priceClient": 3500,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "09_exhibidoras_industrial/Exhibidora-para-dulces-235L.webp",
+    "descriptionShort": "Exhibidora horizontal para dulces XINGX de 235 litros con transporte incluido.",
+    "descriptionLong": "La exhibidora XINGX de 235 L está diseñada para la conservación y exhibición de productos dulces con estilo profesional. Incluye compresor NUT70NR, rango de temperatura de 2-8 °C, gas refrigerante R290/135 g, voltaje 110 V/60 Hz, peso de 197 kg y dimensiones de embalaje 1580 × 855 × 1280 mm. Transporte incluido y garantía de 2 meses.",
+    "points": [
+      "Capacidad de 235 litros para exhibir de forma destacada tus productos.",
+      "Rango de temperatura de 2-8 °C con tecnología de refrigeración de aire forzado y compresor NUT70NR.",
+      "Transporte incluido y garantía de 2 meses para instalación sin contratiempos."
+    ],
+    "specs": {
+      "marca": "XINGX",
+      "modelo": null,
+      "capacidad_litros": 235,
+      "compresor": "NUT70NR",
+      "temperatura_min_C": 2,
+      "temperatura_max_C": 8,
+      "voltaje": "110 V / 60 Hz",
+      "gas_refrigerante": "R290/135 g",
+      "peso_neto_kg": 197,
+      "dimensiones_mm": {
+        "ancho": 1580,
+        "profundidad": 855,
+        "alto": 1280
+      },
+      "tipo": "Exhibidora horizontal"
+    }
+  },
+  {
+    "id": "horno-fermentacion-masa-18-bandejas",
+    "name": "Horno o Estufa de Fermentación de Masa (18 Bandejas)",
+    "categoryKey": "09_exhibidoras_industrial",
+    "categoryName": "Exhibidoras, Heladeras y Equipos Industriales",
+    "priceClient": 5300,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "09_exhibidoras_industrial/Horno-estufa-de-fermentacion-de-masa.webp",
+    "descriptionShort": "Horno de fermentación para masa con capacidad para un carro de 18 bandejas, 4.5 kW / 220 V.",
+    "descriptionLong": "Este equipo comercial de fermentación de masa permite procesar un carro completo de 18 bandejas, ideal para panaderías medianas o grandes. Potencia de entrada de 4.5 kW, voltaje 220 V/60Hz monofásica, dimensiones 89 cm de ancho × 102 cm de profundidad × 203 cm de alto. Transporte incluido y garantía de 2 meses.",
+    "points": [
+      "Capacidad para un carro completo de 18 bandejas — aumento significativo de eficiencia productiva.",
+      "Potencia de 4.5 kW y voltaje 220 V/60Hz para operación industrial ligera.",
+      "Dimensiones compactas (89 × 102 × 203 cm) para optimizar espacio en el taller."
+    ],
+    "specs": {
+      "marca": null,
+      "modelo": null,
+      "capacidad_bandejas": 18,
+      "potencia_watts": 4500,
+      "voltaje": "220 V / 60 Hz",
+      "dimensiones_cm": {
+        "ancho": 89,
+        "profundidad": 102,
+        "alto": 203
+      },
+      "tipo": "Horno/Estufa de Fermentación de Masa"
+    }
+  },
+  {
+    "id": "mesa-de-trabajo-refrigerada-clasica-de-congelacion-150x80x80",
+    "name": "Mesa de Trabajo Refrigerada Clásica de Congelación",
+    "categoryKey": "09_exhibidoras_industrial",
+    "categoryName": "Exhibidoras, Heladeras y Equipos Industriales",
+    "priceClient": 2800,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "09_exhibidoras_industrial/Mesa-de-trabajo-refrigerada-clásica-de-congelación.webp",
+    "descriptionShort": "Mesa de trabajo refrigerada clásica de congelación, 150×80×80 cm, transporte incluido.",
+    "descriptionLong": "Esta mesa de trabajo refrigerada de congelación está diseñada para ambientes profesionales, combinando superficie de trabajo robusta con un sistema de refrigeración eficiente. Con dimensiones de 150 cm de ancho × 80 cm de profundidad × 80 cm de alto, ofrece gran capacidad y funcionalidad. Transporte incluido y garantía de 2 meses para su instalación comercial sin complicaciones.",
+    "points": [
+      "Dimensiones comerciales de 150 × 80 × 80 cm para optimizar la preparación y almacenamiento en un solo equipo.",
+      "Diseño de congelación – ideal para mantener ingredientes y productos a temperaturas seguras en entornos exigentes.",
+      "Transporte incluido + garantía de 2 meses, listo para instalación profesional."
+    ],
+    "specs": {
+      "marca": null,
+      "modelo": null,
+      "dimensiones_cm": {
+        "ancho": 150,
+        "profundidad": 80,
+        "alto": 80
+      },
+      "tipo": "Mesa de trabajo refrigerada de congelación",
+      "voltaje": null,
+      "potencia_watts": null
+    }
+  },
+  {
+    "id": "frigorifico-congelador-6-puertas",
+    "name": "Frigorífico Congelador de 6 Puertas",
+    "categoryKey": "09_exhibidoras_industrial",
+    "categoryName": "Exhibidoras, Heladeras y Equipos Industriales",
+    "priceClient": 4500,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "09_exhibidoras_industrial/frigorifico-6-puertas.webp",
+    "descriptionShort": "Frigorífico-congelador de 6 puertas, medidas 182×70×195.5 cm, transporte incluido.",
+    "descriptionLong": "Unidad comercial de refrigeración tipo congélalo-mostrar con seis puertas independientes, medidas de 182 cm de ancho × 70 cm de profundidad × 195.5 cm de alto. Muy adecuada para comercios, supermercados o restaurantes que requieren gran capacidad de congelación. Transporte incluido y garantía de 2 meses.",
+    "points": [
+      "Seis puertas para acceso múltiple y segmentación del producto.",
+      "Diseño vertical de 182×70×195.5 cm para optimizar espacio de almacenamiento y flujo en tienda.",
+      "Transporte incluido y garantía de 2 meses para instalación sin complicaciones."
+    ],
+    "specs": {
+      "marca": null,
+      "modelo": null,
+      "numero_puertas": 6,
+      "dimensiones_cm": {
+        "ancho": 182,
+        "profundidad": 70,
+        "alto": 195.5
+      },
+      "tipo": "Congelador/Frigorífico vertical 6 puertas",
+      "garantia_meses": 2
+    }
+  },
+  {
+    "id": "maquina-de-hielo-60kg-iceshare",
+    "name": "Maquina de Hielo 60 kg Iceshare",
+    "categoryKey": "09_exhibidoras_industrial",
+    "categoryName": "Exhibidoras, Heladeras y Equipos Industriales",
+    "priceClient": 2000,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "09_exhibidoras_industrial/maquina-de-hielo-iceshare.webp",
+    "descriptionShort": "Máquina de hielo Iceshare con capacidad de 60 kg/día, garantía 2 meses, transporte incluido.",
+    "descriptionLong": "Esta máquina de hielo de la marca Iceshare ofrece una producción de hasta 60 kg de hielo por día, ideal para entornos comerciales como bares, restaurantes o eventos. El equipo viene con garantía de 2 meses y el transporte está incluido. Precio de venta público: USD 2,000.",
+    "points": [
+      "Capacidad de producción 60 kg por día, adecuada para uso comercial.",
+      "Garantía de 2 meses y transporte incluido para adquisición sin complicaciones.",
+      "Diseño robusto para operación contínua en ambientes exigentes."
+    ],
+    "specs": {
+      "marca": "Iceshare",
+      "modelo": null,
+      "produccion_diaria_kg": 60,
+      "tipo": "Máquina de hielo comercial",
+      "garantia_meses": 2
+    }
+  },
+  {
+    "id": "bocina-mcm-8-5-pulgadas",
+    "name": "Bocina MCM 8.5 Pulgadas",
+    "categoryKey": "10_otros",
+    "categoryName": "Otros Electrodomésticos",
+    "priceClient": 85,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "10_otros/Bocina-mcm-8.5pulgadas.webp",
+    "descriptionShort": "Bocina MCM 8.5″ con 1 mes de garantía.",
+    "descriptionLong": "Bocina de la marca MCM de 8.5 pulgadas, diseñada para entrega de sonido potente y clara. Ideal para eventos pequeños, casa o uso profesional ligero. Precio público USD 85, incluye garantía de 1 mes.",
+    "points": [
+      "Tamaño de 8.5″ para buen desempeño en audio.",
+      "Marca MCM reconocida en audio y sonido.",
+      "Garantía de 1 mes para tranquilidad al adquirir."
+    ],
+    "specs": {
+      "marca": "MCM",
+      "modelo": null,
+      "diámetro_pulgadas": 8.5,
+      "tipo": "Bocina/Altavoz",
+      "garantía_meses": 1
+    }
+  },
+  {
+    "id": "smart-tv-lg-55-pulgadas",
+    "name": "SMART TV LG 55 Pulgadas",
+    "categoryKey": "11_tv",
+    "categoryName": "Televisores y Pantallas",
+    "priceClient": 600,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "11_tv/Smart-Tv-55-pulgadas-LG.webp",
+    "descriptionShort": "Smart TV LG de 55″: pantalla grande, tecnología LG y experiencia 4K.",
+    "descriptionLong": "Este modelo de 55 pulgadas de la marca LG ofrece resolución 4K UHD, tecnología Smart TV con webOS, múltiples entradas HDMI/USB y conectividad para streaming. Ideal para cine en casa o sala amplia. Precio proveedor USD 550. (Public sale price aún por definir).",
+    "points": [
+      "Resolución 3840×2160 (4K UHD) para imagen nítida. 9",
+      "Plataforma Smart TV webOS con acceso a apps como Netflix, YouTube. 10",
+      "Pantalla de 55″ (diagonal) — tamaño óptimo para salas medianas. 11"
+    ],
+    "specs": {
+      "marca": "LG",
+      "modelo": null,
+      "tamaño_pulgadas": 55,
+      "resolución": "3840×2160",
+      "tipo_pantalla": "LED / QNED / NanoCell (varía por modelo)",
+      "sistema_operativo": "webOS",
+      "entrada_hdmi": null,
+      "entrada_usb": null,
+      "dimensiones_mm": null,
+      "peso_kg": null,
+      "consumo_watts": null
+    }
+  },
+  {
+    "id": "smart-tv-samsung-50-pulgadas",
+    "name": "SMART TV SAMSUNG 50 Pulgadas 2025",
+    "categoryKey": "11_tv",
+    "categoryName": "Televisores y Pantallas",
+    "priceClient": 570,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "11_tv/Smart-Tv-65-pulgadas-Samsung.webp",
+    "descriptionShort": "Smart TV Samsung 50 pulgadas con 4K UHD y plataforma inteligente.",
+    "descriptionLong": "Este modelo de 50 pulgadas de la marca Samsung, Serie 8, ofrece resolución 4K UHD (3840 × 2160), tasa de refresco de hasta 200 Hz, tecnología Dynamic Crystal Colour y sistema Smart TV con conectividad Wi-Fi, HDMI 4 puertos, USB 2, y soporte para asistentes de voz como Google Assistant y Alexa. 1",
+    "points": [
+      "Resolución 4K UHD para una imagen nítida de gran tamaño. 2",
+      "Tasa de refresco de 200 Hz para imágenes fluidas en deportes y gaming. 3",
+      "Smart TV con plataforma Tizen, mando universal “One Remote”, y compatibilidad con asistentes de voz. 4"
+    ],
+    "specs": {
+      "marca": "Samsung",
+      "modelo": null,
+      "tamaño_pulgadas": 65,
+      "resolución": "3840×2160 (4K UHD)",
+      "tipo_pantalla": "LED/LCD",
+      "tasa_refresco_hz": 200,
+      "entradas_hdmi": 4,
+      "entradas_usb": 2,
+      "peso_kg": 26.1,
+      "dimensiones_mm": {
+        "ancho": 1456.1,
+        "alto": 900,
+        "profundidad": 333.7
+      },
+      "consumo_watts_max": 190,
+      "sistema_operativo": "Tizen",
+      "tecnología_color": "Dynamic Crystal Colour",
+      "resumen_garantía": null
+    }
+  },
+  {
+    "id": "smart-tv-lg-75-pulgadas",
+    "name": "SMART TV LG 75 Pulgadas",
+    "categoryKey": "11_tv",
+    "categoryName": "Televisores y Pantallas",
+    "priceClient": 1050,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "11_tv/Smart-Tv-75-pulgadas-LG.webp",
+    "descriptionShort": "Smart TV LG de 75″ con resolución 4K UHD y funciones smart avanzadas.",
+    "descriptionLong": "Este televisor LG de 75 pulgadas ofrece pantalla 4K UHD, sistema Smart TV con plataforma webOS, soporte para asistentes de voz y amplias opciones de conectividad para una experiencia de entretenimiento de gran pantalla. Precio proveedor USD 920.",
+    "points": [
+      "Resolución 4K UHD para una imagen detallada. 1",
+      "TV inteligente con plataforma webOS, Google Assistant y Alexa integrados. 2",
+      "Tamaño de 75″ ideal para salas amplias o uso cinematográfico. 3"
+    ],
+    "specs": {
+      "marca": "LG",
+      "modelo": null,
+      "tamaño_pulgadas": 75,
+      "resolución": "3840×2160 (4K UHD)",
+      "tipo_pantalla": "LED / UHD",
+      "sistema_operativo": "webOS",
+      "entradas_hdmi": null,
+      "peso_kg": null,
+      "dimensiones_mm": null,
+      "consumo_watts": null
+    }
+  },
+  {
+    "id": "smart-tv-samsung-55-pulgadas-2025",
+    "name": "SMART TV SAMSUNG 55 Pulgadas 2025",
+    "categoryKey": "11_tv",
+    "categoryName": "Televisores y Pantallas",
+    "priceClient": 650,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "11_tv/Smart-Tv-Samsung-2025-55-pulgadas.webp",
+    "descriptionShort": "Smart TV Samsung 55″ modelo 2025 con 4K UHD y funciones inteligentes.",
+    "descriptionLong": "Descubre el nuevo Smart TV de 55 pulgadas de la marca Samsung, edición 2025. Con pantalla 4K UHD, sistema operativo Tizen, múltiples entradas HDMI/USB y diseño delgado ideal para salas modernas. Proveedor USD 600. Modelo exacto por definir.",
+    "points": [
+      "Pantalla de 55″ y resolución 4K UHD para imágenes nítidas y detalladas.",
+      "Sistema Smart TV con plataforma Tizen y conectividad Wi-Fi para streaming y apps.",
+      "Diseño moderno y funcional, fácil de instalar y optimizado para entretenimiento."
+    ],
+    "specs": {
+      "marca": "Samsung",
+      "modelo": null,
+      "tamaño_pulgadas": 55,
+      "resolución": "3840×2160 (4K UHD)",
+      "tipo_pantalla": "LED / QLED / Neo QLED (dependiendo de modelo)",
+      "sistema_operativo": "Tizen",
+      "entradas_hdmi": null,
+      "peso_kg": null,
+      "dimensiones_mm": null,
+      "consumo_watts": null
+    }
+  },
+  {
+    "id": "smart-tv-royal-32-pulgadas",
+    "name": "Smart TV Royal 32″",
+    "categoryKey": "11_tv",
+    "categoryName": "Televisores y Pantallas",
+    "priceClient": 180,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "11_tv/Smart-Tv-royal-32-pulgadas.webp",
+    "descriptionShort": "Smart TV Royal de 32″, ideal para habitaciones o espacios pequeños.",
+    "descriptionLong": "Este Smart TV de la marca Royal de 32 pulgadas ofrece conectividad WiFi, puertos HDMI y USB, sistema Smart para ver contenido en streaming, diseño compacto y precio accesible. Precio público: USD 180.",
+    "points": [
+      "Tamaño de 32″ perfecto para espacios más pequeños o secundarios.",
+      "Conectividad inteligente: WiFi, HDMI, USB – ideal para streaming y dispositivos externos.",
+      "Marca Royal, fácil de instalar y operar; excelente para una sala secundaria o habitación."
+    ],
+    "specs": {
+      "marca": "Royal",
+      "modelo": null,
+      "tamaño_pulgadas": 32,
+      "tipo_pantalla": "Smart TV LED",
+      "resolución": null,
+      "entradas_hdmi": null,
+      "peso_kg": null
+    }
+  },
+  {
+    "id": "smart-tv-royal-50-pulgadas",
+    "name": "Tv Smart TV 50 Royal",
+    "categoryKey": "11_tv",
+    "categoryName": "Televisores y Pantallas",
+    "priceClient": 380,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "11_tv/Tv-smart-royal-50-pulgadas.webp",
+    "descriptionShort": "Smart TV Royal de 50″ con funciones inteligentes y 2 meses de garantía.",
+    "descriptionLong": "Smart TV de la marca Royal, tamaño de 50 pulgadas, ideal para entretenimiento en el hogar. Precio de venta pública USD 380, garantía de 2 meses. Incluye conectividad HDMI/USB/WiFi y resolución UHD o Full-HD según variante.",
+    "points": [
+      "Tamaño de 50″ para una excelente experiencia de visualización en sala mediana.",
+      "Funciones Smart con conectividad HDMI, USB y WiFi — ideal para streaming y multimedia.",
+      "2 meses de garantía para tranquilidad en tu compra."
+    ],
+    "specs": {
+      "marca": "Royal",
+      "modelo": null,
+      "tamaño_pulgadas": 50,
+      "tipo_pantalla": "Smart TV",
+      "resolución": null,
+      "sistema_operativo": null
+    }
+  },
+  {
+    "id": "tv-smart-43-konka",
+    "name": "Tv Smart 43\" Konka",
+    "categoryKey": "11_tv",
+    "categoryName": "Televisores y Pantallas",
+    "priceClient": 260,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "11_tv/Tv-smart-43-pulgadas-konka.webp",
+    "descriptionShort": "Smart TV Konka de 43 pulgadas, garantía de 2 meses.",
+    "descriptionLong": "Smart TV de la marca Konka, tamaño de 43 pulgadas, ideal para entretenimiento en casa con funciones inteligentes integradas. Precio de venta pública USD 260, garantía de 2 meses. Modelo y especificaciones exactas por definir.",
+    "points": [
+      "Tamaño de 43\" para una experiencia de visualización cómoda en salas medianas.",
+      "Funciones Smart TV que permiten streaming, conectividad HDMI/USB y más.",
+      "Garantía de 2 meses que ofrece tranquilidad en la compra."
+    ],
+    "specs": {
+      "marca": "Konka",
+      "modelo": null,
+      "tamaño_pulgadas": 43,
+      "tipo_pantalla": "Smart TV",
+      "resolución": null,
+      "sistema_operativo": null
+    }
+  },
+  {
+    "id": "smart-tv-milexus-43-pulgadas",
+    "name": "TV Smart 43\" Milexus",
+    "categoryKey": "11_tv",
+    "categoryName": "Televisores y Pantallas",
+    "priceClient": 290,
+    "status": "In stock",
+    "featured": false,
+    "imageFilename": "11_tv/Tv-smart-43-pulgadas-milexus.webp",
+    "descriptionShort": "Smart TV Milexus de 43\" con resolución FHD y conectividad moderna.",
+    "descriptionLong": "Este Smart TV de la marca Milexus, tamaño de 43 pulgadas (modelo ML-LED-43), ofrece resolución Full HD 1920×1080, sistema Smart TV, voltaje 110-240 V / 50-60 Hz y potencia de 70 W. Conecta mediante 3 HDMI, 2 USB, Bluetooth y LAN. Precio proveedor USD 260, venta pública USD 290, garantía de 2 meses. 0",
+    "points": [
+      "Resolución Full HD 1920×1080 para calidad de imagen clara y detallada. 1",
+      "Sistema Smart TV con entradas HDMI 3 y USB 2, conectividad LAN y Bluetooth. 2",
+      "Voltaje amplio 110-240 V / 50-60 Hz y potencia de 70 W, diseño eficiente y versátil. 3"
+    ],
+    "specs": {
+      "marca": "Milexus",
+      "modelo": "ML-LED-43",
+      "tamaño_pulgadas": 43,
+      "resolución": "1920×1080 (FHD)",
+      "tipo_pantalla": "LED",
+      "potencia_watts": 70,
+      "voltaje": "110-240 V / 50-60 Hz",
+      "entradas_hdmi": 3,
+      "entradas_usb": 2
+    }
+  }
+]
