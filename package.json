@@ -9,9 +9,12 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "next": "16.0.1",
+    "build": "^0.1.4",
+    "next": "^16.0.10",
+    "npm": "^11.7.0",
     "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "react-dom": "19.2.0",
+    "run": "^1.5.0"
   },
   "devDependencies": {
     "@types/node": "^20",
