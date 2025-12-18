@@ -23,9 +23,8 @@ export function Hero() {
                 <span className="text-zinc-300">en un solo lugar.</span>
               </h1>
               <p className="max-w-md text-sm text-zinc-400 md:text-base">
-                Equipos seleccionados para sobrevivir apagones, calor y falta de
-                agua en Cuba, sin cuentos ni letra pequeña. Nos escribes, te
-                decimos lo que hay y cómo llega.
+              Equipos seleccionados para hogares y negocios en Cuba.
+Energía, refrigeración y climatización.
               </p>
             </div>
 
@@ -53,7 +52,7 @@ export function Hero() {
             <div className="space-y-1 text-xs text-zinc-500">
               <p>Stock verificado. Precios claros. Entrega coordinada por WhatsApp.</p>
               <p className="text-zinc-600">
-                Operamos como catálogo serio, no como publis sueltas en grupos.
+                Operamos como catálogo serio.
               </p>
             </div>
           </div>
@@ -71,7 +70,7 @@ export function Hero() {
               </div>
             </div>
             <div className="mt-3 text-center text-[11px] text-zinc-500">
-              Imagen representativa. El catálogo completo está más abajo.
+              Imagen representativa. 
             </div>
           </div>
         </div>
