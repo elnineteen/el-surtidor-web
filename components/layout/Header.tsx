@@ -19,7 +19,7 @@ export function Header() {
               El Surtidor
             </p>
             <p className="text-[11px] text-zinc-500">
-              Energía · Frío · Agua · Cuba
+              Energía · Frío · Agua · Cocina 
             </p>
           </div>
         </Link>
@@ -36,7 +36,7 @@ export function Header() {
         {/* ACCIONES DERECHA */}
         <div className="flex items-center gap-2">
           <span className="hidden text-[10px] uppercase tracking-[0.18em] text-zinc-500 lg:inline">
-            Catálogo en beta · Cuba
+            Catálogo  · Cuba
           </span>
 
           {/* BOTÓN WHATSAPP DESKTOP */}
