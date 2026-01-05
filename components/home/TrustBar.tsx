@@ -4,19 +4,19 @@ import { Container } from "@/components/ui/Container";
 
 const ITEMS = [
   {
-    eyebrow: "Real, no humo",
-    title: "Equipos verificados en Cuba",
-    text: "Solo mostramos productos que se pueden conseguir de verdad aquí. Sin catálogos fantasmas.",
+    eyebrow: "La referencia en Cuba",
+    title: "Equipos para energía, frío y confort",
+    text: "Seleccionamos y gestionamos equipos pensados para hogares y negocios en Cuba.",
   },
   {
-    eyebrow: "Sin letra pequeña",
-    title: "Precios claros en USD",
-    text: "Montos limpios, sin trucos. Cualquier cambio de precio se confirma contigo antes de pagar.",
+    eyebrow: "Información clara antes de comprar",
+    title: "Te ayudamos a elegir bien",
+    text: "Analizamos tu necesidad y te recomendamos la opción adecuada según uso , presupuesto y disponibilidad real.",
   },
   {
-    eyebrow: "Compra guiada",
-    title: "Todo se cierra por WhatsApp",
-    text: "Te explicamos stock, opciones de entrega y tiempos reales. Nada de respuestas automáticas vacías.",
+    eyebrow: "Atención personalizada",
+    title: "Todo se coordina por  WhatsApp",
+    text: "Confirmamos stock y entrega en una conversación directa.",
   },
 ];
 
@@ -31,8 +31,8 @@ export function TrustBar() {
               Por qué confiar en El Surtidor
             </p>
             <p className="text-sm text-zinc-300">
-              Operamos como catálogo serio, pensado para la realidad cubana:
-              sin humo, sin circo, solo equipos que resuelven.
+              Seleccionamos , validamos y recomendamos equipos que realmente funcionan en Cuba.
+              
             </p>
           </div>
 

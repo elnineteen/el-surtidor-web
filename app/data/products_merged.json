@@ -1,5 +1,86 @@
 [
   {
+    "id": "pulsar-generador-inverter-2300w-650",
+    "name": "Pulsar Generador Inverter 2300W",
+    "categoryKey": "01_estaciones_generadores",
+    "categoryName": "Estaciones de Energía y Generadores",
+    "priceClient": 650,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "01_estaciones_generadores/Pulsar_2300-removebg-preview.webp",
+    "descriptionShort": "Generador inverter Pulsar 2300W portátil y silencioso, ideal para respaldar tu hogar o acompañarte en campings, con energía estable para equipos sensibles.",
+    "descriptionLong": "El generador inverter Pulsar 2300W ofrece potencia confiable con tecnología de onda senoidal estable para proteger tus dispositivos más sensibles, desde laptops hasta televisores.� Su diseño tipo maleta es compacto y liviano, perfecto para campamentos, emergencias en el hogar o uso en exteriores, con operación silenciosa cercana a 59 dB y excelente rendimiento de combustible.��",
+    "points": [
+    "Tecnología inverter con onda senoidal estable para proteger equipos electrónicos sensibles.��",
+    "2300W de potencia máxima y 1800W continuos para herramientas y electrodomésticos esenciales.��",
+    "Funcionamiento super silencioso alrededor de 59 dB, ideal para campings y espacios residenciales.��",
+    "Tanque de 1,18 galones con autonomía de hasta 4,8–6 horas al 50% de carga, optimizando el consumo.���",
+    "Diseño portátil tipo maleta de aproximadamente 47 lb, fácil de transportar y almacenar.��",
+    "Capacidad de conexión en paralelo para aumentar la potencia con otro generador compatible.���"
+    ],
+    "specs": {
+    "tipo": "Generador inverter portátil��",
+    "potencia_pico": "2300 W��",
+    "potencia_nominal": "1800 W��",
+    "tecnologia": "Inverter, onda senoidal estable��",
+    "tipo_motor": "OHV 4 tiempos, monocilíndrico, 80 cc aprox.��",
+    "combustible": "Gasolina sin plomo��",
+    "capacidad_tanque": "1,18 galones (≈4,5 L)���",
+    "autonomia_50_carga": "4,8–6 horas según condiciones de uso.���",
+    "nivel_ruido": "≈59 dB a 10–15 pies.���",
+    "salidas_ac": "(2) tomas 120V 13A.���",
+    "salidas_dc": "1x 12V 8A tipo encendedor, 1x USB 5V.���",
+    "arranque": "Manual por cuerda (recoil).��",
+    "peso_aproximado": "≈47 lb (≈21 kg).��",
+    "uso_recomendado": "Camping, respaldo doméstico básico, herramientas y pequeños electrodomésticos.��"
+    }
+    },
+    {
+      "id": "anker-solix-f3800-plus",
+      "name": "Anker SOLIX F3800 Plus",
+      "categoryKey": "01_estaciones_generadores",
+      "categoryName": "Estaciones de Energía y Generadores",
+      "priceClient": 2800,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "01_estaciones_generadores/anker-solix-f3800.webp",
+      "descriptionShort": "Potencia industrial y almacenamiento de alto rendimiento para el hogar y uso profesional.",
+      "descriptionLong": "La Anker SOLIX F3800 Plus redefine la independencia energética. Con una salida nominal de 6000W y una capacidad de 3840Wh, esta estación es capaz de alimentar hogares enteros y herramientas de alta demanda con una eficiencia excepcional y un diseño minimalista.",
+      "points": [
+        "Capacidad de 3840Wh ampliable para autonomía prolongada.",
+        "Potencia de salida nominal de 6000W con picos de hasta 9000W.",
+        "Entrada solar ultra eficiente de 3200W para cargas rápidas y sostenibles."
+      ],
+      "specs": {
+        "Capacidad": "3840Wh",
+        "Potencia Nominal": "6000W",
+        "Potencia Pico": "9000W",
+        "Entrada Solar": "3200W"
+      }
+    },
+    {
+      "id": "diesel-tools-3500w-gasolina",
+      "name": "Planta Diesel Tools 3500W Gasolina",
+      "categoryKey": "01_estaciones_generadores",
+      "categoryName": "Estaciones de Energía y Generadores",
+      "priceClient": 500,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "01_estaciones_generadores/DieselTools-removebg-preview.webp",
+      "descriptionShort": "Suministro eléctrico versátil y robusto con salida de doble voltaje.",
+      "descriptionLong": "La planta Diesel Tools de 3500W ofrece una solución de energía confiable para el hogar y entornos de trabajo. Su diseño eficiente a gasolina permite un respaldo continuo, mientras que su selector de voltaje 110/220V garantiza la compatibilidad con cualquier equipo electrónico.",
+      "points": [
+        "Potencia máxima de 3500W para un rendimiento estable.",
+        "Salida dual 110/220V para máxima versatilidad operativa.",
+        "Motor de gasolina optimizado para un consumo de combustible eficiente."
+      ],
+      "specs": {
+        "Potencia": "3500W",
+        "Combustible": "Gasolina",
+        "Voltaje": "110V / 220V"
+      }
+    },
+  {
     "id": "bateria-extra-ecoflow-delta-pro-3",
     "name": "Batería Extra EcoFlow DELTA Pro 3",
     "categoryKey": "01_estaciones_generadores",
@@ -2292,6 +2373,30 @@
     }
   },
   {
+    "id": "challenger-bc2024",
+    "name": "Máquina de contar dinero Challenger BC2024",
+    "categoryKey": "10_otros",
+    "categoryName": "Otros",
+    "priceClient": 110,
+    "status": "En stock",
+    "featured": false,
+    "imageFilename": "10_otros/contador_de_dinero_challenger-removebg-preview.webp",
+    "descriptionShort": "Precisión y seguridad avanzada para la gestión profesional de efectivo.",
+    "descriptionLong": "La Challenger BC2024 es una herramienta esencial para la eficiencia operativa. Diseñada con sistemas de detección dual UV y MG, garantiza un conteo exacto y seguro para las principales divisas internacionales, integrando funciones automáticas que optimizan el flujo de trabajo comercial.",
+    "points": [
+      "Detección automática integrada mediante tecnología UV (ultravioleta) y MG (magnética).",
+      "Funciones inteligentes de inicio, parada, borrado y acumulación automática.",
+      "Sistema de autoverificación de fallos y compatibilidad multimoneda global."
+    ],
+    "specs": {
+      "Voltaje": "110V",
+      "Frecuencia": "60Hz",
+      "Detección": "UV / MG",
+      "Dimensiones": "32 x 20 x 29 cm",
+      "Incluye": "Pantalla externa, kit de limpieza y cable de alimentación"
+    }
+  },
+  {
     "id": "smart-tv-lg-55-pulgadas",
     "name": "SMART TV LG 55 Pulgadas",
     "categoryKey": "11_tv",
@@ -2519,5 +2624,1216 @@
       "entradas_hdmi": 3,
       "entradas_usb": 2
     }
-  }
-]
+  },
+    {
+      "id": "xtreme-bomba-de-agua-110v-1-2hp",
+      "name": "Xtreme Bomba de Agua 1/2 HP",
+      "categoryKey": "08_agua",
+      "categoryName": "Motores de Agua y Presurizadores",
+      "priceClient": 40,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "08_agua/bomba_de_agua_extreme-removebg-preview.webp",
+      "descriptionShort": "Eficiencia y confiabilidad para el manejo óptimo de agua en el hogar.",
+      "descriptionLong": "La bomba de agua Xtreme de 1/2 HP está diseñada para ofrecer un flujo constante y una presión estable. Su motor de 110V garantiza un rendimiento eficiente, ideal para sistemas residenciales que requieren durabilidad y una instalación simplificada.",
+      "points": [
+        "Motor de 1/2 HP de alto rendimiento para aplicaciones domésticas.",
+        "Construcción robusta diseñada para una larga vida operativa.",
+        "Compatibilidad estándar con redes eléctricas de 110V."
+      ],
+      "specs": {
+        "Potencia": "1/2 HP",
+        "Voltaje": "110V"
+      }
+    },
+    {
+      "id": "royal-caja-fuerte-43-litros",
+      "name": "Royal Caja Fuerte 43 Litros",
+      "categoryKey": "06_caja_fuerte",
+      "categoryName": "Caja Fuerte",
+      "priceClient": 150,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "06_caja_fuerte/Caja_fuerte_royal_43L-removebg-preview.webp",
+      "descriptionShort": "Seguridad avanzada y capacidad óptima para la protección de valores.",
+      "descriptionLong": "La caja fuerte Royal de 43 litros ofrece un equilibrio perfecto entre volumen y seguridad. Diseñada con materiales de alta resistencia, proporciona un compartimento seguro y organizado para resguardar documentos importantes, dispositivos y pertenencias valiosas bajo los más altos estándares de calidad.",
+      "points": [
+        "Capacidad de 43 litros diseñada para un almacenamiento versátil.",
+        "Construcción reforzada para máxima resistencia contra accesos no autorizados.",
+        "Diseño elegante y funcional adaptable a cualquier entorno residencial u oficina."
+      ],
+      "specs": {
+        "Capacidad": "43 Litros"
+      }
+    },
+    {
+      "id": "royal-caja-fuerte-24-litros",
+      "name": "Royal Caja Fuerte 24 Litros",
+      "categoryKey": "06_caja_fuerte",
+      "categoryName": "Caja Fuerte",
+      "priceClient": 120,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "06_caja_fuerte/Caja_fuerte_24_Litros-removebg-preview.webp",
+      "descriptionShort": "Seguridad compacta y robusta para la protección eficiente de objetos de valor.",
+      "descriptionLong": "La caja fuerte Royal de 24 litros es la solución ideal para quienes buscan seguridad en un formato compacto. Su estructura reforzada garantiza la integridad de documentos, efectivo y dispositivos electrónicos, ofreciendo tranquilidad y resistencia en un diseño minimalista.",
+      "points": [
+        "Capacidad de 24 litros optimizada para espacios reducidos.",
+        "Construcción en acero de alta resistencia para máxima durabilidad.",
+        "Sistema de cierre seguro diseñado para un acceso rápido y privado."
+      ],
+      "specs": {
+        "Capacidad": "24 Litros"
+      }
+    },
+    {
+      "id": "black-decker-licuadora-700w-8v-plastico",
+      "name": "Black & Decker Licuadora 700W 8V",
+      "categoryKey": "04_cocinas",
+      "categoryName": "Cocinas, Hornos y Freidoras",
+      "priceClient": 45,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "04_cocinas/Licuadora_decker-removebg-preview.webp",
+      "descriptionShort": "Potencia y versatilidad para resultados perfectos en cada mezcla.",
+      "descriptionLong": "La licuadora Black & Decker de 700W combina un rendimiento robusto con un diseño funcional. Sus 8 velocidades permiten un control preciso sobre diversas texturas, facilitando la preparación de batidos, salsas y mezclas con la durabilidad característica de la marca.",
+      "points": [
+        "Motor de 700W diseñado para un licuado eficiente y rápido.",
+        "Selector de 8 velocidades para máxima precisión culinaria.",
+        "Jarra de plástico de alta resistencia y fácil mantenimiento."
+      ],
+      "specs": {
+        "Potencia": "700W",
+        "Velocidades": "8",
+        "Material del vaso": "Plástico"
+      }
+    },
+    {
+      "id": "gbr-olla-de-presion-9l",
+      "name": "GBR Olla de Presión 9L",
+      "categoryKey": "04_cocinas",
+      "categoryName": "Cocinas, Hornos y Freidoras",
+      "priceClient": 55,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "04_cocinas/GBR_9litros-removebg-preview.webp",
+      "descriptionShort": "Capacidad superior y versatilidad térmica para una cocina eficiente y segura.",
+      "descriptionLong": "La olla de presión GBR de 9 litros redefine la eficiencia en la cocina moderna. Fabricada para ofrecer una distribución de calor uniforme, su diseño es totalmente compatible con sistemas de inducción, gas e infrarrojo, permitiendo reducir significativamente los tiempos de cocción sin comprometer la seguridad ni el sabor.",
+      "points": [
+        "Capacidad de 9 litros ideal para grandes volúmenes de preparación.",
+        "Compatibilidad universal: apta para inducción, gas y estufas infrarrojas.",
+        "Sistemas de seguridad avanzados para un control total bajo presión."
+      ],
+      "specs": {
+        "Capacidad": "9 Litros",
+        "Compatibilidad": "Inducción / Gas / Infrarrojo"
+      }
+    },
+    {
+      "id": "gbr-olla-de-presion-7l",
+      "name": "GBR Olla de Presión 7L",
+      "categoryKey": "04_cocinas",
+      "categoryName": "Cocinas, Hornos y Freidoras",
+      "priceClient": 50,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "04_cocinas/GBR_7litros-removebg-preview.webp",
+      "descriptionShort": "Cocción eficiente y segura diseñada para la cocina contemporánea.",
+      "descriptionLong": "La olla de presión GBR de 7 litros combina capacidad y tecnología multizona. Optimizada para ofrecer una transferencia de calor excepcional en sistemas de inducción, gas e infrarrojo, es la herramienta definitiva para quienes buscan reducir tiempos de cocción manteniendo la integridad nutritiva de los alimentos.",
+      "points": [
+        "Capacidad de 7 litros ideal para el uso diario y familiar.",
+        "Compatibilidad total con fuentes de calor de inducción, gas e infrarrojo.",
+        "Válvulas de seguridad de alta precisión para una operación confiable."
+      ],
+      "specs": {
+        "Capacidad": "7 Litros",
+        "Compatibilidad": "Inducción / Gas / Infrarrojo"
+      }
+    },
+    {
+      "id": "gbr-olla-de-presion-5l",
+      "name": "GBR Olla de Presión 5L",
+      "categoryKey": "04_cocinas",
+      "categoryName": "Cocinas, Hornos y Freidoras",
+      "priceClient": 45,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "04_cocinas/GBR_7litros-removebg-preview.webp",
+      "descriptionShort": "Rendimiento óptimo y seguridad compacta para cocciones rápidas y eficientes.",
+      "descriptionLong": "La olla de presión GBR de 5 litros es la solución perfecta para optimizar tiempos en la cocina diaria. Su base tecnológica permite una compatibilidad absoluta con estufas de inducción, gas e infrarrojo, garantizando una distribución de calor homogénea y una seguridad superior en cada uso.",
+      "points": [
+        "Capacidad de 5 litros, ideal para porciones familiares estándar.",
+        "Apta para múltiples fuentes de calor: Inducción, Gas e Infrarrojo.",
+        "Construcción duradera con sistemas de seguridad de alta precisión."
+      ],
+      "specs": {
+        "Capacidad": "5 Litros",
+        "Compatibilidad": "Inducción / Gas / Infrarrojo"
+      }
+    },
+    {
+      "id": "lotus-olla-de-presion-5l",
+      "name": "Lotus Olla de Presión 5L",
+      "categoryKey": "04_cocinas",
+      "categoryName": "Cocinas, Hornos y Freidoras",
+      "priceClient": 40,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "04_cocinas/Lotus_olla_5lt-removebg-preview.webp",
+      "descriptionShort": "Eficiencia térmica y seguridad garantizada para una cocina moderna y rápida.",
+      "descriptionLong": "La olla de presión Lotus de 5 litros ofrece un rendimiento superior en un diseño compacto y funcional. Su base de alta tecnología asegura una compatibilidad total con cocinas de inducción, gas e infrarrojo, permitiendo una distribución uniforme del calor para resultados culinarios excepcionales en menor tiempo.",
+      "points": [
+        "Capacidad de 5 litros perfecta para la preparación eficiente de alimentos diarios.",
+        "Compatibilidad multizona: diseñada para sistemas de inducción, gas e infrarrojo.",
+        "Sistemas de cierre y seguridad de alta precisión para un uso confiable."
+      ],
+      "specs": {
+        "Capacidad": "5 Litros",
+        "Compatibilidad": "Inducción / Gas / Infrarrojo"
+      }
+    },
+    {
+      "id": "lotus-olla-de-presion-4l",
+      "name": "Lotus Olla de Presión 4L",
+      "categoryKey": "04_cocinas",
+      "categoryName": "Cocinas, Hornos y Freidoras",
+      "priceClient": 35,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "04_cocinas/Lotus_olla_4l-removebg-preview.webp",
+      "descriptionShort": "Eficiencia compacta y versatilidad térmica para preparaciones rápidas.",
+      "descriptionLong": "La olla de presión Lotus de 4 litros es la solución ideal para quienes buscan optimizar el tiempo en la cocina sin comprometer el sabor. Su base multizona es compatible con inducción, gas e infrarrojo, ofreciendo una distribución de calor equilibrada y una seguridad superior en un formato manejable.",
+      "points": [
+        "Capacidad de 4 litros, ideal para hogares pequeños y porciones precisas.",
+        "Compatibilidad universal con estufas de inducción, gas y sistemas infrarrojos.",
+        "Diseño robusto con mecanismos de seguridad de alta confiabilidad."
+      ],
+      "specs": {
+        "Capacidad": "4 Litros",
+        "Compatibilidad": "Inducción / Gas / Infrarrojo"
+      }
+    },
+    {
+      "id": "royal-olla-arrocera-1-8l",
+      "name": "Royal Olla Arrocera 1.8L",
+      "categoryKey": "04_cocinas",
+      "categoryName": "Cocinas, Hornos y Freidoras",
+      "priceClient": 35,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "04_cocinas/Royal-Rice-Cooker-removebg-preview.webp",
+      "descriptionShort": "Precisión y simplicidad para el arroz perfecto en cada ocasión.",
+      "descriptionLong": "La olla arrocera Royal de 1.8 litros combina eficiencia y diseño funcional para facilitar la preparación diaria. Su sistema de cocción uniforme garantiza texturas ideales, mientras que su función de mantenimiento de calor asegura que sus alimentos estén siempre listos para servir con la frescura del primer momento.",
+      "points": [
+        "Capacidad de 1.8 litros, optimizada para porciones familiares completas.",
+        "Función automática de mantenimiento de calor para preservar la temperatura ideal.",
+        "Tazón interior antiadherente de alta calidad para una limpieza rápida y sencilla."
+      ],
+      "specs": {
+        "Capacidad": "1.8 Litros"
+      }
+    },
+    {
+      "id": "royal-cocina-induccion-sarten",
+      "name": "Royal Cocina de Inducción + Sartén",
+      "categoryKey": "04_cocinas",
+      "categoryName": "Cocinas, Hornos y Freidoras",
+      "priceClient": 60,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "04_cocinas/ESTUFA-DE-INDUCCION-ROYAL-SARTEN-REI1300-768x768-removebg-preview.webp",
+      "descriptionShort": "Eficiencia tecnológica y diseño minimalista para una cocción rápida y segura.",
+      "descriptionLong": "La cocina de inducción Royal redefine la eficiencia en el hogar. Gracias a su avanzada tecnología electromagnética, ofrece un calentamiento inmediato y preciso, complementado con un sartén diseñado específicamente para optimizar la transferencia de calor y garantizar resultados profesionales.",
+      "points": [
+        "Sistema de inducción de alta eficiencia para un ahorro energético superior.",
+        "Superficie de cristal cerámico ultra resistente y de fácil mantenimiento.",
+        "Set completo que incluye sartén optimizado para máxima compatibilidad."
+      ],
+      "specs": {
+        "Tecnología": "Inducción",
+        "Incluye": "Sartén de inducción",
+        "Superficie": "Cristal cerámico"
+      }
+    },
+    {
+      "id": "milexus-cocina-de-infrarrojo",
+      "name": "Milexus Cocina de Infrarrojo",
+      "categoryKey": "04_cocinas",
+      "categoryName": "Cocinas, Hornos y Freidoras",
+      "priceClient": 50,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "04_cocinas/MILEXUS-ESTUFA-INFRARROJA-1-QUEMADOR.-ML-EE1QIND-INF-removebg-preview.webp",
+      "descriptionShort": "Potencia y versatilidad térmica en un diseño elegante y compacto.",
+      "descriptionLong": "La cocina de infrarrojo Milexus ofrece una experiencia culinaria eficiente y sin restricciones de materiales. Su tecnología de calor infrarrojo permite utilizar cualquier tipo de olla o sartén, garantizando un calentamiento rápido y una superficie de alta resistencia fácil de limpiar.",
+      "points": [
+        "Tecnología de calor infrarrojo compatible con todo tipo de utensilios de cocina.",
+        "Control de temperatura preciso para un rendimiento culinario superior.",
+        "Superficie de vidrio cerámico diseñada para durabilidad y limpieza simplificada."
+      ],
+      "specs": {
+        "Tecnología": "Infrarrojo"
+      }
+    },
+    {
+      "id": "royal-estufa-gas-20-horno-magneto-luz",
+      "name": "Royal Estufa de Gas 20” con Horno",
+      "categoryKey": "04_cocinas",
+      "categoryName": "Cocinas, Hornos y Freidoras",
+      "priceClient": 230,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "04_cocinas/Royal-Estufa-Gas-20_-con-Horno-4-Quemadores-removebg-preview.webp",
+      "descriptionShort": "Rendimiento superior y diseño compacto para una cocina moderna y eficiente.",
+      "descriptionLong": "La estufa de gas Royal de 20 pulgadas integra potencia y precisión en un formato optimizado. Equipada con encendido por magneto y luz interior en el horno, ofrece una experiencia culinaria completa, ideal para espacios que demandan eficiencia sin comprometer la calidad y el estilo.",
+      "points": [
+        "Diseño compacto de 20 pulgadas ideal para optimizar espacios.",
+        "Sistema de encendido por magneto para una operación segura y confiable.",
+        "Horno integrado con iluminación interior para un monitoreo preciso."
+      ],
+      "specs": {
+        "Tamaño": "20 pulgadas",
+        "Tipo de combustible": "Gas",
+        "Encendido": "Magneto",
+        "Extras": "Luz en horno"
+      }
+    },
+    {
+      "id": "royal-estufa-gas-20-horno-4-quemadores",
+      "name": "Royal Estufa de Gas 20” con Horno",
+      "categoryKey": "04_cocinas",
+      "categoryName": "Cocinas, Hornos y Freidoras",
+      "priceClient": 220,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "04_cocinas/Royal-Estufa-Gas-20_-con-Horno-4-Quemadores-removebg-preview.webp",
+      "descriptionShort": "Funcionalidad clásica y potencia distribuida para una cocina eficiente.",
+      "descriptionLong": "La estufa de gas Royal de 20 pulgadas está diseñada para ofrecer durabilidad y un rendimiento constante. Con 4 quemadores de alta eficiencia y un horno integrado, es la solución perfecta para hogares que buscan versatilidad culinaria en un formato compacto y elegante.",
+      "points": [
+        "Configuración de 4 quemadores para múltiples preparaciones simultáneas.",
+        "Horno espacioso con distribución de calor uniforme.",
+        "Diseño de 20 pulgadas ideal para optimizar el espacio en cocinas modernas."
+      ],
+      "specs": {
+        "Tamaño": "20 pulgadas",
+        "Tipo de combustible": "Gas",
+        "Quemadores": "4",
+        "Horno": "Integrado"
+      }
+    },
+    {
+      "id": "milexus-cocina-mesa-gas-2-quemadores-vidrio",
+      "name": "Milexus Cocina de Mesa 2 Quemadores",
+      "categoryKey": "04_cocinas",
+      "categoryName": "Cocinas, Hornos y Freidoras",
+      "priceClient": 40,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "04_cocinas/Milexus-Cocin_de_Mesa_Gas_2_Quemadores_Vidrio_-removebg-preview.webp",
+      "descriptionShort": "Diseño minimalista en vidrio templado con alta eficiencia térmica.",
+      "descriptionLong": "La cocina de mesa Milexus combina la practicidad del gas con una estética contemporánea. Su superficie de vidrio templado no solo facilita la limpieza, sino que aporta durabilidad y un toque de elegancia a cualquier espacio, garantizando una cocción rápida a través de sus dos quemadores de alto rendimiento.",
+      "points": [
+        "Superficie de vidrio templado de alta resistencia y fácil mantenimiento.",
+        "Doble quemador para una distribución eficiente del calor.",
+        "Diseño de mesa compacto ideal para espacios optimizados."
+      ],
+      "specs": {
+        "Tipo": "Mesa",
+        "Combustible": "Gas",
+        "Quemadores": "2",
+        "Material": "Vidrio templado"
+      }
+    },
+    {
+      "id": "milexus-cocina-gas-empotrable-5-quemadores-negra",
+      "name": "Milexus Cocina de Gas Empotrable 5 Quemadores",
+      "categoryKey": "04_cocinas",
+      "categoryName": "Cocinas, Hornos y Freidoras",
+      "priceClient": 160,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "04_cocinas/Milexus-Cocina-de-Gas-Empotrable-_Quemadores-Negra-removebg-preview.webp",
+      "descriptionShort": "Máximo rendimiento y elegancia industrial para cocinas de alto nivel.",
+      "descriptionLong": "La cocina empotrable Milexus redefine el espacio culinario con su sofisticado panel de acero inoxidable negro. Equipada con 5 quemadores de diferentes dimensiones y parrillas de hierro fundido, ofrece una versatilidad excepcional para preparaciones simultáneas bajo un sistema de encendido automático de alta precisión.",
+      "points": [
+        "Panel de acero inoxidable Negro 201 de alta durabilidad y estética minimalista.",
+        "Configuración de 5 quemadores esmaltados para una gestión térmica versátil.",
+        "Parrillas de hierro fundido y perillas metálicas para un uso intensivo y profesional."
+      ],
+      "specs": {
+        "Material": "Acero inoxidable Negro 201",
+        "Quemadores": "5 (130mm / 100mm / 75mm x2 / 55mm)",
+        "Encendido": "Automático por pulso (Cable UL)",
+        "Parrillas": "Hierro Fundido",
+        "Dimensiones": "86cm x 51cm x 12cm"
+      }
+    },
+    {
+      "id": "lg-microonda-0-7-cuft-20l",
+      "name": "LG Microonda 0.7 Cuft (20L)",
+      "categoryKey": "04_cocinas",
+      "categoryName": "Cocinas, Hornos y Freidoras",
+      "priceClient": 150,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "04_cocinas/LG-microwave-20L-removebg-preview.webp",
+      "descriptionShort": "Tecnología de cocción precisa y diseño compacto para la cocina moderna.",
+      "descriptionLong": "El microondas LG de 0.7 pies cúbicos ofrece un rendimiento excepcional en un formato optimizado. Gracias a su tecnología de distribución de ondas, garantiza un calentamiento uniforme y rápido, ideal para quienes buscan eficiencia, durabilidad y la elegancia característica de LG en espacios reducidos.",
+      "points": [
+        "Capacidad de 20 litros (0.7 Cuft) ideal para el uso diario familiar.",
+        "Sistema de cocción uniforme para resultados precisos en cada plato.",
+        "Panel intuitivo y diseño minimalista de fácil mantenimiento."
+      ],
+      "specs": {
+        "Capacidad": "20L (0.7 Cuft)",
+        "Marca": "LG"
+      }
+    },
+    {
+      "id": "milexus-exhibidor-vertical-13-cuft-negro",
+      "name": "Milexus Exhibidor Vertical 13 Cuft Negro",
+      "categoryKey": "09_exhibidoras_industrial",
+      "categoryName": "Exhibidoras y Heladeras Comerciales",
+      "priceClient": 680,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "09_exhibidoras_industrial/exhibidora-13piesmilexus.webp",
+      "descriptionShort": "Exhibición profesional con visibilidad total y eficiencia térmica superior.",
+      "descriptionLong": "El exhibidor vertical Milexus de 13 pies cúbicos está diseñado para optimizar la presentación comercial sin comprometer la frescura. Su estructura robusta en color negro, combinada con una puerta de cristal de alta resistencia y sistemas de iluminación LED, ofrece una solución elegante y duradera para la conservación de productos a una escala profesional.",
+      "points": [
+        "Capacidad de 13 pies cúbicos (390L) con cuatro estantes ajustables para una organización versátil.",
+        "Puerta de cristal templado con cerradura de seguridad e iluminación LED interna de alta visibilidad.",
+        "Sistema de enfriamiento optimizado con gas R134a y control análogo de alta precisión."
+      ],
+      "specs": {
+        "Capacidad": "13 Cuft (390L)",
+        "Voltaje": "110V / 60Hz",
+        "Refrigerante": "R134a",
+        "Dimensiones": "205 x 65.5 x 62.5 cm",
+        "Iluminación": "LED Interior",
+        "Seguridad": "Puerta con llave"
+      }
+    },
+    {
+      "id": "royal-freezer-horizontal-7-8ft",
+      "name": "Royal Freezer Horizontal 7.8ft",
+      "categoryKey": "02_refrigeradores",
+      "categoryName": "Refrigeradores y Neveras",
+      "priceClient": 280,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "02_refrigeradores/nevera_royal_7.8-removebg-preview.webp",
+      "descriptionShort": "Capacidad y eficiencia térmica superior en un diseño horizontal robusto.",
+      "descriptionLong": "El congelador horizontal Royal de 7.8 pies cúbicos ofrece una solución de almacenamiento masivo con un rendimiento energético optimizado. Diseñado para climas tropicales, garantiza la conservación perfecta de sus alimentos mediante un sistema de refrigeración eficiente y una estructura aislada de alta calidad.",
+      "points": [
+        "Capacidad de 220 litros optimizada para un almacenamiento organizado y duradero.",
+        "Clasificación de clima tropical para un rendimiento constante en condiciones exigentes.",
+        "Sistema de seguridad integrado con llave en puerta y bajo consumo energético anual."
+      ],
+      "specs": {
+        "Capacidad": "220 Litros (7.8 Cuft)",
+        "Voltaje": "115V / 60Hz",
+        "Potencia": "110W",
+        "Refrigerante": "R600A",
+        "Consumo": "260 kWh/año",
+        "Dimensiones": "85.3 x 57.8 x 88.8 cm"
+      }
+    },
+    {
+      "id": "milexus-cafetera-6-tazas",
+      "name": "Milexus Cafetera 6 tazas",
+      "categoryKey": "04_cocinas",
+      "categoryName": "Cocinas, Hornos y Freidoras",
+      "priceClient": 40,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "04_cocinas/cafetera_milexus_6_tazas-removebg-preview.webp",
+      "descriptionShort": "Diseño compacto y eficiencia para el aroma perfecto en cada mañana.",
+      "descriptionLong": "La cafetera Milexus de 6 tazas combina simplicidad y funcionalidad. Diseñada para extraer el máximo sabor y aroma del café, su estructura compacta se adapta a cualquier espacio, ofreciendo una experiencia matutina confiable y de alta calidad.",
+      "points": [
+        "Capacidad de 6 tazas ideal para el uso doméstico diario.",
+        "Sistema de goteo optimizado para una extracción de aroma superior.",
+        "Diseño minimalista y de fácil mantenimiento."
+      ],
+      "specs": {
+        "Capacidad": "6 tazas"
+      }
+    },
+    {
+      "id": "milexus-refrigerador-frost-13-1-pies-inox-300l",
+      "name": "Milexus Refrigerador Frost 13.1 Pies Inox",
+      "categoryKey": "02_refrigeradores",
+      "categoryName": "Refrigeradores y Neveras",
+      "priceClient": 630,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "02_refrigeradores/REFRIGERADORA-FROST-DE-131-CUFT-110V-INOX-removebg-preview.webp",
+      "descriptionShort": "Elegancia en acero inoxidable y rendimiento térmico avanzado para el hogar moderno.",
+      "descriptionLong": "El refrigerador Milexus de 13.1 pies cúbicos redefine la conservación de alimentos con un diseño sofisticado en acabado Inox. Su capacidad de 300 litros y sistema Frost garantizan una distribución de frío eficiente, ofreciendo durabilidad y un estilo minimalista que se integra perfectamente en cualquier cocina contemporánea.",
+      "points": [
+        "Capacidad de 300 litros (13.1 pies cúbicos) para un almacenamiento versátil.",
+        "Acabado en acero inoxidable de alta calidad, resistente y elegante.",
+        "Funcionamiento optimizado a 110V para una eficiencia energética superior."
+      ],
+      "specs": {
+        "Capacidad": "13.1 Pies (300 L)",
+        "Acabado": "Acero Inoxidable (Inox)",
+        "Voltaje": "110V",
+        "Sistema": "Frost"
+      }
+    },
+    {
+      "id": "milexus-ventilador-de-pie-aspa-18-5-parrilla-plastica",
+      "name": "Milexus Ventilador de Pie 18.5”",
+      "categoryKey": "05_ventilacion",
+      "categoryName": "Ventilación y Climatización",
+      "priceClient": 40,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "05_ventilacion/Ventilador_milexus_18.5-removebg-preview.webp",
+      "descriptionShort": "Flujo de aire optimizado y diseño ligero para un confort inmediato.",
+      "descriptionLong": "El ventilador de pie Milexus de 18.5 pulgadas combina potencia y eficiencia en un formato funcional. Su aspa de gran diámetro garantiza una circulación de aire superior en cualquier estancia, mientras que su parrilla plástica de alta resistencia asegura una operación segura y un mantenimiento simplificado.",
+      "points": [
+        "Aspas de 18.5 pulgadas diseñadas para una cobertura de ventilación extendida.",
+        "Parrilla plástica reforzada para mayor seguridad y durabilidad.",
+        "Motor de alto rendimiento con operación silenciosa y eficiente."
+      ],
+      "specs": {
+        "Diámetro de aspa": "18.5 pulgadas",
+        "Tipo": "Ventilador de pie",
+        "Material de parrilla": "Plástica"
+      }
+    },
+    {
+      "id": "milexus-refrigerador-9-1-cuft-inox",
+      "name": "Milexus Refrigerador 9.1 Pies Inox",
+      "categoryKey": "02_refrigeradores",
+      "categoryName": "Refrigeradores y Neveras",
+      "priceClient": 440,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "02_refrigeradores/Refrigerador-91-pies-INOX-110V-Milexus-430x430-removebg-preview.webp",
+      "descriptionShort": "Diseño Top Mount compacto y eficiente con acabado en acero inoxidable de alta durabilidad.",
+      "descriptionLong": "El refrigerador Milexus de 9.1 pies cúbicos ofrece una organización inteligente con su configuración Top Mount. Su acabado en acero inoxidable (Inox) aporta una estética moderna y profesional, mientras que sus sistemas de descongelamiento automático y control mecánico garantizan una gestión de frescura óptima y un mantenimiento simplificado para el hogar contemporáneo.",
+      "points": [
+        "Capacidad total de 9.1 pies cúbicos con compartimentos optimizados para refrigeración y congelación seca.",
+        "Acabado Inox con tecnología de puerta reversible y patas ajustables para máxima versatilidad espacial.",
+        "Sistema de descongelamiento automático y estantes de alambre metálico de alta resistencia."
+      ],
+      "specs": {
+        "Modelo": "ML-RF-9.1 CUFT-INX",
+        "Capacidad": "9.1 Pies³ (7.0 Ref / 1.8 Cong)",
+        "Tipo": "Top Mount",
+        "Descongelamiento": "Automático / Seco",
+        "Dimensiones": "550 × 585 × 1485 mm",
+        "Refrigerante": "R600a"
+      }
+    },
+    {
+      "id": "daewoo-cafetera-electrica-6-tazas",
+      "name": "Daewoo Cafetera Eléctrica 6 tazas",
+      "categoryKey": "04_cocinas",
+      "categoryName": "Cocinas, Hornos y Freidoras",
+      "priceClient": 40,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "04_cocinas/cafetera-electrica-daewoo-removebg-preview.webp",
+      "descriptionShort": "Diseño eficiente y compacto para un café de aroma superior en cada preparación.",
+      "descriptionLong": "La cafetera eléctrica Daewoo ha sido diseñada para quienes valoran la simplicidad y la calidad en su rutina diaria. Con una capacidad de 6 tazas, este modelo ofrece un sistema de extracción optimizado que resalta el cuerpo y aroma del café, integrándose perfectamente en cualquier cocina gracias a su estética minimalista y acabados de alta resistencia.",
+      "points": [
+        "Capacidad de 6 tazas ideal para el uso doméstico diario.",
+        "Sistema de calentamiento rápido y eficiente para resultados inmediatos.",
+        "Diseño ergonómico y de fácil limpieza para un mantenimiento simplificado."
+      ],
+      "specs": {
+        "Capacidad": "6 tazas",
+        "Tipo": "Eléctrica"
+      }
+    },
+    {
+      "id": "challenger-ventilador-recargable-16-pulgadas",
+      "name": "Challenger Ventilador Recargable 16 Pulgadas",
+      "categoryKey": "05_ventilacion",
+      "categoryName": "Ventilación y Climatización",
+      "priceClient": 60,
+      "status": "En stock",
+      "featured": false,
+      "imageFilename": "05_ventilacion/ventilador-recargable-16-removebg-preview.webp",
+      "descriptionShort": "Autonomía total y versatilidad con carga solar, puerto USB e iluminación LED.",
+      "descriptionLong": "El ventilador recargable Challenger de 16 pulgadas es la solución ideal para mantener el confort en cualquier circunstancia. Gracias a su capacidad de carga mediante panel solar y su batería interna, ofrece frescura ininterrumpida incluso durante fallos eléctricos. Su diseño multifuncional incluye luces LED de emergencia y puerto USB, convirtiéndolo en un centro de utilidad indispensable para el hogar o exteriores.",
+      "points": [
+        "Sistema de carga dual: compatible con red eléctrica y paneles solares.",
+        "Multifuncionalidad integrada con puerto USB para dispositivos y luces LED de alta intensidad.",
+        "Tres niveles de velocidad para un control preciso del flujo de aire en un formato de 16 pulgadas."
+      ],
+      "specs": {
+        "Modelo": "AB-16RCMZ",
+        "Tamaño": "16 Pulgadas",
+        "Velocidades": "3",
+        "Funciones": "USB / Panel Solar / Luces LED",
+        "Voltaje": "110V / 60Hz",
+        "Dimensiones": "43.8 x 17 x 43.8 cm"
+      }
+    },
+      {
+        "id": "lenovo-ideapad-1-15-ryzen5-16gb-256gb",
+        "name": "Laptop Lenovo IdeaPad 1 15.6'' Ryzen 5",
+        "categoryKey": "13_laptops",
+        "categoryName": "Laptops",
+        "priceClient": 480,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "13_laptops/Lenovo_ideapad_16ram-removebg-preview.webp",
+        "descriptionShort": "Laptop eficiente y potente, ideal para estudiantes y profesionales en Cuba. Ofrece fluidez total en multitarea, diseño ligero y conectividad Wi-Fi 6.",
+        "descriptionLong": "La Lenovo IdeaPad 1 es la herramienta definitiva para quienes buscan productividad sin límites. Con su procesador Ryzen 5 y 16GB de RAM, garantiza un desempeño excepcional en navegación, edición de documentos y videoconferencias. Su pantalla FHD de 15.6 pulgadas ofrece una claridad visual superior para largas jornadas de trabajo.",
+        "points": [
+          "Procesador AMD Ryzen 5 7520U de última generación para un procesamiento veloz.",
+          "Memoria RAM de 16GB que permite ejecutar múltiples aplicaciones pesadas simultáneamente.",
+          "Almacenamiento SSD de 256GB para arranques instantáneos y transferencia rápida de datos.",
+          "Pantalla de 15.6 pulgadas Full HD con nitidez ideal para contenido multimedia y lectura.",
+          "Conectividad de vanguardia con Wi-Fi 6 y Bluetooth 5.0 para redes más estables.",
+          "Batería de larga duración (hasta 7 horas) diseñada para movilidad constante sin cables."
+        ],
+        "specs": {
+          "Procesador": "AMD Ryzen 5 7520U",
+          "Memoria RAM": "16GB DDR4",
+          "Almacenamiento": "256GB SSD",
+          "Pantalla": "15.6\" FHD (1920 x 1080)",
+          "Conectividad": "Wi-Fi 6 / Bluetooth 5.0",
+          "Puertos": "HDMI, USB 3.1, USB 2.0, Jack 3.5mm",
+          "Sistema Operativo": "Windows 10"
+        }
+      },
+      {
+        "id": "asus-vivobook-go-14-e410ka-128gb",
+        "name": "Laptop ASUS VivoBook Go 14 128GB",
+        "categoryKey": "13_laptops",
+        "categoryName": "Laptops",
+        "priceClient": 260,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "13_laptops/Asus_vivobook_go14-removebg-preview.webp",
+        "descriptionShort": "Laptop compacta y ligera, ideal para estudiantes y tareas de oficina básica en Cuba. Ofrece gran portabilidad con pantalla Full HD antirreflejo.",
+        "descriptionLong": "La ASUS VivoBook Go 14 es la solución perfecta para quienes buscan movilidad y eficiencia a un precio accesible. Su diseño delgado permite llevarla a cualquier lugar, mientras que su pantalla Full HD brinda una nitidez excepcional para estudios y gestión de documentos, asegurando un rendimiento estable con Windows 11.",
+        "points": [
+          "Pantalla de 14 pulgadas Full HD con tecnología antirreflejo para mayor comodidad visual.",
+          "Procesador Intel Celeron N4500 optimizado para tareas escolares y navegación web fluida.",
+          "Almacenamiento eMMC de 128GB expandible mediante lector de tarjetas microSD integrado.",
+          "Autonomía de batería de hasta 8 horas, ideal para jornadas de estudio sin dependencia de cables.",
+          "Diseño ultra ligero y compacto en color negro con teclado ergonómico de alta precisión."
+        ],
+        "specs": {
+          "Procesador": "Intel Celeron N4500 (hasta 2.8 GHz)",
+          "Memoria RAM": "4GB LPDDR4",
+          "Almacenamiento": "128GB eMMC",
+          "Pantalla": "14\" Full HD (1920 x 1080)",
+          "Batería": "42Wh (Hasta 8 horas)",
+          "Puertos": "HDMI 1.4, USB 3.2 Gen 1, USB 2.0, microSD",
+          "Sistema Operativo": "Windows 11 Home"
+        }
+      },
+      {
+        "id": "acer-aspire-go-15-i5-8gb-256gb",
+        "name": "Laptop Acer Aspire Go 15 15.3'' Core i5",
+        "categoryKey": "13_laptops",
+        "categoryName": "Laptops",
+        "priceClient": 490,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "13_laptops/Laptop_Acer_Aspire-removebg-preview.webp",
+        "descriptionShort": "Laptop de alto rendimiento con procesador i5 de 13ra gen y pantalla WUXGA. Ideal para profesionales y estudiantes que buscan potencia y movilidad en Cuba.",
+        "descriptionLong": "La Acer Aspire Go 15 destaca por su procesador Intel Core i5 de 10 núcleos, ofreciendo un desempeño superior para multitarea avanzada y diseño básico. Su pantalla IPS de resolución Full HD+ garantiza una experiencia visual inmersiva con colores precisos, mientras que su diseño delgado de 1.6kg la convierte en la compañera perfecta para el trabajo remoto.",
+        "points": [
+          "Procesador Intel Core i5 de 13ra generación con 10 núcleos para un flujo de trabajo fluido y rápido.",
+          "Pantalla de 15.3 pulgadas WUXGA con tecnología IPS para ángulos de visión amplios y nitidez excepcional.",
+          "Almacenamiento SSD NVMe de 256GB que permite transferencias de archivos a velocidades ultra rápidas.",
+          "Puerto Thunderbolt 4 (USB-C) y HDMI 2.1 para conectividad de periféricos y pantallas externas de alta gama.",
+          "Diseño ligero de solo 1.6kg y chasis delgado de 17.9mm, facilitando el transporte diario sin esfuerzo.",
+          "Conectividad Wi-Fi 6 que asegura estabilidad y velocidad en redes inalámbricas modernas."
+        ],
+        "specs": {
+          "Procesador": "Intel Core i5-1334U (Hasta 4.6GHz)",
+          "Memoria RAM": "8GB DDR4",
+          "Almacenamiento": "256GB SSD PCIe Gen4",
+          "Pantalla": "15.3\" WUXGA (1920 x 1200) IPS",
+          "Puertos": "Thunderbolt 4, HDMI 2.1, USB 3.2 Gen1, Jack 3.5mm",
+          "Conectividad": "Wi-Fi 6 / Bluetooth 5.1",
+          "Sistema Operativo": "Windows 11 Home"
+        }
+      },
+      {
+        "id": "asus-vivobook-14-i5-12gb-256gb",
+        "name": "Laptop ASUS VivoBook 14 14.0'' Core i5",
+        "categoryKey": "13_laptops",
+        "categoryName": "Laptops",
+        "priceClient": 490,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "13_laptops/Asus_vivobook_12ram-removebg-preview.webp",
+        "descriptionShort": "Laptop potente con i5 de 13ra gen y 12GB de RAM. Ideal para profesionales en Cuba que buscan multitarea fluida, diseño ligero y carga ultrarrápida.",
+        "descriptionLong": "La ASUS VivoBook 14 combina un diseño moderno con la potencia del procesador Intel Core i5 de 13ª generación. Sus 12GB de RAM garantizan un desempeño superior en navegación avanzada y oficina técnica. Con su bisagra de 180° y carga rápida, es la herramienta perfecta para la productividad móvil y el estudio intensivo.",
+        "points": [
+          "Procesador Intel Core i5 de 13ra generación con 10 núcleos para un rendimiento excepcional.",
+          "Memoria RAM de 12GB que asegura una multitarea eficiente sin interrupciones ni retrasos.",
+          "Pantalla de 14 pulgadas Full HD con tecnología antirreflejo y bisagra abatible de 180°.",
+          "Tecnología de carga rápida que permite alcanzar el 100% de batería en solo 80 minutos.",
+          "Cámara HD con obturador de privacidad integrado para mayor seguridad en sus videollamadas.",
+          "Conectividad versátil con puertos USB-C, HDMI y Wi-Fi 5 para máxima compatibilidad."
+        ],
+        "specs": {
+          "Procesador": "Intel Core i5-1334U (10 núcleos, hasta 4.6GHz)",
+          "Memoria RAM": "12GB DDR4",
+          "Almacenamiento": "256GB SSD PCIe 4.0",
+          "Pantalla": "14.0\" FHD (1920 x 1080) Antirreflejo",
+          "Batería": "Carga rápida (100% en 1h20min)",
+          "Puertos": "1x USB-C, 1x HDMI 1.4, 3x USB-A, Jack 3.5mm",
+          "Sistema Operativo": "Windows 11 Home"
+        }
+      },
+      {
+        "id": "hp-15-fd0123dx-i3-8gb-256gb",
+        "name": "Laptop HP 15.6'' Táctil Core i3-1315U",
+        "categoryKey": "13_laptops",
+        "categoryName": "Laptops",
+        "priceClient": 460,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "13_laptops/Laptop_HP_8ram_256gb-removebg-preview.webp",
+        "descriptionShort": "Laptop versátil con pantalla táctil y procesador i3 de 13ra gen. Perfecta para gestión de negocios y estudios avanzados en el entorno cubano actual.",
+        "descriptionLong": "La HP 15-fd0123dx integra una pantalla táctil Full HD que facilita la navegación y el trabajo interactivo. Gracias a su procesador Intel de 13ra generación con 10 núcleos y conectividad Wi-Fi 6, ofrece un rendimiento estable para el trabajo diario y consumo de medios, manteniendo un diseño elegante y profesional en color gris natural.",
+        "points": [
+          "Pantalla táctil de 15.6 pulgadas Full HD para una interacción intuitiva y productiva.",
+          "Procesador Intel Core i3-1315U de 10 núcleos que garantiza eficiencia en multitarea.",
+          "Conectividad de última generación con Wi-Fi 6 y Bluetooth 5.3 para redes estable.",
+          "Teclado de tamaño completo con teclado numérico ideal para trabajos administrativos.",
+          "Cámara HP True Vision 720p con reducción de ruido temporal para videollamadas claras.",
+          "Diseño ligero de 1.75 kg que facilita el transporte diario entre el hogar y el trabajo."
+        ],
+        "specs": {
+          "Procesador": "Intel Core i3-1315U (Hasta 4.5 GHz)",
+          "Memoria RAM": "8GB DDR4",
+          "Almacenamiento": "256GB SSD M.2 NVMe",
+          "Pantalla": "15.6\" FHD Táctil (1920 x 1080)",
+          "Puertos": "1x USB-C, 2x USB-A, 1x HDMI, Jack 3.5mm",
+          "Conectividad": "Wi-Fi 6 / Bluetooth 5.3",
+          "Sistema Operativo": "Windows 11 Home"
+        }
+      },
+      {
+        "id": "hp-14-dq6015dx-128gb",
+        "name": "Laptop HP 14'' Intel N150 128GB",
+        "categoryKey": "13_laptops",
+        "categoryName": "Laptops",
+        "priceClient": 295,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "13_laptops/Laptop_Hp_4ram_128GB-removebg-preview.webp",
+        "descriptionShort": "Laptop ligera y elegante de 14 pulgadas. Ideal para estudiantes y oficinistas en Cuba que necesitan autonomía prolongada y un diseño moderno.",
+        "descriptionLong": "La HP 14-dq6015dx es la combinación perfecta de estilo y funcionalidad básica. Con un procesador Intel N150 de 4 núcleos y hasta 11 horas de autonomía, es ideal para quienes requieren movilidad constante en Cuba. Su diseño ultra delgado ofrece una estética premium manteniendo un rendimiento estable para tareas de estudio y oficina.",
+        "points": [
+          "Procesador Intel N150 de 4 núcleos optimizado para un consumo energético eficiente.",
+          "Batería de larga duración con hasta 11 horas de autonomía para uso continuo sin cables.",
+          "Diseño ultraligero de solo 1.47 kg, facilitando el transporte diario en cualquier mochila.",
+          "Almacenamiento UFS de 128GB que ofrece mayor velocidad que los discos tradicionales.",
+          "Conectividad avanzada con Wi-Fi 6 para una navegación más estable en redes locales.",
+          "Pantalla de 14 pulgadas con micro-bordes que maximiza el área de visualización."
+        ],
+        "specs": {
+          "Procesador": "Intel Processor N150 (4 núcleos)",
+          "Memoria RAM": "4GB DDR4 3200MHz",
+          "Almacenamiento": "128GB UFS",
+          "Pantalla": "14\" HD",
+          "Batería": "Hasta 11 horas",
+          "Peso": "1.47 kg",
+          "Conectividad": "Wi-Fi 6 / Bluetooth",
+          "Sistema Operativo": "Windows 11 Home (Modo S)"
+        }
+      },
+      {
+        "id": "lenovo-ideapad-slim-3i-15-i3-8gb-128gb",
+        "name": "Laptop Lenovo IdeaPad Slim 3i 15.6'' i3-N305",
+        "categoryKey": "13_laptops",
+        "categoryName": "Laptops",
+        "priceClient": 350,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "13_laptops/Laptop_lenovo_8ram_128gb-removebg-preview.webp",
+        "descriptionShort": "Laptop equilibrada con i3 de 8 núcleos y RAM LPDDR5. Perfecta para estudio y trabajo administrativo en Cuba con excelente portabilidad y pantalla FHD.",
+        "descriptionLong": "El Lenovo IdeaPad Slim 3i (2023) es la opción ideal para quienes buscan eficiencia en un diseño elegante y ligero de solo 1.55 kg. Su procesador de última generación con 8 núcleos asegura una respuesta rápida en tareas escolares y de oficina, complementado con una pantalla de alta resolución que garantiza comodidad visual prolongada.",
+        "points": [
+          "Procesador Intel Core i3-N305 de 8 núcleos para un rendimiento fluido en aplicaciones modernas.",
+          "Memoria RAM LPDDR5 de 8GB a 4800MHz que permite una multitarea ágil y eficiente.",
+          "Pantalla de 15.6 pulgadas Full HD que ofrece nitidez superior para documentos y multimedia.",
+          "Diseño ultradelgado y ligero de 1.55 kg, perfecto para llevar a clases o reuniones.",
+          "Conectividad Wi-Fi 6 que garantiza una navegación más estable en redes inalámbricas.",
+          "Webcam de 720p con obturador de privacidad para videollamadas seguras y profesionales."
+        ],
+        "specs": {
+          "Procesador": "Intel Core i3-N305 (8 núcleos)",
+          "Memoria RAM": "8GB LPDDR5 4800MHz",
+          "Almacenamiento": "128GB UFS",
+          "Pantalla": "15.6\" Full HD (1920 x 1080)",
+          "Conectividad": "Wi-Fi 6 / Bluetooth",
+          "Peso": "1.55 kg",
+          "Sistema Operativo": "Windows 11 Home"
+        }
+      },
+      {
+        "id": "hp-15-fd0153dx-i3-8gb-256gb",
+        "name": "Laptop HP 15.6'' Táctil Core i3-1315U",
+        "categoryKey": "13_laptops",
+        "categoryName": "Laptops",
+        "priceClient": 480,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "13_laptops/Laptop_HP_8ram_256gb-removebg-preview.webp",
+        "descriptionShort": "Laptop de 15.6'' con pantalla táctil y procesador i3 de 13ra gen. Ideal para estudios, oficina y navegación fluida en el hogar cubano.",
+        "descriptionLong": "La HP 15-fd0153dx ofrece una experiencia interactiva superior gracias a su pantalla táctil de alta respuesta. Con la potencia de la 13ra generación de Intel y conectividad Wi-Fi 6, es la herramienta perfecta para quienes buscan un equipo confiable, ligero y con diseño elegante en color plata natural para sus tareas diarias.",
+        "points": [
+          "Pantalla táctil de 15.6 pulgadas para una navegación intuitiva y directa con los dedos.",
+          "Procesador Intel Core i3-1315U de 6 núcleos que ofrece un rendimiento ágil en tareas cotidianas.",
+          "Memoria RAM de 8GB DDR4 para una multitarea eficiente sin ralentizaciones.",
+          "Conectividad Wi-Fi 6 de última generación para una navegación por internet más rápida y estable.",
+          "Cámara con obturador de privacidad físico para mayor seguridad en tus videollamadas.",
+          "Batería de larga duración de hasta 8 horas diseñada para jornadas completas de trabajo o estudio."
+        ],
+        "specs": {
+          "Procesador": "Intel Core i3-1315U (Hasta 4.5 GHz)",
+          "Memoria RAM": "8GB DDR4 3200MHz",
+          "Almacenamiento": "256GB SSD PCIe",
+          "Pantalla": "15.6\" HD Táctil (1366 x 768)",
+          "Conectividad": "Wi-Fi 6 / Bluetooth",
+          "Puertos": "USB-C, USB-A, HDMI, Jack 3.5mm",
+          "Sistema Operativo": "Windows 11 Home"
+        }
+      },
+      {
+        "id": "dell-15-i7-1355u-16gb-1tb",
+        "name": "Laptop Dell 15.6'' Táctil Core i7-1355U 1TB",
+        "categoryKey": "13_laptops",
+        "categoryName": "Laptops",
+        "priceClient": 630,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "13_laptops/Laptop_Dell_15.6_16ram_1TB-removebg-preview.webp",
+        "descriptionShort": "Laptop de alta gama con procesador i7 de 13ra gen y 1TB de SSD. Potencia ideal para diseño, desarrollo y multitarea exigente en entornos profesionales.",
+        "descriptionLong": "La Dell de 15.6 pulgadas es una estación de trabajo móvil diseñada para el alto rendimiento. Con un procesador Intel i7 de 10 núcleos y 16GB de RAM, maneja con fluidez software profesional y procesos complejos. Su almacenamiento de 1TB y pantalla táctil WVA ofrecen una experiencia de usuario premium, versátil y extremadamente rápida.",
+        "points": [
+          "Procesador Intel Core i7 de 13ra generación con 10 núcleos para un desempeño de élite.",
+          "Memoria RAM de 16GB que garantiza fluidez total en multitarea y aplicaciones pesadas.",
+          "Amplio almacenamiento SSD de 1TB para acceso instantáneo a archivos y gran capacidad.",
+          "Pantalla táctil de 15.6 pulgadas con tecnología WVA para colores vivos e interacción ágil.",
+          "Conectividad Wi-Fi 6 que ofrece máxima estabilidad y velocidad en redes inalámbricas.",
+          "Chasis profesional en color negro con puertos USB-C y HDMI para alta compatibilidad."
+        ],
+        "specs": {
+          "Procesador": "Intel Core i7-1355U (Hasta 4.7 GHz)",
+          "Memoria RAM": "16GB DDR4",
+          "Almacenamiento": "1TB SSD PCIe",
+          "Pantalla": "15.6\" Full HD Táctil WVA",
+          "Conectividad": "Wi-Fi 6 / Bluetooth",
+          "Puertos": "1x USB-C, USB 3.2, HDMI, Jack 3.5mm",
+          "Sistema Operativo": "Windows 11 Home"
+        }
+      },
+      {
+        "id": "tcl-55-f35-4k-fire-tv",
+        "name": "TV TCL 55'' Class F35-Series 4K UHD",
+        "categoryKey": "11_tv",
+        "categoryName": "Televisores y Pantallas",
+        "priceClient": 415,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "11_tv/TCL_55_pulgadas-removebg-preview.webp",
+        "descriptionShort": "Smart TV 4K de 55 pulgadas con Fire TV y HDR PRO. Ideal para disfrutar de series, películas y videojuegos con alta calidad de imagen en Cuba.",
+        "descriptionLong": "El Smart TV TCL de 55 pulgadas combina la potencia de Fire TV con una resolución 4K HDR excepcional. Su diseño de metal sin marcos maximiza la visualización, mientras que tecnologías como Dolby Vision y Atmos transforman tu sala en un cine privado, ofreciendo una experiencia multimedia completa y fluida para el hogar moderno.",
+        "points": [
+          "Resolución 4K Ultra HD con HDR PRO para una nitidez y colores vibrantes en cada escena.",
+          "Plataforma Fire TV integrada que permite el acceso sencillo a aplicaciones y control por voz.",
+          "Sonido envolvente Dolby Atmos que proporciona una experiencia de audio inmersiva y realista.",
+          "Modo de Juego Automático (ALLM) para una respuesta instantánea y sin latencia en consolas.",
+          "Diseño metálico sin bordes que maximiza la inmersión visual y aporta elegancia a cualquier espacio.",
+          "Conectividad versátil con soporte para Apple AirPlay 2, Bluetooth y tres puertos HDMI con eARC."
+        ],
+        "specs": {
+          "Tamaño": "55 pulgadas",
+          "Resolución": "4K Ultra HD (3840 x 2160)",
+          "HDR": "Dolby Vision, HDR10, HLG",
+          "Audio": "Dolby Atmos",
+          "Sistema": "Fire TV con Alexa",
+          "Puertos": "3x HDMI (eARC), USB, Bluetooth, AirPlay 2",
+          "Diseño": "Bezel-less de metal"
+        }
+      },
+      {
+        "id": "toshiba-43-v35-fhd-fire-tv",
+        "name": "TV Toshiba 43'' Class V35 Series FHD",
+        "categoryKey": "11_tv",
+        "categoryName": "Televisores y Pantallas",
+        "priceClient": 310,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "11_tv/Toshiba_43_pulgadas-removebg-preview.webp",
+        "descriptionShort": "Smart TV de 43 pulgadas con resolución Full HD y Fire TV. Ideal para el entretenimiento familiar en Cuba con acceso a apps y bajo consumo energético.",
+        "descriptionLong": "El Smart TV Toshiba de 43 pulgadas combina la claridad de la resolución Full HD con la versatilidad de la plataforma Fire TV. Su diseño elegante con marcos delgados se integra en cualquier espacio, ofreciendo una experiencia visual detallada y un sonido envolvente de alta calidad, perfecto para disfrutar de contenidos en streaming con total fluidez.",
+        "points": [
+          "Resolución Full HD 1080p para imágenes nítidas y detalladas en cada escena.",
+          "Plataforma Fire TV integrada para acceso rápido a Netflix, YouTube y otras aplicaciones.",
+          "Diseño elegante y delgado con marco ultrafino que maximiza el área de visión.",
+          "Tecnología LED de alta eficiencia energética que reduce el consumo eléctrico en el hogar.",
+          "Sistema de sonido de alta calidad diseñado para complementar la experiencia de alta definición."
+        ],
+        "specs": {
+          "Tamaño": "43 pulgadas",
+          "Resolución": "Full HD (1920 x 1080)",
+          "Sistema Operativo": "Fire TV",
+          "Tecnología de pantalla": "LED",
+          "Conectividad": "Wi-Fi integrado",
+          "Año": "2025"
+        }
+      },
+      {
+        "id": "tcl-40-q35f-qled-fhd",
+        "name": "TV TCL 40'' Class Q35F Series QLED FHD",
+        "categoryKey": "11_tv",
+        "categoryName": "Televisores y Pantallas",
+        "priceClient": 235,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "11_tv/TCL_40_pulgadas-removebg-preview.webp",
+        "descriptionShort": "Televisor QLED de 40 pulgadas con resolución 1080p y Fire TV. Excelente opción para habitaciones y espacios pequeños con alta fidelidad de color.",
+        "descriptionLong": "El TCL Q35F eleva la experiencia visual en formato compacto gracias a su tecnología QLED, que ofrece colores más puros y brillantes. Con Fire TV integrado, brinda acceso directo a contenido en streaming y control por voz mediante Alexa, siendo una solución tecnológica eficiente y moderna para el hogar en Cuba.",
+        "points": [
+          "Tecnología QLED que proporciona una gama de colores más amplia, vibrante y realista.",
+          "Resolución Full HD 1080p para imágenes nítidas y detalladas en un formato de 40 pulgadas.",
+          "Plataforma Fire TV integrada que facilita el acceso a aplicaciones y canales de streaming.",
+          "Control por voz con Alexa para una gestión del contenido rápida e intuitiva.",
+          "Diseño elegante y minimalista ideal para dormitorios, oficinas o salas pequeñas."
+        ],
+        "specs": {
+          "Tamaño": "40 pulgadas",
+          "Resolución": "1080p Full HD",
+          "Tecnología": "QLED",
+          "Sistema Operativo": "Fire TV",
+          "Marca": "TCL",
+          "Año": "2025"
+        }
+      },
+      {
+        "id": "ventilador-recargable-f6-20000mah-negro",
+        "name": "Ventilador Recargable F6 20000 mAh",
+        "categoryKey": "05_ventilacion",
+        "categoryName": "Ventilación y Climatización",
+        "priceClient": 50,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "05_ventilacion/ventilador_F6-removebg-preview.webp",
+        "descriptionShort": "Ventilador portátil de alta autonomía con batería de 20,000 mAh y linterna. Solución ideal para apagones y uso en exteriores en toda Cuba.",
+        "descriptionLong": "El ventilador recargable F6 es un dispositivo multifuncional diseñado para ofrecer confort climático en condiciones críticas. Su masiva batería de 20,000 mAh garantiza horas de flujo de aire ininterrumpido, mientras que su sistema de oscilación automática y control remoto brindan una comodidad superior tanto en el hogar como en actividades de camping o emergencias.",
+        "points": [
+          "Batería de 20,000 mAh que asegura un funcionamiento prolongado durante fallos eléctricos.",
+          "Sistema de oscilación automática para una distribución eficiente del aire en espacios amplios.",
+          "Linterna LED integrada de alta intensidad para iluminación de emergencia en interiores o exteriores.",
+          "Control remoto incluido para ajustar las 4 velocidades y funciones de forma cómoda a distancia.",
+          "Diseño portátil con gancho para colgar, facilitando su uso en tiendas de campaña o habitaciones."
+        ],
+        "specs": {
+          "Capacidad de batería": "20,000 mAh",
+          "Velocidades": "4 niveles",
+          "Oscilación": "Automática",
+          "Funciones": "Linterna LED / Control remoto",
+          "Montaje": "De pie o con gancho colgante",
+          "Color": "Negro"
+        }
+      },
+      {
+        "id": "tecno-spark-go-2-256gb-negro",
+        "name": "Tecno Spark Go 2 256GB",
+        "categoryKey": "12_moviles",
+        "categoryName": "Móviles",
+        "priceClient": 160,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "12_moviles/Tecno-Spark-Go-2-4+4ram-removebg-preview.webp",
+        "descriptionShort": "Smartphone eficiente con 256GB de almacenamiento y pantalla de 120Hz. Perfecto para el trabajo diario, redes sociales y uso intensivo en Cuba.",
+        "descriptionLong": "El Tecno Spark Go 2 redefine la gama de entrada con un almacenamiento masivo de 256GB y una pantalla fluida de 120Hz. Es la opción ideal para quienes buscan un dispositivo confiable con Android 15, resistencia IP64 y un kit completo de accesorios que garantiza la protección de su inversión desde el primer día.",
+        "points": [
+          "Memoria interna de 256GB para guardar miles de fotos y aplicaciones sin límites.",
+          "Pantalla de 6.67 pulgadas con tasa de refresco de 120Hz para una fluidez visual superior.",
+          "Certificación IP64 que ofrece resistencia real ante el polvo y las salpicaduras de agua.",
+          "Batería de 5000 mAh que asegura autonomía prolongada para jornadas de trabajo completas.",
+          "Incluye kit de accesorios esenciales: cover protector, mica de pantalla y audífonos.",
+          "Sistema operativo Android 15 con las últimas actualizaciones de seguridad y rendimiento."
+        ],
+        "specs": {
+          "Procesador": "Unisoc T7250 Octa-core 1.8GHz",
+          "Memoria RAM": "4GB + 4GB Virtual (8GB Total)",
+          "Almacenamiento": "256GB",
+          "Pantalla": "6.67\" LCD IPS 120Hz",
+          "Cámaras": "Principal 13MP / Frontal 8MP",
+          "Batería": "5000 mAh Li-Po",
+          "Sistema Operativo": "Android 15",
+          "Protección": "IP64"
+        }
+      },
+      {
+        "id": "xiaomi-redmi-14c-128gb-verde",
+        "name": "Xiaomi Redmi 14C 128GB",
+        "categoryKey": "12_moviles",
+        "categoryName": "Móviles",
+        "priceClient": 140,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "12_moviles/Xiaomi-14C-4ram-removebg-preview.webp",
+        "descriptionShort": "Smartphone con pantalla fluida de 6.88'' a 120Hz. Ideal para redes sociales, estudios y navegación diaria con batería de gran autonomía en Cuba.",
+        "descriptionLong": "El Xiaomi Redmi 14C destaca por su gran panel inmersivo y el procesador MediaTek Helio G81 Ultra, ofreciendo un equilibrio perfecto entre rendimiento y eficiencia energética. Su cámara de 50MP permite capturar imágenes de alta calidad, mientras que su batería de 5160mAh asegura conectividad ininterrumpida durante las jornadas más exigentes.",
+        "points": [
+          "Pantalla de 6.88 pulgadas con tasa de refresco de 120Hz para una experiencia visual ultra fluida.",
+          "Cámara principal de 50MP con inteligencia artificial para fotografías nítidas y detalladas.",
+          "Batería de larga duración de 5160mAh compatible con carga rápida de 18W.",
+          "Procesador Helio G81 Ultra optimizado para un desempeño estable en aplicaciones cotidianas.",
+          "Incluye kit de protección completo con cover y mica para resguardar el dispositivo desde el primer uso.",
+          "Memoria RAM expandible hasta 8GB mediante tecnología virtual para mejorar la multitarea."
+        ],
+        "specs": {
+          "Procesador": "MediaTek Helio G81 Ultra",
+          "Memoria RAM": "4GB + 4GB Virtual",
+          "Almacenamiento": "128GB",
+          "Pantalla": "6.88\" LCD HD+ (120Hz)",
+          "Cámaras": "Trasera 50MP / Frontal 13MP",
+          "Batería": "5160mAh (Carga 18W)",
+          "SIM": "Dual SIM",
+          "Color": "Verde"
+        }
+      },
+      {
+        "id": "xiaomi-redmi-note-14-128gb",
+        "name": "Xiaomi Redmi Note 14 Versión Global",
+        "categoryKey": "12_moviles",
+        "categoryName": "Móviles",
+        "priceClient": 200,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "12_moviles/Xiaomi-redmi-note-14-removebg-preview.webp",
+        "descriptionShort": "Smartphone de alto nivel con pantalla AMOLED de 120Hz y cámara de 108MP. Potencia y elegancia para el usuario exigente en Cuba.",
+        "descriptionLong": "El Xiaomi Redmi Note 14 redefine la gama media con una impresionante pantalla AMOLED de 6.67 pulgadas y el eficiente procesador Helio G99. Su cámara principal de 108MP captura detalles asombrosos, mientras que su batería de 5500mAh y carga rápida aseguran un rendimiento ininterrumpido durante todo el día, ideal para fotografía y multitarea avanzada.",
+        "points": [
+          "Pantalla AMOLED de 6.67'' con resolución FHD+ y tasa de refresco de 120Hz para una fluidez total.",
+          "Cámara triple de alta resolución con sensor principal Samsung de 108MP para fotos profesionales.",
+          "Batería masiva de 5500mAh con soporte de carga rápida de 33W para mayor autonomía.",
+          "Sensor de huellas dactilares integrado directamente en pantalla para una seguridad moderna.",
+          "Certificación IP54 de resistencia al polvo y salpicaduras, protegida por Gorilla Glass 5.",
+          "Incluye kit completo de accesorios: cover, mica protectora y audífonos de alta calidad."
+        ],
+        "specs": {
+          "Procesador": "Mediatek Helio G99 (8 núcleos)",
+          "Memoria RAM": "6 GB",
+          "Almacenamiento": "128 GB",
+          "Pantalla": "6.67\" AMOLED FHD+ (120Hz)",
+          "Cámaras": "Trasera 108MP+2MP+3MP / Frontal 20MP",
+          "Batería": "5500mAh (Carga 33W)",
+          "Resistencia": "IP54",
+          "Sistema Operativo": "Android 14 / HyperOS"
+        }
+      },
+      {
+        "id": "xiaomi-redmi-a5-128gb",
+        "name": "Xiaomi Redmi A5 128GB",
+        "categoryKey": "12_moviles",
+        "categoryName": "Móviles",
+        "priceClient": 120,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "12_moviles/Xiaomi-A5-removebg-preview.webp",
+        "descriptionShort": "Smartphone económico con gran pantalla de 6.88'' y almacenamiento de 128GB. Ideal para comunicación diaria y redes sociales en el entorno de Cuba.",
+        "descriptionLong": "El Xiaomi Redmi A5 es la solución equilibrada para quienes buscan un dispositivo moderno y funcional a un precio accesible. Con su gran pantalla y batería de 5000 mAh, garantiza un rendimiento estable para el día a día, permitiendo disfrutar de contenidos multimedia y aplicaciones esenciales con fluidez bajo el sistema Android 15.",
+        "points": [
+          "Pantalla expansiva de 6.88 pulgadas para una visualización cómoda de videos y documentos.",
+          "Almacenamiento de 128GB expandible hasta 1TB, permitiendo guardar gran cantidad de archivos.",
+          "Memoria RAM gestionada de 8GB (4GB físicos + 4GB virtuales) para una multitarea más ágil.",
+          "Cámara principal de 32MP para capturar fotografías con nitidez y buen nivel de detalle.",
+          "Batería de 5000 mAh que asegura autonomía suficiente para jornadas completas de uso.",
+          "Sistema operativo Android 15 (Edición Go) optimizado para un uso fluido y eficiente."
+        ],
+        "specs": {
+          "Procesador": "UNISOC T7250",
+          "Memoria RAM": "4GB + 4GB Virtual",
+          "Almacenamiento": "128GB (MicroSD hasta 1TB)",
+          "Pantalla": "6.88\" HD+",
+          "Cámaras": "Principal 32MP / Frontal 8MP",
+          "Batería": "5000 mAh (Carga 15W)",
+          "Sistema Operativo": "Android 15 (Go Edition)",
+          "Conectividad": "4G LTE / Dual SIM"
+        }
+      },
+      {
+        "id": "xiaomi-15c-128gb-negro",
+        "name": "Xiaomi 15C 128GB",
+        "categoryKey": "12_moviles",
+        "categoryName": "Móviles",
+        "priceClient": 150,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "12_moviles/Xiaomi-15-C-6ram-removebg-preview.webp",
+        "descriptionShort": "Smartphone con batería de 6000 mAh y pantalla de 120Hz. Potencia y autonomía ideal para el uso diario, redes sociales y trabajo en toda Cuba.",
+        "descriptionLong": "El Xiaomi 15C está diseñado para ofrecer una experiencia fluida y duradera. Equipado con una batería de 6000 mAh y carga rápida de 33W, garantiza días de uso sin preocupaciones. Su procesador Helio G81-Ultra y la pantalla de 120Hz lo convierten en una herramienta potente para la productividad y el entretenimiento móvil.",
+        "points": [
+          "Batería masiva de 6000 mAh que ofrece hasta dos días de autonomía con uso moderado.",
+          "Carga rápida de 33W que permite alcanzar el 50% de energía en solo 31 minutos.",
+          "Pantalla expansiva de 6.9 pulgadas con 120Hz para una fluidez visual excepcional.",
+          "Cámara principal de 50MP con IA para capturar fotografías nítidas y detalladas.",
+          "Certificación IP64 de resistencia al polvo y salpicaduras para mayor durabilidad.",
+          "Sistema operativo HyperOS 2 con asistente de IA Gemini integrado para máxima productividad."
+        ],
+        "specs": {
+          "Procesador": "MediaTek Helio G81-Ultra",
+          "Memoria RAM": "6GB + 6GB Virtual",
+          "Almacenamiento": "128GB",
+          "Pantalla": "6.9\" AdaptiveSync 120Hz",
+          "Batería": "6000 mAh (Carga 33W)",
+          "Cámaras": "Trasera 50MP / Frontal 8MP",
+          "Protección": "IP64",
+          "Sistema": "HyperOS 2"
+        }
+      },
+      {
+        "id": "xiaomi-15c-256gb-negro",
+        "name": "Xiaomi 15C 256GB",
+        "categoryKey": "12_moviles",
+        "categoryName": "Móviles",
+        "priceClient": 175,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "12_moviles/Xiaomi-15-C-8ram-removebg-preview.webp",
+        "descriptionShort": "Smartphone potente con 256GB de almacenamiento y batería de 6000 mAh. Ideal para multitarea pesada, redes sociales y uso intensivo en toda Cuba.",
+        "descriptionLong": "El Xiaomi 15C de 256GB es la opción definitiva para quienes buscan rendimiento y espacio masivo. Con 16GB de RAM gestionada y un procesador Helio G81-Ultra, ofrece una fluidez superior. Su gran batería de 6000 mAh con carga rápida de 33W y tecnología NFC lo convierten en un dispositivo versátil para el día a día profesional.",
+        "points": [
+          "Memoria RAM total de 16GB (8GB físicos + 8GB virtuales) para un rendimiento fluido en multitarea.",
+          "Almacenamiento interno masivo de 256GB ampliable mediante microSD para todas tus aplicaciones.",
+          "Batería de larga duración de 6000 mAh con soporte de carga rápida de 33W para uso constante.",
+          "Pantalla expansiva de 6.9 pulgadas FHD+ protegida con cristal Gorilla Glass 3 contra rayones.",
+          "Cámara principal de 50MP con apertura f/1.8 y sensor ultra gran angular de 5MP para fotos nítidas.",
+          "Conectividad avanzada que incluye tecnología NFC para transferencias rápidas y Bluetooth 5.2."
+        ],
+        "specs": {
+          "Procesador": "MediaTek Helio G81-Ultra (8 núcleos)",
+          "Memoria RAM": "8GB + 8GB Virtual (16GB Total)",
+          "Almacenamiento": "256GB (Ampliable con microSD)",
+          "Pantalla": "6.9\" FHD+ (Gorilla Glass 3)",
+          "Cámaras": "Trasera 50MP + 5MP / Frontal 13MP",
+          "Batería": "6000 mAh (Carga 33W)",
+          "Conectividad": "NFC, Bluetooth 5.2, 4G LTE",
+          "Sistema Operativo": "Android 13 + MIUI 14"
+        }
+      },
+      {
+        "id": "samsung-galaxy-a07-64gb",
+        "name": "Samsung Galaxy A07 64GB",
+        "categoryKey": "12_moviles",
+        "categoryName": "Móviles",
+        "priceClient": 125,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "12_moviles/galaxy_a07_64gb-removebg-preview.webp",
+        "descriptionShort": "Smartphone Samsung con cámara de 50MP y conectividad 4G. Ideal para estudiantes y profesionales en Cuba que buscan un equipo duradero y eficiente.",
+        "descriptionLong": "El Samsung Galaxy A07 es la opción perfecta para quienes buscan la calidad de una marca líder a un precio accesible. Con su potente cámara de 50MP y batería optimizada, garantiza capturar momentos con nitidez y mantener la conectividad durante toda la jornada. Su diseño moderno y sistema Android lo convierten en un equipo confiable para el día a día.",
+        "points": [
+          "Cámara principal de 50MP que captura imágenes con gran detalle y claridad.",
+          "Memoria RAM de 4GB para un rendimiento fluido en aplicaciones de mensajería y redes sociales.",
+          "Almacenamiento interno de 64GB ideal para aplicaciones, fotos y documentos de estudio.",
+          "Conectividad 4G LTE y soporte Dual SIM para gestionar dos líneas telefónicas simultáneamente.",
+          "Puerto USB tipo C para una carga más rápida y transferencia de datos eficiente.",
+          "Diseño ergonómico disponible en colores modernos como verde, morado y negro."
+        ],
+        "specs": {
+          "Cámara Trasera": "50MP",
+          "Cámara Frontal": "8MP",
+          "RAM": "4 GB",
+          "Almacenamiento": "64 GB",
+          "Sistema Operativo": "Android",
+          "Red": "4G LTE / Dual SIM",
+          "Puerto": "USB Tipo C"
+        }
+      },
+      {
+        "id": "samsung-galaxy-a16-128gb",
+        "name": "Samsung Galaxy A16 128GB",
+        "categoryKey": "12_moviles",
+        "categoryName": "Móviles",
+        "priceClient": 170,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "12_moviles/Galaxy_a16-removebg-preview.webp",
+        "descriptionShort": "Smartphone Samsung con pantalla Super AMOLED de 90Hz y cámara de 50MP. Un equipo equilibrado y duradero para la comunicación y el trabajo diario en Cuba.",
+        "descriptionLong": "El Samsung Galaxy A16 ofrece una experiencia visual superior gracias a su panel Super AMOLED de 6.7 pulgadas con 90Hz de fluidez. Equipado con el procesador Helio G99 y una batería de 5000 mAh, garantiza un rendimiento estable y duradero para redes sociales y productividad diaria, manteniendo la calidad y el diseño confiable característico de Samsung.",
+        "points": [
+          "Pantalla Super AMOLED de 6.7 pulgadas con resolución FHD+ para colores vibrantes y negros puros.",
+          "Tasa de refresco de 90Hz que proporciona una navegación fluida por menús y aplicaciones.",
+          "Cámara principal de 50MP con apertura f/1.8 ideal para capturar fotos nítidas en diversas condiciones.",
+          "Batería masiva de 5000 mAh con soporte para carga rápida de 25W, perfecta para uso intensivo.",
+          "Procesador MediaTek Helio G99 que asegura un desempeño confiable en tareas múltiples y juegos ligeros.",
+          "Diseño moderno con conectividad 4G LTE y soporte Dual SIM para gestionar dos líneas telefónicas."
+        ],
+        "specs": {
+          "Procesador": "MediaTek Helio G99",
+          "Memoria RAM": "4 GB",
+          "Almacenamiento": "128 GB",
+          "Pantalla": "6.7\" Super AMOLED FHD+ (90Hz)",
+          "Cámaras": "Trasera 50MP + 2MP / Frontal 13MP",
+          "Batería": "5000 mAh (Carga 25W)",
+          "SIM": "Dual SIM",
+          "Color": "Gris"
+        }
+      },
+      {
+        "id": "samsung-galaxy-a17",
+        "name": "Samsung Galaxy A17",
+        "categoryKey": "12_moviles",
+        "categoryName": "Móviles",
+        "priceClient": 200,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "12_moviles/galaxy-A17-removebg-preview.webp",
+        "descriptionShort": "Smartphone Samsung de última generación con pantalla fluida y gran autonomía. Ideal para redes sociales, mensajería y el uso diario en toda Cuba.",
+        "descriptionLong": "El Samsung Galaxy A17 llega para ofrecer una experiencia móvil equilibrada y potente. Con el respaldo de la calidad Samsung, este dispositivo garantiza un rendimiento fluido en aplicaciones cotidianas y navegación, convirtiéndose en una inversión segura para quienes buscan durabilidad, diseño moderno y un sistema operativo actualizado.",
+        "points": [
+          "Pantalla de alta resolución con colores vibrantes para una experiencia visual inmersiva.",
+          "Batería de larga duración diseñada para resistir jornadas intensas de uso continuo.",
+          "Sistema de cámaras versátil para capturar fotos nítidas y videos de alta calidad.",
+          "Conectividad 4G LTE optimizada para un rendimiento estable en redes locales.",
+          "Diseño ergonómico y elegante que facilita el uso diario y un agarre seguro."
+        ],
+        "specs": {}
+      },
+      {
+        "id": "samsung-galaxy-a07-128gb",
+        "name": "Samsung Galaxy A07 128GB",
+        "categoryKey": "12_moviles",
+        "categoryName": "Móviles",
+        "priceClient": 135,
+        "status": "En stock",
+        "featured": false,
+        "imageFilename": "12_moviles/galaxy_a07_128gb-removebg-preview.webp",
+        "descriptionShort": "Smartphone Samsung con 128GB de almacenamiento y cámara de 50MP. Pantalla de 6.7'' ideal para el uso diario, estudios y redes sociales en toda Cuba.",
+        "descriptionLong": "El Samsung Galaxy A07 es la opción equilibrada para quienes buscan espacio y calidad de imagen. Con 128GB de almacenamiento y una pantalla HD+ expansiva, este equipo permite gestionar aplicaciones de estudio y trabajo con total comodidad. Su cámara de 50MP y batería optimizada aseguran una experiencia móvil confiable y moderna.",
+        "points": [
+          "Almacenamiento masivo de 128GB ampliable hasta 1TB para guardar todas tus fotos y archivos.",
+          "Pantalla PLS LCD de 6.7 pulgadas con resolución HD+ que ofrece una visualización ultra ancha.",
+          "Cámara principal de 50MP con enfoque automático para capturar imágenes profesionales con claridad.",
+          "Sensor de huellas dactilares integrado para una seguridad avanzada y acceso rápido al dispositivo.",
+          "Conectividad 4G LTE y soporte Dual SIM para gestionar dos líneas telefónicas de forma independiente.",
+          "Puerto USB tipo C y conector jack 3.5mm para máxima compatibilidad con accesorios."
+        ],
+        "specs": {
+          "Pantalla": "6.7\" PLS LCD HD+",
+          "Procesador": "Octa-Core",
+          "Memoria RAM": "4 GB",
+          "Almacenamiento": "128 GB (Expandible hasta 1TB)",
+          "Cámaras": "Trasera 50MP / Frontal 8MP",
+          "Seguridad": "Sensor de huellas dactilares",
+          "Conectividad": "4G LTE / Dual SIM / Wi-Fi Dual Band",
+          "Puertos": "USB Tipo C / Jack 3.5mm"
+        }
+      }
+    
+  ]

@@ -52,7 +52,7 @@ Energía, refrigeración y climatización.
             <div className="space-y-1 text-xs text-zinc-500">
               <p>Stock verificado. Precios claros. Entrega coordinada por WhatsApp.</p>
               <p className="text-zinc-600">
-                Operamos como catálogo serio.
+              Atención directa por whatsapp.
               </p>
             </div>
           </div>

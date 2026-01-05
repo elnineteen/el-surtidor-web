@@ -56,6 +56,14 @@ const CATEGORY_TAGS: Record<
     label: "Entretenimiento & presencia",
     hint: "Pantallas para sala, cuarto o negocio.",
   },
+  "12_moviles": {
+    label: "Móviles",
+    hint: "Teléfonos para trabajo, estudio y uso diario en Cuba."
+  },
+  "13_laptops": {
+    label: "Laptops",
+    hint: "Portátiles funcionales para estudiar, trabajar y emprender."
+  },
 };
 
 export default function CategoriesPage() {
@@ -82,10 +90,7 @@ export default function CategoriesPage() {
                   </span>
                 </h1>
                 <p className="max-w-2xl text-sm text-zinc-400 md:text-[13px]">
-                  Aquí no hay “relleno”. Cada bloque existe porque resuelve algo
-                  concreto: apagones, calor, frío para alimentos, agua,
-                  negocio, seguridad o confort. Entra directo a la categoría que
-                  se parece más a lo que tienes delante ahora mismo.
+                Cada categoría responde a una necesidad concreta. Entra directo a resolver.
                 </p>
               </div>
 
@@ -240,4 +245,4 @@ export default function CategoriesPage() {
       </section>
     </main>
   );
-}
+} 

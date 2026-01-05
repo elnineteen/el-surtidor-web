@@ -26,14 +26,13 @@ export default function HomePage() {
                 Áreas del catálogo
               </p>
               <h2 className="text-xl font-semibold tracking-tight text-zinc-50 md:text-2xl">
-                Energía, frío, agua y algo más,
+                Aquí no navegas , resuelves.
                 <br />
                 <span className="text-zinc-300">todo organizado por problema real.</span>
               </h2>
               <p className="max-w-xl text-sm text-zinc-400 md:text-[13px]">
-                En vez de perderte en un listado infinito, arrancas por el
-                problema que tienes hoy: apagones, falta de agua, calor,
-                negocio, seguridad. Luego entras a ver los modelos.
+              Empieza por el problema. Nosotros nos encargamos del resto.
+Apagones, agua, frío, cocina o negocio: seleccionamos las opciones que realmente funcionan y te llevamos directo a ellas.
               </p>
             </div>
 

@@ -28,14 +28,12 @@ export function Footer() {
             </div>
 
             <p className="max-w-sm text-[12px] text-zinc-500 md:text-[13px]">
-              Catálogo pensado para la realidad cubana: apagones, calor,
-              agua, negocio y seguridad. Sin humo, sin letra pequeña: equipos
-              reales, coordinados por WhatsApp.
+            En El Surtidor seleccionamos y coordinamos equipos reales para hogares y negocios en Cuba.
             </p>
 
             <div className="inline-flex items-center gap-2 rounded-full border border-zinc-800 bg-zinc-950 px-3 py-1.5 text-[11px] text-zinc-500">
               <span className="h-1.5 w-1.5 rounded-full bg-[#E9B858] shadow-[0_0_10px_rgba(233,184,88,0.7)]" />
-              Catálogo en beta · Actualizado manualmente
+              Catálogo Actualizado 
             </div>
           </div>
 
@@ -70,7 +68,7 @@ export function Footer() {
               </p>
               <p className="text-[11px] text-zinc-600">
                 *Para otras provincias, revisamos caso a caso según el equipo y
-                el proveedor.
+                ruta.
               </p>
             </div>
 
@@ -89,8 +87,7 @@ export function Footer() {
         {/* LÍNEA INFERIOR */}
         <div className="flex flex-col gap-2 border-t border-zinc-900 pt-4 text-[11px] text-zinc-500 md:flex-row md:items-center md:justify-between">
           <p>
-            © {new Date().getFullYear()} El Surtidor. Catálogo privado, no es
-            una tienda online automatizada.
+            © {new Date().getFullYear()} El Surtidor.
           </p>
           <p className="text-zinc-600">
             Si ves algún precio raro o falta de info, mejor{" "}

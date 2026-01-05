@@ -11,7 +11,7 @@ export const CATEGORIES: Category[] = [
   {
     key: "01_estaciones_generadores",
     name: "Estaciones de Energía y Generadores",
-    description: "Energía estable cuando el país decide apagarse.",
+    description: "Respaldo energético confiable para hogares y negocios.",
     shortLabel: "Apagones · Respaldo de energía",
   },
   {
@@ -23,7 +23,7 @@ export const CATEGORIES: Category[] = [
   {
     key: "03_lavadoras",
     name: "Lavadoras y Otras Máquinas",
-    description: "Lavado simple y constante, sin inventos ni sorpresas.",
+    description: "Lavado simple y constante.",
     shortLabel: "Ropa limpia sin sufrir",
   },
   {
@@ -59,7 +59,7 @@ export const CATEGORIES: Category[] = [
   {
     key: "09_exhibidoras_industrial",
     name: "Exhibidoras, Heladeras y Equipos Industriales",
-    description: "Frío comercial continuo para negocios que necesitan estabilidad.",
+    description: "Frío comercial para negocios que necesitan estabilidad.",
     shortLabel: "Negocios y vitrinas",
   },
   {
@@ -71,8 +71,20 @@ export const CATEGORIES: Category[] = [
   {
     key: "11_tv",
     name: "Televisores y Pantallas",
-    description: "Imagen limpia, sonido claro y presencia en cualquier espacio.",
+    description: "Imagen limpia y  sonido claro.",
     shortLabel: "Pantallas y TV",
+  },
+  {
+    key: "12_moviles",
+    name: "Móviles",
+    description: "Teléfonos seleccionados para trabajo y uso diario, con disponibilidad y precios claros.",
+    shortLabel: "Teléfonos",
+  },
+  {
+    key: "13_laptops",
+    name: "Laptops",
+    description: "Portátiles para estudio, trabajo y negocio. Modelos funcionales con opciones reales en Cuba.",
+    shortLabel: "Computación",
   },
 ];
 

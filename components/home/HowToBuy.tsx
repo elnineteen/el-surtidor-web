@@ -37,34 +37,34 @@ export function HowToBuy() {
               Cómo se compra aquí
             </p>
             <h2 className="text-2xl font-semibold tracking-tight text-zinc-50 md:text-[1.6rem]">
-              Un catálogo serio, pensado para la logística real de Cuba.
+            El Surtidor , una forma de comprar pensada para Cuba.
             </h2>
             <p className="max-w-xl text-sm text-zinc-400 md:text-[13px]">
-              No jugamos a “tienda online” que no existe. Aquí ves equipos
-              reales, hablas con una persona real y cierras por WhatsApp, con
-              información clara antes de mover un dólar.
+            En El Surtidor no compras a ciegas ni haces checkouts vacíos.
+Aquí eliges un equipo real, hablas con una persona real y cierras con información clara antes de pagar.
             </p>
 
             <div className="grid gap-3 text-xs text-zinc-400 md:text-[13px]">
               <div className="flex items-center gap-2">
                 <span className="h-1.5 w-1.5 rounded-full bg-[#E9B858] shadow-[0_0_10px_rgba(233,184,88,0.7)]" />
                 <p>
-                  <span className="text-zinc-200">Sin carritos vacíos:</span>{" "}
-                  todo se confirma por chat, no por formularios rotos.
+                  <span className="text-zinc-200">Atención directa, no formularios:</span>{" "}
+                  Cada compra se coordina por WhatsApp: stock, precio final y opciones reales según tu caso.
                 </p>
               </div>
               <div className="flex items-center gap-2">
                 <span className="h-1.5 w-1.5 rounded-full bg-[#E9B858] shadow-[0_0_10px_rgba(233,184,88,0.7)]" />
                 <p>
-                  <span className="text-zinc-200">Precios vivos:</span> los
-                  montos se revisan al momento según proveedor y stock.
+                  <span className="text-zinc-200"> Precios claros :</span> 
+                  Los montos se validan según proveedor y disponibilidad.
+                  
                 </p>
               </div>
               <div className="flex items-center gap-2">
                 <span className="h-1.5 w-1.5 rounded-full bg-[#E9B858] shadow-[0_0_10px_rgba(233,184,88,0.7)]" />
                 <p>
-                  <span className="text-zinc-200">Entrega con contexto:</span>{" "}
-                  no prometemos lo que no se puede cumplir en tu municipio.
+                  <span className="text-zinc-200">Entrega explicada, no prometida.:</span>{" "}
+                  Te decimos qué llega, cuándo y cómo, según tu municipio y el tipo de equipo.
                 </p>
               </div>
             </div>
@@ -112,12 +112,12 @@ export function HowToBuy() {
                 <span className="text-zinc-400">La Habana*</span>
               </p>
               <p className="mt-2">
-                Pagos coordinados por WhatsApp según cada caso (MLC, CUP, Zelle,
-                etc., según proveedor).
+                Pagos coordinados por WhatsApp según cada caso (USD,MLC, CUP, Zelle,
+                etc.,).
               </p>
               <p className="mt-2 text-zinc-600">
                 *Para otras provincias, revisamos posibilidad según equipo,
-                ruta y proveedor.
+                ruta.
               </p>
             </div>
           </aside>

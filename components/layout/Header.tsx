@@ -30,7 +30,7 @@ export function Header() {
           <HeaderNavLink href="/categorias">Categorías</HeaderNavLink>
           <HeaderNavLink href="/buscar">Buscar</HeaderNavLink>
           <HeaderNavLink href="/#destacados">Destacados</HeaderNavLink>
-          <HeaderNavLink href="/#mini-catalogo">Vista rápida</HeaderNavLink>
+          <HeaderNavLink href="/#catalogo-rapido">Vista rápida</HeaderNavLink>
         </nav>
 
         {/* ACCIONES DERECHA */}

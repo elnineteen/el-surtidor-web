@@ -33,16 +33,13 @@ export default function ComoComprarPage() {
                   </span>
                 </h1>
                 <p className="max-w-xl text-sm text-zinc-400 md:text-[13px]">
-                  No somos una “tienda online” de mentira con carrito roto.
-                  Funcionamos como un catálogo serio: ves el equipo, nos
-                  escribes por WhatsApp, confirmamos realidad y cerramos con
-                  condiciones claras.
+                Un proceso claro para elegir equipos reales, con información verificada y cierre directo por WhatsApp.
                 </p>
               </div>
 
               <div className="inline-flex items-center gap-2 rounded-full border border-zinc-800 bg-black/70 px-3 py-1 text-[11px] text-zinc-400">
                 <span className="h-1.5 w-1.5 rounded-full bg-[#E9B858] shadow-[0_0_12px_rgba(233,184,88,0.9)]" />
-                <span>Catálogo verificado · Coordinamos todo por WhatsApp</span>
+                <span>Catálogo actualizado · Coordinamos todo por WhatsApp</span>
               </div>
             </div>
 
@@ -80,7 +77,7 @@ export default function ComoComprarPage() {
         <Container className="space-y-6 md:space-y-7">
           <div className="space-y-2">
             <h2 className="text-lg font-semibold tracking-tight text-zinc-50 md:text-xl">
-              Los 4 pasos, sin cuento.
+              Los 4 pasos .
             </h2>
             <p className="max-w-2xl text-sm text-zinc-400 md:text-[13px]">
               El proceso es siempre el mismo, tanto si es una estación EcoFlow
@@ -99,7 +96,7 @@ export default function ComoComprarPage() {
               {
                 step: "02",
                 title: "Nos mandas el equipo",
-                text: "Cuando algo te interese, nos mandas captura o enlace por WhatsApp. Sin formularios ni inventos.",
+                text: "Cuando algo te interese, nos mandas captura o enlace por WhatsApp. ",
               },
               {
                 step: "03",
@@ -136,12 +133,11 @@ export default function ComoComprarPage() {
         <Container className="space-y-7 md:space-y-8">
           <div className="space-y-2">
             <h2 className="text-lg font-semibold tracking-tight text-zinc-50 md:text-xl">
-              Pagos, cobertura y lo que se habla claro.
+              Pagos claros y logística real.
             </h2>
             <p className="max-w-2xl text-sm text-zinc-400 md:text-[13px]">
-              No todos los equipos tienen las mismas condiciones. Por eso no
-              hay “pagar ahora” automático: primero te mostramos bien el equipo
-              y luego hablamos como personas.
+              La Habana es la base principal. Para otras provincias , evaluamos cada caso según equipo y logística disponible.
+            
             </p>
           </div>
 
@@ -157,7 +153,7 @@ export default function ComoComprarPage() {
                 con opciones para otras zonas.
               </p>
               <p className="text-xs text-zinc-400 md:text-[13px]">
-                Dependiendo del equipo y el proveedor, se pueden coordinar
+                Dependiendo del equipo  se pueden coordinar
                 entregas fuera de La Habana. Eso siempre se ve caso a caso por
                 WhatsApp.
               </p>
@@ -169,12 +165,12 @@ export default function ComoComprarPage() {
                 Formas de pago
               </p>
               <p className="text-sm font-semibold text-zinc-100">
-                MLC, CUP, y opciones externas
-                <span className="text-zinc-300"> según proveedor.</span>
+                USD , ZELLE , MLC, CUP, y opciones externas
+                <span className="text-zinc-300"> según disponibilidad.</span>
               </p>
               <p className="text-xs text-zinc-400 md:text-[13px]">
                 Algunos equipos aceptan Zelle u otras vías externas; otros, solo
-                pagos locales. Siempre lo dejamos claro antes de que hagas
+                pagos locales en efectivo . Siempre lo dejamos claro antes de que hagas
                 cualquier movimiento de dinero.
               </p>
             </div>
@@ -185,14 +181,11 @@ export default function ComoComprarPage() {
                 Transparencia
               </p>
               <p className="text-sm font-semibold text-zinc-100">
-                Sin letra pequeña,
-                <span className="text-zinc-300"> sin “ya casi llega”.</span>
+                Todo se habla claro,
+                <span className="text-zinc-300"> antes de cerrar.</span>
               </p>
               <p className="text-xs text-zinc-400 md:text-[13px]">
-                Si un equipo no está, lo decimos. Si el precio cambió, lo
-                decimos. Si no hay forma lógica de llegar a tu zona, también te
-                lo decimos. Preferimos perder una venta que hacerte perder
-                tiempo y dinero.
+                Si un equipo no está disponible , lo decimos. Preferimos perder una venta que tu tiempo o tu dinero.
               </p>
             </div>
           </div>
